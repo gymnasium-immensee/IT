@@ -7,14 +7,14 @@
 * [Unicode Charts](https://www.unicode.org/charts/)
 
  
-[* Scratch | Umrechner Dezimal- in Binärzahlen](https://scratch.mit.edu/projects/227035991/)
-[* Tutorial von OrangeOnBlack (Youtube)](https://www.youtube.com/watch?v=vRgNi2zqUgA)
+* [Scratch | Umrechner Dezimal- in Binärzahlen](https://scratch.mit.edu/projects/227035991/)
+* [Tutorial von OrangeOnBlack (Youtube)](https://www.youtube.com/watch?v=vRgNi2zqUgA)
 * [Binary Numbers Game](https://games.penjee.com/binary-numbers-game/)
 * [Binary Bonanza](https://games.penjee.com/binary-bonanza/)
 * [The Binary Game](https://studio.code.org/projects/applab/iukLbcDnzqgoxuu810unLw)
 
  
-* [WolframAlpha](https://www.wolframalpha.com/); Beispielabfragen: where am I? | generate password | password strength 123456 | 255 in binary | 16 in hex
+ * [WolframAlpha](https://www.wolframalpha.com/); Beispielabfragen: where am I?; generate password; password strength 123456; 255 in binary; 16 in hex
 
 
 ## Computer/Daten
