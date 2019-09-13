@@ -1,5 +1,3 @@
-# IT-Tipps
-
 ## 🎹 ASCII/Unicode-Zeichen einfügen:
 Windows:
 Windows + .
@@ -8,7 +6,7 @@ Unicode-Code + Alt + X
 Mac: ⌃ + ⌘ + Leertaste
 
 ## `\` Backslash tippen
-Windows & Linux: AltGr < (rechts von ⇧)
+Windows & Linux: `AltGr` `<` (rechts von `⇧)
 Mac: ⌥ ⇧ 7
 
 ## 🖥 Am eigenen Computer die Hardware Komponenten anzeigen
