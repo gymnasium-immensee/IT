@@ -32,7 +32,7 @@
 1. Benutzername: `gyim\vorname.nachname`
 1. Passwort: das Office365 Passwort vom blauen Blatt
 
-## ☁️Teams via OneDrive mit dem eigenen Computer synchronisieren
+## ☁️Teams-Dateien mit dem eigenen Computer synchronisieren
 1. «OneDrive» installieren: [Windows](https://www.microsoft.com/en-us/p/onedrive/9wzdncrfj1p3) / [MacOS](https://apps.apple.com/us/app/onedrive/id823766827)
 1. Im gewünschten Teams zum Reiter «Dateien» / «Files» gehen
 1. «In Sharepoint öffnen» klicken
