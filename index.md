@@ -12,7 +12,7 @@
 ## 🖥 Am eigenen Computer die Hardware Komponenten anzeigen
 * Windows: Systemsteuerung > System
 * Mac: Apfel (links oben) > Über diesen Mac
-* Linux: Systemsteuerung > Details (mehr Details mit `sudo apt-get install hardinfo)
+* Linux: Systemsteuerung > Details (mehr Details mit `sudo apt-get install hardinfo`)
 
 ## 📸 Bildschirmfoto erstellen
 * Windows: `PrtScn` oder `Windows` `⇧` `S`  oder mit «Snipping Tool» oder «Snip & Sketch»
