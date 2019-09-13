@@ -1,13 +1,13 @@
 ## 🎹 ASCII/Unicode-Zeichen einfügen:
 Windows:
-Windows + .
-Alt halten + ASCII-Code
-Unicode-Code + Alt + X
-Mac: ⌃ + ⌘ + Leertaste
+* `Windows` `.`
+* `Alt` halten + ASCII-Code
+* Unicode-Code + `Alt` `X`
+Mac: `⌃` `⌘` `Leertaste`
 
 ## `\` Backslash tippen
-Windows & Linux: `AltGr` `<` (rechts von `⇧)
-Mac: ⌥ ⇧ 7
+Windows & Linux: `AltGr` `<` (rechts von `⇧`)
+Mac: `⌥` `⇧` `7`
 
 ## 🖥 Am eigenen Computer die Hardware Komponenten anzeigen
 Windows: Systemsteuerung > System
