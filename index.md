@@ -1,4 +1,4 @@
-# IT-Tipps
+# Tipps
 
 ## 🎹 Emoji oder andere Spezial-Zeichen einfügen:
 * Windows: `Windows` `.` oder [mehr Möglichkeiten](https://support.office.com/de-de/article/Einf%C3%BCgen-von-ASCII-und-Unicode-Symbolen-oder-Zeichen-westliche-Sprachen-d13f58d3-7bcb-44a7-a4d5-972ee12e50e0)
