@@ -16,7 +16,7 @@
 
 ## 📸 Bildschirmfoto erstellen
 * Windows: `PrtScn` oder `Windows` `⇧` `S`  oder mit «Snipping Tool» oder «Snip & Sketch»
-* [Mac](https://support.apple.com/de-ch/HT201361): `⌘` `⇧` `5` oder mit «Screenshot» oder direkt in die Zwischenablage aufnehmen: `⌃` `⌘` `⇧` `3`(Bildschirm) / `⌃` `⌘` `⇧` `4`(Ausschnitt)
+* [Mac](https://support.apple.com/de-ch/HT201361): `⌘` `⇧` `5` oder mit «Screenshot» oder direkt in die Zwischenablage aufnehmen:<br>`⌃` `⌘` `⇧` `3` (Bildschirm) / `⌃` `⌘` `⇧` `4` (Ausschnitt)
 * Linux: `PrtScn` oder mit «Screenshot»
 
 ## 🌐 Sich mit TEACHERSTUFF-Laufwerk verbinden
