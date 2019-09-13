@@ -41,6 +41,6 @@
 
 ## 💾 Backup-Tools
 * Windows: [Dateiversionsverlauf](https://support.microsoft.com/de-de/help/17128/windows-8-file-history)
-* [Mac: Time Machine](https://support.apple.com/de-de/HT201250)
+* Mac: [Time Machine](https://support.apple.com/de-de/HT201250)
 * Linux: [rsync](https://de.wikipedia.org/wiki/Rsync)
 * iOS: [iCloud](https://support.apple.com/de-de/HT203977)
