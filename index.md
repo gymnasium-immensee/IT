@@ -49,3 +49,8 @@
 * Mac: [Time Machine](https://support.apple.com/de-de/HT201250)
 * Linux: [rsync](https://de.wikipedia.org/wiki/Rsync)
 * [iOS](https://support.apple.com/de-de/HT203977)
+
+## ⌨️ Weitere Tastaturkurzbefehle
+* [Windows](https://support.microsoft.com/de-ch/help/12445/windows-keyboard-shortcuts)
+* [Mac](https://support.apple.com/de-ch/HT201236)
+* [Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
