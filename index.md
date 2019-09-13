@@ -11,12 +11,12 @@
 
 ## 🖥 Am eigenen Computer die Hardware Komponenten anzeigen
 * Windows: Systemsteuerung > System
-* macOS: Apfel (links oben) > Über diesen Mac
-* Linux: Systemsteuerung > Details (mehr Details mit sudo apt-get install hardinfo)
+* Mac: Apfel (links oben) > Über diesen Mac
+* Linux: Systemsteuerung > Details (mehr Details mit `sudo apt-get install hardinfo)
 
 ## 📸 Bildschirmfoto erstellen
 * Windows: `PrtScn` oder `Windows` `⇧` `S`  oder mit «Snipping Tool» oder «Snip & Sketch»
-* MacOS: `⌘` `⇧` `5` oder mit «Screenshot»
+* Mac: `⌘` `⇧` `5` oder mit «Screenshot»
 * Linux: `PrtScn` oder mit «Screenshot»
 
 ## 🌐 Sich mit TEACHERSTUFF-Laufwerk verbinden
