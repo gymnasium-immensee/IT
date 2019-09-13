@@ -19,7 +19,7 @@
 * MacOS: `⌘` `⇧` `5` oder mit «Screenshot»
 * Linux: `PrtScn` oder mit «Screenshot»
 
-## 🌐 TEACHERSTUFF-Laufwerk in eigenem Dateisystem anzeigen (nur im Schul-WLAN)
+## 🌐 Sich mit TEACHERSTUFF-Laufwerk verbinden (nur im Schul-WLAN)
 * Windows: `\\srvdc01.gyim.local\TEACHERSTUFF` im Explorer (≠ Internet Explorer) eingeben
 * Mac: `⌘` `K` + `smb://srvdc01.gyim.local/TEACHERSTUFF`
 * Linux: `smb://srvdc01.gyim.local/TEACHERSTUFF` bei Serveradresse eingeben.
