@@ -45,10 +45,16 @@
 1. Gewünschte Ordner wählen: [Windows](https://support.office.com/de-de/article/synchronisieren-von-sharepoint-dateien-mit-dem-neuen-onedrive-synchronisierungsclient-6de9ede8-5b6e-4503-80b2-6190f3354a88) / [Mac](https://support.office.com/de-de/article/synchronisieren-von-dateien-mit-dem-onedrive-synchronisierungsclient-unter-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f)
 
 ## 💾 Backup-Tools
-* Windows: [Dateiversionsverlauf](https://support.microsoft.com/de-de/help/17128/windows-8-file-history)
+* Windows: [Dateiversionsverlauf](https://support.microsoft.com/de-de/help/4027408/windows-10-backup-and-restore)
 * Mac: [Time Machine](https://support.apple.com/de-de/HT201250)
 * Linux: [rsync](https://de.wikipedia.org/wiki/Rsync)
 * [iOS](https://support.apple.com/de-de/HT203977)
+
+## 📽 Einstellungen für Beamer & externe Monitoren
+* Windows: `Windows` `P`
+* Mac:
+    * [Apfel (links oben) > Systemeinstellungen > Monitore > Anordnen](https://support.apple.com/de-ch/HT202351) 
+    * Spiegeln ein- oder ausschalten: `⌘` `F1` oder [(bei erweiterter Touchbar)](https://apple.stackexchange.com/questions/272271/mbp-touch-bar-mirror-displays-keyboard-shorcut#287113) `⌘` `«Bildschirmhelligkeit verringern»`
 
 ## ⌨️ Weitere Tastaturkurzbefehle
 * [Windows](https://support.microsoft.com/de-ch/help/12445/windows-keyboard-shortcuts)
