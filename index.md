@@ -15,7 +15,7 @@
 * Linux: Systemsteuerung > Details (mehr Details mit `sudo apt-get install hardinfo`)
 
 ## 📸 Bildschirmfoto erstellen
-* Windows: `PrtScn` oder `Windows` `⇧` `S`  oder mit «Snipping Tool» oder «Snip & Sketch»
+* Windows: `PrtScn` oder `Windows` `⇧` `S`  oder mit «Snipping Tool» oder [«Snip & Sketch»](https://support.microsoft.com/de-ch/help/4488540)
 * Mac:
   * `⌘` `⇧` `5` (alle Optionen, inkl. Video)
   * `⌃` `⌘` `⇧` `3` (ganzer Bildschirm direkt in die Zwischenablage)
