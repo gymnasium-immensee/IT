@@ -52,7 +52,7 @@
 
 ## 📽 Einstellungen für Beamer & externe Monitoren
 * Windows: `Windows` `P`
-* Mac: `⌘` `«Helligkeit verringern»` oder [Apfel (links oben) > Systemeinstellungen > Monitore > Anordnen](https://support.apple.com/de-ch/HT202351) 
+* Mac: `⌘` `«Helligkeit verringern»` oder [Systemeinstellungen > Monitore](https://support.apple.com/de-ch/HT202351) 
 
 
 ## ⌨️ Weitere Tastaturkurzbefehle
