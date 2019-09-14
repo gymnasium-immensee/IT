@@ -50,7 +50,7 @@
 * Linux: [rsync](https://de.wikipedia.org/wiki/Rsync)
 * [iOS](https://support.apple.com/de-de/HT203977)
 
-## 📽 Einstellungen für Beamer & externe Monitoren
+## 📽 Einstellungen für Beamer & externe Bildschirme
 * Windows: `Windows` `P`
 * Mac: `⌘` `«Helligkeit verringern»` oder [Systemeinstellungen > Monitore](https://support.apple.com/de-ch/HT202351) 
 
