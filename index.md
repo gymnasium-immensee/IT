@@ -52,9 +52,8 @@
 
 ## 📽 Einstellungen für Beamer & externe Monitoren
 * Windows: `Windows` `P`
-* Mac:
-    * [Apfel (links oben) > Systemeinstellungen > Monitore > Anordnen](https://support.apple.com/de-ch/HT202351) 
-    * Spiegeln ein- oder ausschalten: `⌘` `F1` oder [(bei erweiterter Touchbar)](https://apple.stackexchange.com/questions/272271/mbp-touch-bar-mirror-displays-keyboard-shorcut#287113) `⌘` `«Bildschirmhelligkeit verringern»`
+* Mac: `⌘` `«Helligkeit verringern»` oder [Apfel (links oben) > Systemeinstellungen > Monitore > Anordnen](https://support.apple.com/de-ch/HT202351) 
+
 
 ## ⌨️ Weitere Tastaturkurzbefehle
 * [Windows](https://support.microsoft.com/de-ch/help/12445/windows-keyboard-shortcuts)
