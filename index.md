@@ -54,6 +54,9 @@
 * Windows: `Windows` `P`
 * Mac: `⌘` `«Helligkeit verringern»` oder [Systemeinstellungen > Monitore](https://support.apple.com/de-ch/HT202351) 
 
+## 🖖 Gesten für Multi-Touch-Trackpads
+* [Windows](https://support.microsoft.com/de-de/help/4027871/windows-10-touchpad-gestures)
+* [Mac](https://support.apple.com/de-de/HT204895)
 
 ## ⌨️ Weitere Tastaturkurzbefehle
 * [Windows](https://support.microsoft.com/de-ch/help/12445/windows-keyboard-shortcuts)
