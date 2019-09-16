@@ -16,6 +16,8 @@
 * [WikiBook über Computerhardware](https://de.m.wikibooks.org/wiki/Computerhardware_f%C3%BCr_Anf%C3%A4nger)
 * [Artikel über Moore's Law](https://www.spiegel.de/netzwelt/web/moore-s-law-die-goldene-regel-der-chiphersteller-broeckelt-a-1083468.html)
 
+* [ifixit.com](https://www.ifixit.com)
+
 
 ## Binärsystem
 * [Uhr oder keine Uhr?](http://abenteuer-informatik.de/bu.html)
