@@ -59,7 +59,7 @@
 * Enthalten keine Teile des ~~Kontonamens~~
 * Enthalten neben Gross- und Kleinbuchstaben Ziffern und andere Zeichen (z.B. !, $, #, %)
 * Sind so lange wie möglich
-* Organisiert man am besten in einem Passwortmanager, z.B. [SecureSafe](https://www.securesafe.com)
+* Organisiert man am besten mit einem Passwortmanager, z.B. [SecureSafe](https://www.securesafe.com)
 
 ## 📽 Einstellungen für Beamer & externe Bildschirme
 * Windows: `Windows` `P`
