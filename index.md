@@ -54,6 +54,13 @@
 * Linux: [rsync](https://de.wikipedia.org/wiki/Rsync)
 * [iOS](https://support.apple.com/de-de/HT203977)
 
+## 🔐 Starke Passwörter
+* Kann man mit `password strength` auf [WolframAlpha](https://www.wolframalpha.com/input/?i=password+strength) testen
+* Enthalten keine Teile des ~~Kontonamens~~
+* Enthalten neben Gross- und Kleinbuchstaben Ziffern und andere Zeichen (z.B. !, $, #, %)
+* Sind so lange wie möglich
+* Organisiert man am besten in einem Passwortmanager, z.B. [SecureSafe](https://www.securesafe.com)
+
 ## 📽 Einstellungen für Beamer & externe Bildschirme
 * Windows: `Windows` `P`
 * Mac: `⌘` `«Helligkeit verringern»` oder [Systemeinstellungen > Monitore](https://support.apple.com/de-ch/HT202351) 
