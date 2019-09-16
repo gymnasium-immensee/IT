@@ -59,14 +59,12 @@
 * Mac: `⌘` `«Helligkeit verringern»` oder [Systemeinstellungen > Monitore](https://support.apple.com/de-ch/HT202351) 
 
 ## 🖨 Am Gymi drucken
-(Funktioniert nur im Schul-WLAN)
-* Benutzername: `vorname.nachname`
-* Kennwort: das Office365 Passwort vom blauen Blatt
+(Benutzername: `vorname.nachname`; Kennwort: das Office365 Passwort vom blauen Blatt; Funktioniert nur im Schul-WLAN)
 * Via Browser: [papercut.gyim.local:9191](http://papercut.gyim.local:9191)
-* Windows: [Installationsprogramm](http://papercut.com/products/ng/mobility-print/download/client/windows/)
+* Windows: [Installationsprogramm laden](http://papercut.com/products/ng/mobility-print/download/client/windows/)
 * Mac: `⌘` `P`
 * iOS: Teilen > drucken
-* Android: [Mobility Print App](https://play.google.com/store/apps/details?id=com.papercut.projectbanksia)
+* Android: [Mobility Print App installieren](https://play.google.com/store/apps/details?id=com.papercut.projectbanksia)
 
 ## ⌨️ Weitere Tastaturkurzbefehle
 * [Windows](https://support.microsoft.com/de-ch/help/12445/windows-keyboard-shortcuts)
