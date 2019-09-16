@@ -5,6 +5,10 @@
 * Mac: `⌃` `⌘` `Leertaste`
 * ➡️ [unicode.org](http://unicode.org)
 
+## 🖖 Gesten für Multi-Touch-Trackpads
+* [Windows](https://support.microsoft.com/de-de/help/4027871/windows-10-touchpad-gestures)
+* [Mac](https://support.apple.com/de-de/HT204895)
+
 ## `\` Backslash tippen
 * Windows & Linux: `AltGr` `<` (rechts von `⇧`)
 * Mac: `⌥` `⇧` `7`
@@ -54,9 +58,15 @@
 * Windows: `Windows` `P`
 * Mac: `⌘` `«Helligkeit verringern»` oder [Systemeinstellungen > Monitore](https://support.apple.com/de-ch/HT202351) 
 
-## 🖖 Gesten für Multi-Touch-Trackpads
-* [Windows](https://support.microsoft.com/de-de/help/4027871/windows-10-touchpad-gestures)
-* [Mac](https://support.apple.com/de-de/HT204895)
+## 🖨 Am Gymi drucken
+(Funktioniert nur im Schul-WLAN)
+* Benutzername: `vorname.nachname`
+* Kennwort: das Office365 Passwort vom blauen Blatt
+* Via Browser: [papercut.gyim.local:9191](http://papercut.gyim.local:9191)
+* Windows: [Installationsprogramm](http://papercut.com/products/ng/mobility-print/download/client/windows/)
+* Mac: `⌘` `P`
+* iOS: Teilen > drucken
+* Android: [Mobility Print App](https://play.google.com/store/apps/details?id=com.papercut.projectbanksia)
 
 ## ⌨️ Weitere Tastaturkurzbefehle
 * [Windows](https://support.microsoft.com/de-ch/help/12445/windows-keyboard-shortcuts)
