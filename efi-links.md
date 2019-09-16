@@ -30,8 +30,8 @@
 * [The Binary Game](https://studio.code.org/projects/applab/iukLbcDnzqgoxuu810unLw)
 
 * [WolframAlpha](https://www.wolframalpha.com/); Beispielabfragen:
-* where am I?
-* generate password
-* password strength 123456
-* 255 in binary
-* 16 in hex
+    * where am I?
+    * generate password
+    * password strength 123456
+    * 255 in binary
+    * 16 in hex
