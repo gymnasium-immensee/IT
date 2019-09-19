@@ -26,7 +26,7 @@
   * `⌃` `⌘` `⇧` `4` (Ausschnitt direkt in die Zwischenablage)
 * Linux: `PrtScn` oder mit «Screenshot»
 * [iOS](https://support.apple.com/de-de/HT200289): `Standby` `Home` oder `Standby` `Lauter`
-* [Android](https://support.google.com/android/answer/9075928?hl=de): `Ein-/Aus` `Leiser` (einige Sekunden)
+* [Android](https://support.google.com/android/answer/9075928?hl=de): `Ein/Aus` `Leiser` (einige Sekunden)
 
 ## 🌐 Sich mit TEACHERSTUFF-Laufwerk verbinden
 (Benutzername: `vorname.nachname`; Kennwort: das Office365 Passwort vom blauen Blatt; Funktioniert nur im Schul-WLAN)
