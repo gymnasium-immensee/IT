@@ -19,13 +19,11 @@
 * Linux: Systemsteuerung > Details (mehr Details mit `sudo apt-get install hardinfo`)
 
 ## 📸 Bildschirmfoto erstellen
-* Windows: `PrtScn` oder `Windows` `⇧` `S`  oder mit «Snipping Tool» oder [«Snip & Sketch»](https://support.microsoft.com/de-ch/help/4488540)
-* Mac:
+* [Windows](https://support.microsoft.com/de-ch/help/4488540): `PrtScn` oder `Windows` `⇧` `S`
+* [Mac](https://support.apple.com/de-ch/HT201361):
   * `⌘` `⇧` `5` (alle Optionen, inkl. Video)
   * `⌃` `⌘` `⇧` `3` (ganzer Bildschirm direkt in die Zwischenablage)
   * `⌃` `⌘` `⇧` `4` (Ausschnitt direkt in die Zwischenablage)
-  * «Screenshot»
-  * [mehr Möglichkeiten](https://support.apple.com/de-ch/HT201361)
 * Linux: `PrtScn` oder mit «Screenshot»
 * [iOS](https://support.apple.com/de-de/HT200289): `Standby` `Home` oder `Standby` `Lauter`
 * [Android](https://support.google.com/android/answer/9075928?hl=de): `Ein-/Aus` `Leiser` (einige Sekunden)
