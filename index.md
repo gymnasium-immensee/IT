@@ -27,12 +27,15 @@
   * «Screenshot»
   * [mehr Möglichkeiten](https://support.apple.com/de-ch/HT201361)
 * Linux: `PrtScn` oder mit «Screenshot»
+* [iOS](https://support.apple.com/de-de/HT200289): `Standby` `Home` oder `Standby` `Lauter`
+* [Android](https://support.google.com/android/answer/9075928?hl=de): `Ein-/Aus` `Leiser` (einige Sekunden)
 
 ## 🌐 Sich mit TEACHERSTUFF-Laufwerk verbinden
 (Funktioniert nur im Schul-WLAN)
 * Windows: `\\srvdc01.gyim.local\TEACHERSTUFF` im Explorer (≠ ~~Internet Explorer~~) eingeben
 * Mac: `⌘` `K` + `smb://srvdc01.gyim.local/TEACHERSTUFF`
 * Linux: `smb://srvdc01.gyim.local/TEACHERSTUFF` bei Serveradresse eingeben.
+* iOS (ab 13): App «Dateien» > «...» > «Mit Server verbinden» > `smb://srvdc01.gyim.local/TEACHERSTUFF`
 
 ## 🌐 Terminal Server Zugang via Remote Desktop
 1. «Microsoft Remote Desktop» installieren: [Windows](https://www.microsoft.com/de-ch/p/microsoft-remotedesktop/9wzdncrfj3ps?activetab=pivot:overviewtab) / [Android](https://play.google.com/store/apps/details?id=com.microsoft.rdc.android&hl=de_CH) / [iOS](https://apps.apple.com/ch/app/microsoft-remotedesktop/id714464092) / [MacOS](https://apps.apple.com/ch/app/microsoft-remote-desktop-10/id1295203466)
