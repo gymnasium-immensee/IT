@@ -31,7 +31,7 @@
 * [Android](https://support.google.com/android/answer/9075928?hl=de): `Ein-/Aus` `Leiser` (einige Sekunden)
 
 ## 🌐 Sich mit TEACHERSTUFF-Laufwerk verbinden
-(Funktioniert nur im Schul-WLAN)
+(Benutzername: `vorname.nachname`; Kennwort: das Office365 Passwort vom blauen Blatt; Funktioniert nur im Schul-WLAN)
 * Windows: `\\srvdc01.gyim.local\TEACHERSTUFF` im Explorer (≠ ~~Internet Explorer~~) eingeben
 * Mac: `⌘` `K` + `smb://srvdc01.gyim.local/TEACHERSTUFF`
 * Linux: `smb://srvdc01.gyim.local/TEACHERSTUFF` bei Serveradresse eingeben.
