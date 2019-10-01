@@ -25,7 +25,7 @@
   * `⌃` `⌘` `⇧` `3` (ganzer Bildschirm direkt in die Zwischenablage)
   * `⌃` `⌘` `⇧` `4` (Ausschnitt direkt in die Zwischenablage)
 * Linux: `PrtScn` oder mit «Screenshot»
-* [iOS (auch z.B. ganze Websites als PDF](https://support.apple.com/de-de/HT200289): `Standby` `Home` oder `Standby` `Lauter` oder via [Kontrollzentrum (Video)](https://support.apple.com/de-ch/HT207935)
+* [iOS (auch z.B. ganze Websites als PDF)](https://support.apple.com/de-de/HT200289): `Standby` `Home` oder `Standby` `Lauter` oder via [Kontrollzentrum (Video)](https://support.apple.com/de-ch/HT207935)
 * [Android](https://support.google.com/android/answer/9075928?hl=de): `Ein/Aus` `Leiser` (einige Sekunden)
 
 ## 🌐 Sich mit TEACHERSTUFF-Laufwerk verbinden
