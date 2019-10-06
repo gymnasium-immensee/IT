@@ -27,7 +27,9 @@
   * `⌃` `⌘` `⇧` `3` (ganzer Bildschirm direkt in die Zwischenablage)
   * `⌃` `⌘` `⇧` `4` (Ausschnitt direkt in die Zwischenablage)
 * Linux: `PrtScn` oder mit «Screenshot»
-* [iOS (auch z.B. ganze Websites als PDF)](https://support.apple.com/de-de/HT200289): `Standby` `Home` oder `Standby` `Lauter` oder via [Kontrollzentrum (Video)](https://support.apple.com/de-ch/HT207935)
+* iOS:
+  * [Foto (auch z.B. ganze Websites als PDF)](https://support.apple.com/de-de/HT200289): `Standby` `Home` oder `Standby` `Lauter`
+  * Video: via [Kontrollzentrum](https://support.apple.com/de-ch/HT207935)
 * Android:
   * [Foto](): `Ein/Aus` `Leiser` (einige Sekunden)
   * Video: Mit einer App wie z.B. [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free)
