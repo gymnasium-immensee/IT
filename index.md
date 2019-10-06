@@ -19,14 +19,18 @@
 * Linux: Systemsteuerung > Details (mehr Details mit `sudo apt-get install hardinfo`)
 
 ## 📸 Bildschirmfoto/-Video erstellen
-* [Windows](https://support.microsoft.com/de-ch/help/4488540): `PrtScn` oder `Windows` `⇧` `S`
+* Windows:
+  * [Foto](https://support.microsoft.com/de-ch/help/4488540): `PrtScn` oder `Windows` `⇧` `S`
+  * Video: Mit der [Xbox Game Bar](https://support.xbox.com/de-ch/xbox-on-windows/social/record-game-clips-game-bar-windows-10) oder einem Programm wie z.B. [Screenpresso](https://screenpresso.com)
 * [Mac](https://support.apple.com/de-ch/HT201361):
   * `⌘` `⇧` `5` (alle Optionen, inkl. Video)
   * `⌃` `⌘` `⇧` `3` (ganzer Bildschirm direkt in die Zwischenablage)
   * `⌃` `⌘` `⇧` `4` (Ausschnitt direkt in die Zwischenablage)
 * Linux: `PrtScn` oder mit «Screenshot»
 * [iOS (auch z.B. ganze Websites als PDF)](https://support.apple.com/de-de/HT200289): `Standby` `Home` oder `Standby` `Lauter` oder via [Kontrollzentrum (Video)](https://support.apple.com/de-ch/HT207935)
-* [Android](https://support.google.com/android/answer/9075928?hl=de): `Ein/Aus` `Leiser` (einige Sekunden)
+* [Android](https://support.google.com/android/answer/9075928?hl=de):
+  * [Foto](): `Ein/Aus` `Leiser` (einige Sekunden)
+  * Video: Mit einem App wie z.B. [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free)
 
 ## 🌐 Sich mit TEACHERSTUFF-Laufwerk verbinden
 (Benutzername: `vorname.nachname`; Kennwort: das Office365 Passwort vom blauen Blatt; Funktioniert nur im Schul-WLAN)
