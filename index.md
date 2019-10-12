@@ -26,7 +26,9 @@
   * `⌘` `⇧` `5` (alle Optionen, inkl. Video)
   * `⌃` `⌘` `⇧` `3` (ganzer Bildschirm direkt in die Zwischenablage)
   * `⌃` `⌘` `⇧` `4` (Ausschnitt direkt in die Zwischenablage)
-* Linux: `PrtScn` oder mit «Screenshot»
+* Linux:
+  * Foto: `PrtScn` oder mit «Screenshot»
+  * Video: Mit einem Programm wie z.B. [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/)
 * iOS:
   * [Foto (auch z.B. ganze Websites als PDF)](https://support.apple.com/de-de/HT200289): `Standby` `Home` oder `Standby` `Lauter`
   * Video: via [Kontrollzentrum](https://support.apple.com/de-ch/HT207935)
