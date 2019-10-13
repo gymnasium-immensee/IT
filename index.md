@@ -61,7 +61,7 @@
 ## 💾 Backup-Tools
 * Windows: [Dateiversionsverlauf](https://support.microsoft.com/de-de/help/4027408/windows-10-backup-and-restore)
 * Mac: [Time Machine](https://support.apple.com/de-de/HT201250)
-* Linux: [rsync](https://de.wikipedia.org/wiki/Rsync)
+* Linux: [rdiff-backup](http://rdiff-backup.nongnu.org)
 * [iOS](https://support.apple.com/de-de/HT203977)
 
 ## 🔐 Starke Passwörter
