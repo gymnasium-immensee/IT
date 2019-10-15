@@ -9,6 +9,7 @@
 * [digitec.ch | Hier kann man auch einzelne Computer-Komponenten bestellen, z.B. RAM](https://www.digitec.ch/)
 
 ## Lektion 3
+* [Artikel über Moore's Law](https://www.spiegel.de/netzwelt/web/moore-s-law-die-goldene-regel-der-chiphersteller-broeckelt-a-1083468.html)
 
 ## Lektion 4
 
@@ -24,7 +25,7 @@
 
 * [brainfaqk Erklärvideso (YouTube)](https://www.youtube.com/playlist?list=PL6DU7YsYvRpA31RgBg1MUTf2EuVtmAF-E&app=desktop)
 * [WikiBook über Computerhardware](https://de.m.wikibooks.org/wiki/Computerhardware_f%C3%BCr_Anf%C3%A4nger)
-* [Artikel über Moore's Law](https://www.spiegel.de/netzwelt/web/moore-s-law-die-goldene-regel-der-chiphersteller-broeckelt-a-1083468.html)
+
 
 * [ifixit.com](https://www.ifixit.com)
 * [Tipps](https://gymnasium-immensee.github.io/IT/)
