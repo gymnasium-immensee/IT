@@ -1,6 +1,8 @@
 # Medien & Informatik | Grundlagen
 
 ## Lektion 1
+* [Am eigenen Computer die Hardware Komponenten anzeigen](https://gymnasium-immensee.github.io/IT/#-am-eigenen-computer-diehardware-komponenten-anzeigen)
+* [Bildschirmfoto erstellen](https://gymnasium-immensee.github.io/IT/#-bildschirmfoto-video-erstellen)
 
 ## Lektion 2
 * [Bluetooth - Werbeplakate am Zürich HB](https://www.tagesanzeiger.ch/zuerich/stadt/swisscom-lueftet-geheimnis-um-schwarze-boxen-am-hb-zuerich/story/29988994)
@@ -25,3 +27,4 @@
 * [Artikel über Moore's Law](https://www.spiegel.de/netzwelt/web/moore-s-law-die-goldene-regel-der-chiphersteller-broeckelt-a-1083468.html)
 
 * [ifixit.com](https://www.ifixit.com)
+* [Tipps](https://gymnasium-immensee.github.io/IT/)
