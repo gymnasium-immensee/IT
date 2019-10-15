@@ -28,4 +28,3 @@
 
 
 * [ifixit.com](https://www.ifixit.com)
-* [Tipps](https://gymnasium-immensee.github.io/IT/)
