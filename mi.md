@@ -6,7 +6,7 @@
 
 ## Lektion 2
 * [Bluetooth - Werbeplakate am Zürich HB](https://www.tagesanzeiger.ch/zuerich/stadt/swisscom-lueftet-geheimnis-um-schwarze-boxen-am-hb-zuerich/story/29988994)
-* [digitec.ch | Hier kann man auch einzelne Computer-Komponenten bestellen, z.B. RAM](https://www.digitec.ch/)
+* [digitec.ch – Hier kann man auch einzelne Computer-Komponenten bestellen, z.B. RAM](https://www.digitec.ch/)
 
 ## Lektion 3
 * [Artikel über Moore's Law](https://www.spiegel.de/netzwelt/web/moore-s-law-die-goldene-regel-der-chiphersteller-broeckelt-a-1083468.html)
