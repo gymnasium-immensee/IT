@@ -9,22 +9,13 @@
 * [digitec.ch – Hier kann man auch einzelne Computer-Komponenten bestellen, z.B. RAM](https://www.digitec.ch/)
 
 ## Lektion 3
-* [Artikel über Moore's Law](https://www.spiegel.de/netzwelt/web/moore-s-law-die-goldene-regel-der-chiphersteller-broeckelt-a-1083468.html)
-
-## Lektion 4
-
-## Mehr Links
-* [geschwindigkeit.ch](https://www.geschwindigkeit.ch/)
-* [speedtest.net](https://www.speedtest.net/)
-
-* [pcpartpicker.com](https://pcpartpicker.com/)
-* [newegg.com](https://www.newegg.com/)
-
+### Hardware
 * [Apollo 11: A Space Odyssey (YouTube)](https://www.youtube.com/watch?v=yDm5RVzUlGk)
 * [Apollo 11: Mit 1 MHz zum Mond (Artikel)](https://www.pctipp.ch/news/gesellschaft/artikel/apollo-11-mit-1-mhz-zum-mond-80567/)
-
-* [brainfaqk Erklärvideso (YouTube)](https://www.youtube.com/playlist?list=PL6DU7YsYvRpA31RgBg1MUTf2EuVtmAF-E&app=desktop)
+* [Artikel über Moore's Law](https://www.spiegel.de/netzwelt/web/moore-s-law-die-goldene-regel-der-chiphersteller-broeckelt-a-1083468.html)
+* [brainfaqk Erklärvideos (YouTube)](https://www.youtube.com/playlist?list=PL6DU7YsYvRpA31RgBg1MUTf2EuVtmAF-E&app=desktop)
 * [WikiBook über Computerhardware](https://de.m.wikibooks.org/wiki/Computerhardware_f%C3%BCr_Anf%C3%A4nger)
-
-
 * [ifixit.com](https://www.ifixit.com)
+
+### Software
+
