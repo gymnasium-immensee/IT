@@ -37,3 +37,6 @@
     * password strength 123456
     * 255 in binary
     * 16 in hex
+
+## SQL
+* [Download DB Browser for SQLite](https://sqlitebrowser.org/dl/)
