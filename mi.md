@@ -17,7 +17,5 @@
 * [WikiBook über Computerhardware](https://de.m.wikibooks.org/wiki/Computerhardware_f%C3%BCr_Anf%C3%A4nger)
 * [ifixit.com](https://www.ifixit.com)
 
-### Software
-
-
+### [Software](https://gymnasium-immensee.github.io/IT/#-praktische-software)
 
