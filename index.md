@@ -87,3 +87,26 @@
 * [Windows](https://support.microsoft.com/de-ch/help/12445/windows-keyboard-shortcuts)
 * [Mac](https://support.apple.com/de-ch/HT201236)
 * [Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
+
+## 🕹 Praktische Software
+
+#### Zur Zusammenarbeit
+* Office (Word, Excel, PowerPoint, OneNote): [office.com](https://www.office.com) > anmelden > Office installieren
+* [Teams](https://teams.microsoft.com/downloads)
+* [OneDrive](https://onedrive.live.com/about/de-ch/download/)
+* [RemoteDesktop](https://gymnasium-immensee.github.io/IT/#-terminal-server-zugang-viaremote-desktop)
+
+#### Browser
+* [Firefox](https://www.mozilla.org/de/firefox/new/)
+* [Google Chrome](https://www.google.com/chrome/)
+* [Opera](https://www.opera.com)
+
+#### Praktische Windows-Progamme (am einfachsten unten links danach suchen)
+* Rechner
+* Ausschneiden und Skizzieren
+* Sprachnachricht
+* Mail
+* Drucker und Scanner
+
+## 🛠 Hilfe bei Repataturen
+* [ifixit](https://www.ifixit.com)
