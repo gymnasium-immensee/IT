@@ -108,5 +108,5 @@
 * Mail
 * Drucker und Scanner
 
-## 🛠 Hilfe bei Repataturen
+## 🛠 Hilfe bei Reparauren
 * [ifixit](https://www.ifixit.com)
