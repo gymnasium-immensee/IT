@@ -91,7 +91,7 @@
 ## 🕹 Praktische Software
 
 #### Zur Zusammenarbeit
-* Office (Word, Excel, PowerPoint, OneNote): [office.com](https://www.office.com) > anmelden > Office installieren: [Bildschirmaufzeichnung]()https://www.dropbox.com/s/yfdw46kyyjt72gc/Office%20installieren.mp4?dl=0
+* Office (Word, Excel, PowerPoint, OneNote): [office.com](https://www.office.com) > anmelden > Office installieren: [Bildschirmaufzeichnung](https://www.dropbox.com/s/yfdw46kyyjt72gc/Office%20installieren.mp4?dl=0)
 * [Teams](https://teams.microsoft.com/downloads)
 * [OneDrive](https://onedrive.live.com/about/de-ch/download/): [Bildschirmaufzeichnung](https://www.dropbox.com/s/g7mlfufqc9157vz/OneDrive%20verwenden.mp4?dl=0)
 * [RemoteDesktop](https://gymnasium-immensee.github.io/IT/#-terminal-server-zugang-viaremote-desktop)
