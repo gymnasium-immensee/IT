@@ -52,7 +52,7 @@
 1. Passwort: das Office365 Passwort vom blauen Blatt
 
 ## ☁️ Teams-Dateien mit dem eigenen Computer synchronisieren
-1. «OneDrive» installieren: [Windows](https://www.microsoft.com/en-us/p/onedrive/9wzdncrfj1p3) / [Mac](https://apps.apple.com/us/app/onedrive/id823766827)
+1. [«OneDrive» installieren](https://onedrive.live.com/about/de-ch/download/)
 1. Im gewünschten Teams zum Reiter «Dateien» / «Files» gehen
 1. «In Sharepoint öffnen» klicken
 1. «Sync» klicken

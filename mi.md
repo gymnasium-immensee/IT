@@ -19,3 +19,10 @@
 
 ### Software
 
+#### Programme zur Zusammenarbeit
+* Office (Word, Excel, PowerPoint, OneNote): [office.com](https://www.office.com) > anmelden > Office installieren
+* [Teams](https://teams.microsoft.com/downloads)
+* [OneDrive](https://onedrive.live.com/about/de-ch/download/)
+* [RemoteDesktop]()
+
+#### 
