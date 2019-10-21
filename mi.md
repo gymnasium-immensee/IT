@@ -10,6 +10,7 @@
 
 ## Lektion 3
 ### Hardware
+* Finde mit Hilfe des ersten Skripts heraus, welche Komponenten (Prozessor, Festplatte, SSD, RAM, etc.) bei den ausgestellten Geräten zu sehen sind.
 * [Apollo 11: A Space Odyssey (YouTube)](https://www.youtube.com/watch?v=yDm5RVzUlGk)
 * [Apollo 11: Mit 1 MHz zum Mond (Artikel)](https://www.pctipp.ch/news/gesellschaft/artikel/apollo-11-mit-1-mhz-zum-mond-80567/)
 * [Artikel über Moore's Law](https://www.spiegel.de/netzwelt/web/moore-s-law-die-goldene-regel-der-chiphersteller-broeckelt-a-1083468.html)
