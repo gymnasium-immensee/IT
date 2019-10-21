@@ -21,7 +21,7 @@
 ### [Software](https://gymnasium-immensee.github.io/IT/#-praktische-software)
 
 ### Ordnerstruktur des eigenen Computers entdecken
-* Erstelle von den wichtigsten Ordnern deines Computers ein Baumdiagramm 🌳 Papier. Beginne bei «Dieser PC» (Windows) oder «Macintosh HD» (Mac).
+* Erstelle von den wichtigsten Ordnern deines Computers ein Baumdiagramm 🌳 auf Papier. Beginne bei «Dieser PC» (Windows) oder «Macintosh HD» (Mac).
 * [Wo liegt eigentlich der «Schreibtisch»? (Screencast)](https://www.dropbox.com/s/w43wcndfdda53vz/Ordnerstruktur%20entdecken.mp4?dl=0)
 
 ## Lektion 4
