@@ -26,5 +26,10 @@
 * Entfernte Ordner
 * Backup
 
-## Lektion 5
-* Prüfung
+## Lektion 5 | Prüfung
+* 🎯Lernziele:
+    * Du kannst den Aufbau eines Computers mit einer Küche vergleichen
+    * Du kennst den Unterschied zwischen Hardware und Software
+    * Du hast eine Vorstellung von der Leistung von Computern
+    * Du kannst Dokumente so ablegen, dass auch andere sie wieder finden.
+    * Du kannst von deinen Geräten ein Backup erstellen
