@@ -18,7 +18,6 @@
 
 * [ifixit.com](https://www.ifixit.com)
 
-
 ## Binärsystem
 * [Uhr oder keine Uhr?](http://abenteuer-informatik.de/bu.html)
 * [Binary Hand Dance](https://www.youtube.com/watch?v=OCYZTg3jahU)
@@ -39,4 +38,8 @@
     * 16 in hex
 
 ## SQL
+* [Handysektor erklärt: Was ist eigentlich die Cloud?](https://www.youtube.com/watch?v=VhqSH8HPioU)
 * [Download DB Browser for SQLite](https://sqlitebrowser.org/dl/)
+* [SQL Island](https://sql-island.informatik.uni-kl.de)
+* [Einführungsvideo(Youtube)](https://www.youtube.com/embed/3dWLv8Pxiy4)
+* [SQL E.Tutorial](https://frontend-1.et.ethz.ch/sc/4srf2fpLfT37pxBaS)
