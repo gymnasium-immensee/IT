@@ -20,10 +20,12 @@
 ### [Software](https://gymnasium-immensee.github.io/IT/#-praktische-software)
 
 ### Ordnerstruktur des eigenen Computers entdecken
-* [Wo ist eigentlich der «Schreibtisch»? (Screencast)](https://www.dropbox.com/s/w43wcndfdda53vz/Ordnerstruktur%20entdecken.mp4?dl=0)
+* Erstelle von den wichtigsten Ordnern deines Computers ein Baumdiagramm 🌳 Papier. Beginne bei «Dieser PC» (Windows) oder «Macintosh HD» (Mac).
+* [Wo liegt eigentlich der «Schreibtisch»? (Screencast)](https://www.dropbox.com/s/w43wcndfdda53vz/Ordnerstruktur%20entdecken.mp4?dl=0)
 
 ## Lektion 4
 * Entfernte Ordner
+* Online zusammenarbeiten 
 * Backup
 
 ## Lektion 5 | Prüfung
