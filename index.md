@@ -78,10 +78,10 @@
 ## 🖨 Am Gymi drucken
 (Benutzername: `vorname.nachname`; Kennwort: das Office365 Passwort vom blauen Blatt; Funktioniert nur im Schul-WLAN)
 * Via Browser: [papercut.gyim.local:9191](http://papercut.gyim.local:9191)
-* Windows: [Installationsprogramm laden](http://papercut.com/products/ng/mobility-print/download/client/windows/)
+* Windows: [Installationsprogramm laden](http://papercut.com/products/ng/mobility-print/download/client/windows/), [Videoanleitung (auf Englisch)](https://www.youtube.com/watch?v=j0LHSuG-Ewo)
 * Mac: `⌘` `P`
 * iOS: Teilen > drucken
-* Android: [Mobility Print App installieren](https://play.google.com/store/apps/details?id=com.papercut.projectbanksia)
+* Android: [Mobility Print App installieren](https://play.google.com/store/apps/details?id=com.papercut.projectbanksia), [Videoanleitung (auf Englisch)](https://www.youtube.com/watch?v=vTgRHmURvos)
 
 ## ⌨️ Weitere Tastaturkurzbefehle
 * [Windows](https://support.microsoft.com/de-ch/help/12445/windows-keyboard-shortcuts)
