@@ -93,7 +93,7 @@
 #### Zur Zusammenarbeit
 * Office (Word, Excel, PowerPoint, OneNote): [office.com](https://www.office.com) > anmelden > Office installieren: [Bildschirmaufzeichnung](https://www.icloud.com/sharedalbum/#B0v532ODWGLixyb;FB9391E0-0C04-4E6E-A6B6-6D7FBECFDBB1)
 * [Teams](https://teams.microsoft.com/downloads)
-* [OneDrive](https://onedrive.live.com/about/de-ch/download/): [Bildschirmaufzeichnung](https://www.dropbox.com/s/g7mlfufqc9157vz/OneDrive%20verwenden.mp4?dl=0)
+* [OneDrive](https://onedrive.live.com/about/de-ch/download/): [Bildschirmaufzeichnung](https://www.icloud.com/sharedalbum/#B0v532ODWGLixyb;AFD6B9C3-9E7A-485C-B4E9-A9BE2E0B2EA1)
 * [RemoteDesktop](https://gymnasium-immensee.github.io/IT/#-terminal-server-zugang-viaremote-desktop)
 
 #### Browser
