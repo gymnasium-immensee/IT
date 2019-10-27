@@ -22,7 +22,7 @@
 
 ### Ordnerstruktur des eigenen Computers entdecken
 * Erstelle von den wichtigsten Ordnern deines Computers ein Baumdiagramm 🌳 auf Papier. Beginne bei «Dieser PC» (Windows) oder «Macintosh HD» (Mac).
-* [Wo liegt eigentlich der «Schreibtisch»? (Screencast)](https://www.icloud.com/sharedalbum/#B0v532ODWGLixyb;4E6BC177-76BA-4B48-8938-B243B20DF2C9)
+* [Wo liegt eigentlich der «Schreibtisch»? (Screencast)](http://bit.ly/2Nfakmx)
 
 ## Lektion 4
 * Entfernte Ordner
