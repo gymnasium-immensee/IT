@@ -38,7 +38,7 @@
 
 ## 🌐 Sich mit TEACHERSTUFF-Laufwerk verbinden
 (Benutzername: `vorname.nachname`; Kennwort: das Office365 Passwort vom blauen Blatt; Funktioniert nur im Schul-WLAN)
-* Windows: `\\srvdc01.gyim.local\TEACHERSTUFF` im Explorer (≠ ~~Internet Explorer~~) eingeben
+* Windows: `\\srvdc01.gyim.local\TEACHERSTUFF` im Explorer (≠ ~~Internet Explorer~~) eingeben, [Bildschirmaufzeichnung](http://bit.ly/2WjB5u2)
 * Mac: `⌘` `K` + [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF)
 * Linux: [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF) bei Serveradresse eingeben.
 * iOS (ab 13): App «Dateien» > «...» > «Mit Server verbinden» > [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF)
@@ -77,7 +77,7 @@
 
 ## 🖨 Am Gymi drucken
 (Benutzername: `vorname.nachname`; Kennwort: das Office365 Passwort vom blauen Blatt; Funktioniert nur im Schul-WLAN)
-* Via Browser: [papercut.gyim.local:9191](http://papercut.gyim.local:9191)
+* Via Browser: [papercut.gyim.local:9191](http://papercut.gyim.local:9191), [Bildschirmaufzeichnung](http://bit.ly/2WmwdV4)
 * Windows: [Installationsprogramm laden](http://papercut.com/products/ng/mobility-print/download/client/windows/)
 * Mac: `⌘` `P`
 * iOS: Teilen > drucken
