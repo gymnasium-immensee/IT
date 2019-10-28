@@ -38,7 +38,7 @@
 
 ## 🌐 Sich mit TEACHERSTUFF-Laufwerk verbinden
 (Benutzername: `vorname.nachname`; Kennwort: das Office365 Passwort vom blauen Blatt; Funktioniert nur im Schul-WLAN)
-* Windows: `\\srvdc01.gyim.local\TEACHERSTUFF` im Explorer (≠ ~~Internet Explorer~~) eingeben, [Bildschirmaufzeichnung](http://bit.ly/2WjB5u2)
+* Windows: `\\srvdc01.gyim.local\TEACHERSTUFF` im Explorer (≠ ~~Internet Explorer~~) eingeben: [Bildschirmaufzeichnung](http://bit.ly/2WjB5u2)
 * Mac: `⌘` `K` + [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF)
 * Linux: [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF) bei Serveradresse eingeben.
 * iOS (ab 13): App «Dateien» > «...» > «Mit Server verbinden» > [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF)
@@ -52,7 +52,7 @@
 1. Passwort: das Office365 Passwort vom blauen Blatt
 
 ## ☁️ Teams-Dateien mit dem eigenen Computer synchronisieren
-1. [«OneDrive» installieren](https://onedrive.live.com/about/de-ch/download/)
+1. [«OneDrive» installieren](https://onedrive.live.com/about/de-ch/download/): [Bildschirmaufzeichnung](http://bit.ly/2NdEIxw)
 1. Im gewünschten Teams zum Reiter «Dateien» / «Files» gehen
 1. «In Sharepoint öffnen» klicken
 1. «Sync» klicken
@@ -77,11 +77,11 @@
 
 ## 🖨 Am Gymi drucken
 (Benutzername: `vorname.nachname`; Kennwort: das Office365 Passwort vom blauen Blatt; Funktioniert nur im Schul-WLAN)
-* Via Browser: [papercut.gyim.local:9191](http://papercut.gyim.local:9191), [Bildschirmaufzeichnung](http://bit.ly/2WmwdV4)
+* Via Browser: [papercut.gyim.local:9191](http://papercut.gyim.local:9191): [Bildschirmaufzeichnung](http://bit.ly/2WmwdV4)
 * Windows: [Installationsprogramm laden](http://papercut.com/products/ng/mobility-print/download/client/windows/)
 * Mac: `⌘` `P`
 * iOS: Teilen > drucken
-* Android: [Mobility Print App installieren](https://play.google.com/store/apps/details?id=com.papercut.projectbanksia), [Videoanleitung (auf Englisch)](https://www.youtube.com/watch?v=vTgRHmURvos)
+* Android: [Mobility Print App installieren](https://play.google.com/store/apps/details?id=com.papercut.projectbanksia): [Videoanleitung (auf Englisch)](https://www.youtube.com/watch?v=vTgRHmURvos)
 
 ## ⌨️ Weitere Tastaturkurzbefehle
 * [Windows](https://support.microsoft.com/de-ch/help/12445/windows-keyboard-shortcuts)
