@@ -34,33 +34,31 @@
   # Medien & Informatik | Grundlagen | Lektion 4 | 29.10.19 [gymnasium-immensee.github.io/IT/mi](https://gymnasium-immensee.github.io/IT/mi)
 
 ### 🎯 Ziele
-* [ ] Du kannst den Aufbau eines Computers mit einer Küche vergleichen\
-	* [ ] ➡️ siehe Handout 1
-<br>
-* [ ] Du kennst den Unterschied zwischen Hardware und Software\
-	* [ ] ➡️ siehe Handout 1
-<br>
-* [ ] Du hast eine Vorstellung von der Leistung von Computern\
-	* [ ] ➡️ siehe Handout 1
-	* [ ] ➡️ du kannst bei deinem eigenen Computer die Hardware anzeigen:
+* Du kannst den Aufbau eines Computers mit einer Küche vergleichen ➡️ siehe Handout 1
+<br><br>
+* Du kennst den Unterschied zwischen Hardware und Software ➡️ siehe Handout 1
+<br><br>
+* Du hast eine Vorstellung von der Leistung von Computern\
+	* ➡️ siehe Handout 1
+	* ➡️ du kannst bei deinem eigenen Computer die Hardware anzeigen:
 		* Windows: Systemsteuerung > System
 		* Mac: Apfel (links oben) > Über diesen Mac 
 		* iOS: Einstellungen > Allgemein > Über
-	* [ ] ➡️ du kannst davon einen Screenshot erstellen:\
+	* ➡️ du kannst davon einen Screenshot erstellen:\
 		* [Windows](https://support.microsoft.com/de-ch/help/4488540): `PrtScn` oder `Windows` `⇧` `S`
 		* [Mac](https://support.apple.com/de-ch/HT201361): `⌘` `⇧` `5` 
 		* [iOS: (auch z.B. ganze Websites als PDF)](https://support.apple.com/de-de/HT200289): `Standby` `Home` oder `Standby` `Lauter`
 		* Android: `Ein/Aus` `Leiser` (einige Sekunden)
-<br>
-* [ ] Du kannst Dokumente so ablegen, dass auch andere sie wieder finden
-	* [ ] ➡️ dank der Ordner-Baum-Struktur deines Computers:
+<br><br>
+* Du kannst Dokumente so ablegen, dass auch andere sie wieder finden
+	* ➡️ dank der Ordner-Baum-Struktur deines Computers:
 		* [wo liegt eigentlich der Windows-Schreibtisch?](http://bit.ly/2Nfakmx)
 		* [zur «Dateien» App (iOS)](https://apps.apple.com/ch/app/file/id1232058109)
-	* [ ] ➡️ mit [Office (Windows/Mac)](https://www.office.com) [(wie installieren?)](http://bit.ly/2Wg03uo) resp. den einzelnen Apps auf dem Telefon (Word/Excel/PowerPoint/OneNote)
-	* [ ] ✳️ auf einer Cloud, z.B. [OneDrive](https://onedrive.live.com/about/de-ch/download/): [(wie installieren)?](http://bit.ly/2NdEIxw)
-	* [ ] ✳️ auf dem [Schul-Server](https://gymnasium-immensee.github.io/IT/#-sich-mit-teacherstuff-laufwerk-verbinden)
-<br>
-* [ ] ✳️ Du kannst von deinen Geräten ein Backup erstellen:
+	* ➡️ mit [Office (Windows/Mac)](https://www.office.com) [(wie installieren?)](http://bit.ly/2Wg03uo) resp. den einzelnen Apps auf dem Telefon (Word/Excel/PowerPoint/OneNote)
+	* ✳️ auf einer Cloud, z.B. [OneDrive](https://onedrive.live.com/about/de-ch/download/): [(wie installieren)?](http://bit.ly/2NdEIxw)
+	* ✳️ auf dem [Schul-Server](https://gymnasium-immensee.github.io/IT/#-sich-mit-teacherstuff-laufwerk-verbinden)
+<br><br>
+* ✳️ Du kannst von deinen Geräten ein Backup erstellen:
 	* Windows: [Dateiversionsverlauf](https://support.microsoft.com/de-de/help/4027408/windows-10-backup-and-restore)
 	* Mac: [Time Machine](https://support.apple.com/de-de/HT201250)
 	* [iOS](https://support.apple.com/de-de/HT203977)
