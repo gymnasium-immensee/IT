@@ -76,23 +76,6 @@
 * Netflix, Spotify, ...
 * E-Mail
 
-## ☁️ Teams-Dateien mit dem eigenen Computer synchronisieren
-1. [«OneDrive» installieren](https://onedrive.live.com/about/de-ch/download/): [Wie?](http://bit.ly/2NdEIxw)
-1. Im gewünschten Teams zum Reiter «Dateien» / «Files» gehen
-1. «In Sharepoint öffnen» klicken
-1. «Sync» klicken
-1. Gewünschte Ordner wählen: [Windows](https://support.office.com/de-de/article/synchronisieren-von-sharepoint-dateien-mit-dem-neuen-onedrive-synchronisierungsclient-6de9ede8-5b6e-4503-80b2-6190f3354a88) / [Mac](https://support.office.com/de-de/article/synchronisieren-von-dateien-mit-dem-onedrive-synchronisierungsclient-unter-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f)
-
-📱 (iOS & Android) Bei der OneDrive-App anmelden und «Bibliotheken» (unten rechts) wählen
-
-## 🌐 Sich mit dem Schulserver verbinden (TEACHERSTUFF)
-(Benutzername: `vorname.nachname`; Kennwort: das Office365 Passwort vom blauen Blatt; Funktioniert nur im Schul-WLAN)
-* Windows: `\\srvdc01.gyim.local\TEACHERSTUFF` im Explorer (≠ ~~Internet Explorer~~) eingeben: [Wie?](http://bit.ly/2WjB5u2)
-* Mac: `⌘` `K` + [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF): [Wie?](http://bit.ly/36cTGMV)
-* Linux: [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF) bei Serveradresse eingeben.
-* iOS (ab 13): App «Dateien» > «...» > «Mit Server verbinden» > [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF): [Wie?](http://bit.ly/31WK3yG)
-* Android: Eines [dieser Apps verwenden](https://play.google.com/store/search?q=smb&c=apps), um sich mit [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF) zu verbinden.
-
 ## 💾 Backup erstellen
 * Windows: [Dateiversionsverlauf](https://support.microsoft.com/de-de/help/4027408/windows-10-backup-and-restore)
 * Mac: [Time Machine](https://support.apple.com/de-de/HT201250)
@@ -121,6 +104,23 @@
 * Linux ([Gnome](https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.de)): `Ctrl` `⇧` `Alt` `R`
 * [iOS](https://support.apple.com/de-ch/HT207935)
 * Android: Mit einer App wie z.B. [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free)
+
+## ☁️ Teams-Dateien mit dem eigenen Computer synchronisieren
+1. [«OneDrive» installieren](https://onedrive.live.com/about/de-ch/download/): [Wie?](http://bit.ly/2NdEIxw)
+1. Im gewünschten Teams zum Reiter «Dateien» / «Files» gehen
+1. «In Sharepoint öffnen» klicken
+1. «Sync» klicken
+1. Gewünschte Ordner wählen: [Windows](https://support.office.com/de-de/article/synchronisieren-von-sharepoint-dateien-mit-dem-neuen-onedrive-synchronisierungsclient-6de9ede8-5b6e-4503-80b2-6190f3354a88) / [Mac](https://support.office.com/de-de/article/synchronisieren-von-dateien-mit-dem-onedrive-synchronisierungsclient-unter-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f)
+
+📱 (iOS & Android) Bei der OneDrive-App anmelden und «Bibliotheken» (unten rechts) wählen
+
+## 🌐 Sich mit dem Schulserver verbinden (TEACHERSTUFF)
+(Benutzername: `vorname.nachname`; Kennwort: das Office365 Passwort vom blauen Blatt; Funktioniert nur im Schul-WLAN)
+* Windows: `\\srvdc01.gyim.local\TEACHERSTUFF` im Explorer (≠ ~~Internet Explorer~~) eingeben: [Wie?](http://bit.ly/2WjB5u2)
+* Mac: `⌘` `K` + [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF): [Wie?](http://bit.ly/36cTGMV)
+* Linux: [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF) bei Serveradresse eingeben.
+* iOS (ab 13): App «Dateien» > «...» > «Mit Server verbinden» > [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF): [Wie?](http://bit.ly/31WK3yG)
+* Android: Eines [dieser Apps verwenden](https://play.google.com/store/search?q=smb&c=apps), um sich mit [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF) zu verbinden.
 
 ## 🌐 Terminal Server Zugang via Remote Desktop
 1. «Microsoft Remote Desktop» installieren: [Windows](https://www.microsoft.com/de-ch/p/microsoft-remotedesktop/9wzdncrfj3ps?activetab=pivot:overviewtab) / [Android](https://play.google.com/store/apps/details?id=com.microsoft.rdc.android&hl=de_CH) / [iOS](https://apps.apple.com/ch/app/microsoft-remotedesktop/id714464092) / [MacOS](https://apps.apple.com/ch/app/microsoft-remote-desktop-10/id1295203466)
