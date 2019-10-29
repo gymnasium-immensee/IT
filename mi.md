@@ -7,10 +7,10 @@
 * Linux: Systemsteuerung > Details (mehr Details mit `sudo apt-get install hardinfo`)
 
 ### 📸 Bildschirmfoto erstellen
-    * [Windows](https://support.microsoft.com/de-ch/help/4488540): `PrtScn` oder `Windows` `⇧` `S`
-    * [Mac](https://support.apple.com/de-ch/HT201361): `⌘` `⇧` `5` 
-    * [iOS: (auch z.B. ganze Websites als PDF)](https://support.apple.com/de-de/HT200289): `Standby` `Home` oder `Standby` `Lauter`
-    * Android: `Ein/Aus` `Leiser` (einige Sekunden)
+* [Windows](https://support.microsoft.com/de-ch/help/4488540): `PrtScn` oder `Windows` `⇧` `S`
+* [Mac](https://support.apple.com/de-ch/HT201361): `⌘` `⇧` `5` 
+* [iOS: (auch z.B. ganze Websites als PDF)](https://support.apple.com/de-de/HT200289): `Standby` `Home` oder `Standby` `Lauter`
+* Android: `Ein/Aus` `Leiser` (einige Sekunden)
 
 
 ## Lektion 2
