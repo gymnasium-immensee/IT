@@ -30,9 +30,8 @@
 
 ## 📸 Bildschirmfoto erstellen
 * [Windows](https://support.microsoft.com/de-ch/help/4488540): `PrtScn` oder `Windows` `⇧` `S`
-* [Mac](https://support.apple.com/de-ch/HT201361): `⌘` `⇧` `5` 
+* [Mac](https://support.apple.com/de-ch/HT201361): `⌘` `⇧` `5`
 * Linux ([Gnome](https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.de)) `PrtScn` oder mit «Screenshot»
-
 * [iOS: (auch z.B. ganze Websites als PDF)](https://support.apple.com/de-de/HT200289): `Standby` `Home` oder `Standby` `Lauter`
 * Android: `Ein/Aus` `Leiser` (einige Sekunden)
 
