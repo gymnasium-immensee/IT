@@ -103,3 +103,7 @@
     * ⚠️ was sind die Vor- und Nachteile der Cloud?
 <br><br>
 * ✳️ Du kannst von deinen Geräten ein Backup erstellen
+
+# Weitere Tipps
+
+➡️ [gymnasium-immensee.github.io/IT](https://gymnasium-immensee.github.io/IT/)
