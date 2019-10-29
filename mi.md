@@ -15,7 +15,7 @@
 
 ## 🍕Der Computer - Schicht um Schicht
 * Pizza ~ Ausgabe (Bildschirm, Lautsprecher, etc.)
-* Rezept ~ Software, z.B. Programme/Apps/Spiele/Browser/... (alles andere ist Hardware)
+* Rezept ~ Software, z.B. Programme/Apps/Spiele/Browser/...
 * Küchengeräte ~ Betriebssystem
 * Kühlschrank ~ Datenspeicher (Festplatte/SSD)
 * Küchentisch ~ Arbeitsspeicher (RAM)
