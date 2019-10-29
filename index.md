@@ -95,6 +95,7 @@
 * [Teams](https://teams.microsoft.com/downloads)
 * [OneDrive](https://onedrive.live.com/about/de-ch/download/): [Wie?](http://bit.ly/2NdEIxw)
 * [RemoteDesktop](https://gymnasium-immensee.github.io/IT/#-terminal-server-zugang-viaremote-desktop)
+* [Dateien App (iOS)](https://apps.apple.com/ch/app/file/id1232058109)
 
 #### Browser
 * [Firefox](https://www.mozilla.org/de/firefox/new/)
