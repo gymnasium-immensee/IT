@@ -88,12 +88,11 @@
 ## Lektion 5 | Prüfung
 
 ### 🎯 Lernziele
-* Du kannst den Aufbau eines Computers mit einer Küche vergleichen ➡️ siehe Handout 1
+* Du kannst den Aufbau eines Computers mit einer Küche vergleichen
 <br><br>
-* Du kennst den Unterschied zwischen Hardware und Software ➡️ siehe Handout 1
+* Du kennst den Unterschied zwischen Hardware und Software
 <br><br>
 * Du hast eine Vorstellung von der Leistung von Computern
-	* ➡️ siehe Handout 1
 	* ➡️ du kannst bei deinem eigenen Computer die Hardware anzeigen
 	* ➡️ du kannst davon einen Screenshot erstellen
 <br><br>
@@ -103,4 +102,4 @@
 	* ✳️ auf dem Schul-Server (TEACHERSTUFF)
     * ⚠️ was sind die Vor- und Nachteile der Cloud?
 <br><br>
-* ✳️ Du kannst von deinen Geräten ein Backup erstellen:
+* ✳️ Du kannst von deinen Geräten ein Backup erstellen
