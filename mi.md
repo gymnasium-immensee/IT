@@ -55,7 +55,7 @@
 * [Google Chrome](https://www.google.com/chrome/)
 * [Opera](https://www.opera.com)
 
-### Praktische Windows-Progamme (am einfachsten unten links danach suchen)
+### Praktische Windows-Progamme (am einfachsten unten links 🔎 danach suchen)
 * Rechner
 * Ausschneiden und Skizzieren
 * Sprachnachricht
