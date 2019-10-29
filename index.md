@@ -17,6 +17,8 @@
 * Windows: Systemsteuerung > System
 * Mac: Apfel (links oben) > Über diesen Mac
 * Linux: Systemsteuerung > Details (mehr Details mit `sudo apt-get install hardinfo`)
+* iOS: Einstellungen > Allgemein > Info
+* Android: Einstellungen > Gerätewartung
 
 ## 📸 Bildschirmfoto/-aufzeichnung erstellen
 * Windows:
@@ -43,6 +45,7 @@
 * Linux: [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF) bei Serveradresse eingeben.
 * iOS (ab 13): App «Dateien» > «...» > «Mit Server verbinden» > [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF)
 * Android: Eines [dieser Apps verwenden](https://play.google.com/store/search?q=smb&c=apps), um sich mit [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF) zu verbinden.
+
 
 ## 🌐 Terminal Server Zugang via Remote Desktop
 1. «Microsoft Remote Desktop» installieren: [Windows](https://www.microsoft.com/de-ch/p/microsoft-remotedesktop/9wzdncrfj3ps?activetab=pivot:overviewtab) / [Android](https://play.google.com/store/apps/details?id=com.microsoft.rdc.android&hl=de_CH) / [iOS](https://apps.apple.com/ch/app/microsoft-remotedesktop/id714464092) / [MacOS](https://apps.apple.com/ch/app/microsoft-remote-desktop-10/id1295203466)

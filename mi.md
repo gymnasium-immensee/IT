@@ -25,10 +25,14 @@
 * Windows: Systemsteuerung > System
 * Mac: Apfel (links oben) > Über diesen Mac
 * Linux: Systemsteuerung > Details (mehr Details mit `sudo apt-get install hardinfo`)
+* iOS: Einstellungen > Allgemein > Info
+* Android: Einstellungen > Gerätewartung
 
 ## 📸 Bildschirmfoto erstellen
 * [Windows](https://support.microsoft.com/de-ch/help/4488540): `PrtScn` oder `Windows` `⇧` `S`
 * [Mac](https://support.apple.com/de-ch/HT201361): `⌘` `⇧` `5` 
+* Linux ([Gnome](https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.de)) `PrtScn` oder mit «Screenshot»
+
 * [iOS: (auch z.B. ganze Websites als PDF)](https://support.apple.com/de-de/HT200289): `Standby` `Home` oder `Standby` `Lauter`
 * Android: `Ein/Aus` `Leiser` (einige Sekunden)
 
@@ -41,7 +45,7 @@
 * 📺 [brainfaqk Erklärvideos (YouTube)](https://www.youtube.com/playlist?list=PL6DU7YsYvRpA31RgBg1MUTf2EuVtmAF-E&app=desktop)
 * 👓 [WikiBook über Computerhardware](https://de.m.wikibooks.org/wiki/Computerhardware_f%C3%BCr_Anf%C3%A4nger)
 
-## 🕹 Praktischen Software
+## 🕹 Praktische Software
 
 ### Zur Zusammenarbeit
 * Office (Word, Excel, PowerPoint, OneNote): [office.com](https://www.office.com) > anmelden > Office installieren: [Wie?](http://bit.ly/2Wg03uo)
@@ -115,7 +119,7 @@
 ## 📹 Bildschirmaufzeichnung erstellen
 * Windows: Mit der [Xbox Game Bar](https://support.xbox.com/de-ch/xbox-on-windows/social/record-game-clips-game-bar-windows-10) oder einem Programm wie z.B. [Screenpresso](https://screenpresso.com)
 * [Mac](https://support.apple.com/de-ch/HT201361): `⌘` `⇧` `5`
-* Linux ([Gnome](https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.de)): Aufzeichnung: `Ctrl` `⇧` `Alt` `R`
+* Linux ([Gnome](https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.de)): `Ctrl` `⇧` `Alt` `R`
 * [iOS](https://support.apple.com/de-ch/HT207935)
 * Android: Mit einer App wie z.B. [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free)
 
