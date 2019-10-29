@@ -1,8 +1,28 @@
 # Medien & Informatik | Grundlagen
 
 ## Lektion 1
-* [Am eigenen Computer die Hardware Komponenten anzeigen](https://gymnasium-immensee.github.io/IT/#-am-eigenen-computer-diehardware-komponenten-anzeigen)
-* [Bildschirmfoto erstellen](https://gymnasium-immensee.github.io/IT/#-bildschirmfoto-video-erstellen)
+### 🖥 Am eigenen Computer die Hardware Komponenten anzeigen
+* Windows: Systemsteuerung > System
+* Mac: Apfel (links oben) > Über diesen Mac
+* Linux: Systemsteuerung > Details (mehr Details mit `sudo apt-get install hardinfo`)
+
+## 📸 Bildschirmfoto/-aufzeichnung erstellen
+* Windows:
+  * [Foto](https://support.microsoft.com/de-ch/help/4488540): `PrtScn` oder `Windows` `⇧` `S`
+  * Aufzeichnung: Mit der [Xbox Game Bar](https://support.xbox.com/de-ch/xbox-on-windows/social/record-game-clips-game-bar-windows-10) oder einem Programm wie z.B. [Screenpresso](https://screenpresso.com)
+* [Mac](https://support.apple.com/de-ch/HT201361):
+  * `⌘` `⇧` `5` (alle Optionen, inkl. Aufzeichnung)
+  * `⌃` `⌘` `⇧` `3` (ganzer Bildschirm direkt in die Zwischenablage)
+  * `⌃` `⌘` `⇧` `4` (Ausschnitt direkt in die Zwischenablage)
+* Linux ([Gnome](https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.de)):
+  * Foto: `PrtScn` oder mit «Screenshot»
+  * Aufzeichnung: `Ctrl` `⇧` `Alt` `R`
+* iOS:
+  * [Foto (auch z.B. ganze Websites als PDF)](https://support.apple.com/de-de/HT200289): `Standby` `Home` oder `Standby` `Lauter`
+  * Aufzeichnung: via [Kontrollzentrum](https://support.apple.com/de-ch/HT207935)
+* Android:
+  * [Foto](): `Ein/Aus` `Leiser` (einige Sekunden)
+  * Aufzeichnung: Mit einer App wie z.B. [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free)
 
 ## Lektion 2
 * [Bluetooth - Werbeplakate am Zürich HB](https://www.tagesanzeiger.ch/zuerich/stadt/swisscom-lueftet-geheimnis-um-schwarze-boxen-am-hb-zuerich/story/29988994)
@@ -18,48 +38,78 @@
 * [WikiBook über Computerhardware](https://de.m.wikibooks.org/wiki/Computerhardware_f%C3%BCr_Anf%C3%A4nger)
 * [ifixit.com](https://www.ifixit.com)
 
-### [Software](https://gymnasium-immensee.github.io/IT/#-praktische-software)
+### Software
+
+#### Zur Zusammenarbeit
+* Office (Word, Excel, PowerPoint, OneNote): [office.com](https://www.office.com) > anmelden > Office installieren: [Wie?](http://bit.ly/2Wg03uo)
+* [Teams](https://teams.microsoft.com/downloads)
+* [OneDrive](https://onedrive.live.com/about/de-ch/download/): [Wie?](http://bit.ly/2NdEIxw)
+* [RemoteDesktop](https://gymnasium-immensee.github.io/IT/#-terminal-server-zugang-viaremote-desktop)
+* [Dateien App (iOS)](https://apps.apple.com/ch/app/file/id1232058109)
+
+#### Browser
+* [Firefox](https://www.mozilla.org/de/firefox/new/)
+* [Google Chrome](https://www.google.com/chrome/)
+* [Opera](https://www.opera.com)
+
+#### Praktische Windows-Progamme (am einfachsten unten links danach suchen)
+* Rechner
+* Ausschneiden und Skizzieren
+* Sprachnachricht
+* Mail
+* Drucker und Scanner
 
 ### Ordnerstruktur des eigenen Computers entdecken
 * Erstelle von den wichtigsten Ordnern deines Computers ein Baumdiagramm 🌳 auf Papier. Beginne bei «Dieser PC» (Windows) oder «Macintosh HD» (Mac).
 * [Wo liegt eigentlich der «Schreibtisch»? (Screencast)](http://bit.ly/2Nfakmx)
+* [zur «Dateien» App (iOS)](https://apps.apple.com/ch/app/file/id1232058109)
 
 ## Lektion 4
-* Entfernte Ordner
-* Online zusammenarbeiten 
-* Backup
+### ☁️ Die Cloud
+* [Handysektor erklärt: Was ist eigentlich die Cloud?](https://www.youtube.com/watch?v=VhqSH8HPioU)
+* [OneDrive](https://onedrive.live.com/about/de-ch/download/) [(Wie für Windows installieren?)](http://bit.ly/2NdEIxw), Dropbox, iCloud, GoogleDrive
+* WhatsApp, Instagram, Facebook, Snapchat, Slack, Teams, ...
+* Netflix, Spotify, ...
+* E-Mail
 
-## Lektion 5 | Prüfung
-* 🎯Lernziele:
-  # Medien & Informatik | Grundlagen | Lektion 4 | 29.10.19 [gymnasium-immensee.github.io/IT/mi](https://gymnasium-immensee.github.io/IT/mi)
+### ☁️ Teams-Dateien mit dem eigenen Computer synchronisieren
+1. [«OneDrive» installieren](https://onedrive.live.com/about/de-ch/download/): [Wie?](http://bit.ly/2NdEIxw)
+1. Im gewünschten Teams zum Reiter «Dateien» / «Files» gehen
+1. «In Sharepoint öffnen» klicken
+1. «Sync» klicken
+1. Gewünschte Ordner wählen: [Windows](https://support.office.com/de-de/article/synchronisieren-von-sharepoint-dateien-mit-dem-neuen-onedrive-synchronisierungsclient-6de9ede8-5b6e-4503-80b2-6190f3354a88) / [Mac](https://support.office.com/de-de/article/synchronisieren-von-dateien-mit-dem-onedrive-synchronisierungsclient-unter-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f)
 
-### 🎯 Ziele
+### 🌐 Sich mit dem Schulserver verbinden (TEACHERSTUFF)
+(Benutzername: `vorname.nachname`; Kennwort: das Office365 Passwort vom blauen Blatt; Funktioniert nur im Schul-WLAN)
+* Windows: `\\srvdc01.gyim.local\TEACHERSTUFF` im Explorer (≠ ~~Internet Explorer~~) eingeben: [Wie?](http://bit.ly/2WjB5u2)
+* Mac: `⌘` `K` + [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF)
+* Linux: [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF) bei Serveradresse eingeben.
+* iOS (ab 13): App «Dateien» > «...» > «Mit Server verbinden» > [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF)
+* Android: Eines [dieser Apps verwenden](https://play.google.com/store/search?q=smb&c=apps), um sich mit [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF) zu verbinden.
+
+### 💾 Backup erstellen
+* Windows: [Dateiversionsverlauf](https://support.microsoft.com/de-de/help/4027408/windows-10-backup-and-restore)
+* Mac: [Time Machine](https://support.apple.com/de-de/HT201250)
+* Linux: [rdiff-backup](https://rdiff-backup.net)
+* [iOS](https://support.apple.com/de-de/HT203977)
+
+
+## Lektion 5 | Prüfung
+
+### 🎯 Lernziele
 * Du kannst den Aufbau eines Computers mit einer Küche vergleichen ➡️ siehe Handout 1
 <br><br>
 * Du kennst den Unterschied zwischen Hardware und Software ➡️ siehe Handout 1
 <br><br>
 * Du hast eine Vorstellung von der Leistung von Computern
 	* ➡️ siehe Handout 1
-	* ➡️ du kannst bei deinem eigenen Computer die Hardware anzeigen:
-		* Windows: Systemsteuerung > System
-		* Mac: Apfel (links oben) > Über diesen Mac 
-		* iOS: Einstellungen > Allgemein > Über
-	* ➡️ du kannst davon einen Screenshot erstellen:
-		* [Windows](https://support.microsoft.com/de-ch/help/4488540): `PrtScn` oder `Windows` `⇧` `S`
-		* [Mac](https://support.apple.com/de-ch/HT201361): `⌘` `⇧` `5` 
-		* [iOS: (auch z.B. ganze Websites als PDF)](https://support.apple.com/de-de/HT200289): `Standby` `Home` oder `Standby` `Lauter`
-		* Android: `Ein/Aus` `Leiser` (einige Sekunden)
+	* ➡️ du kannst bei deinem eigenen Computer die Hardware anzeigen
+	* ➡️ du kannst davon einen Screenshot erstellen
 <br><br>
 * Du kannst Dokumente so ablegen, dass auch andere sie wieder finden
-	* ➡️ dank der Ordner-Baum-Struktur deines Computers:
-		* [wo liegt eigentlich der Windows-Schreibtisch?](http://bit.ly/2Nfakmx)
-		* [zur «Dateien» App (iOS)](https://apps.apple.com/ch/app/file/id1232058109)
-	* ➡️ mit [Office (Windows/Mac)](https://www.office.com) [(wie installieren?)](http://bit.ly/2Wg03uo) resp. den einzelnen Apps auf dem Telefon (Word/Excel/PowerPoint/OneNote)
-	* ✳️ auf einer Cloud, z.B. [OneDrive](https://onedrive.live.com/about/de-ch/download/): [(wie installieren)?](http://bit.ly/2NdEIxw)
-	* ✳️ auf dem [Schul-Server](https://gymnasium-immensee.github.io/IT/#-sich-mit-teacherstuff-laufwerk-verbinden)
+	* ➡️ dank der Ordner-Baum-Struktur deines Computers		
+	* ✳️ auf einer Cloud, z.B. [OneDrive](https://onedrive.live.com/about/de-ch/download/)
+	* ✳️ auf dem Schul-Server (TEACHERSTUFF)
+    * ⚠️ was sind die Vor- und Nachteile der Cloud?
 <br><br>
 * ✳️ Du kannst von deinen Geräten ein Backup erstellen:
-	* Windows: [Dateiversionsverlauf](https://support.microsoft.com/de-de/help/4027408/windows-10-backup-and-restore)
-	* Mac: [Time Machine](https://support.apple.com/de-de/HT201250)
-	* [iOS](https://support.apple.com/de-de/HT203977)
-	* Android: Mit dem Programm der Telefon-Marke (z.B. Samsung)
