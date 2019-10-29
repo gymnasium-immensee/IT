@@ -1,6 +1,15 @@
 # Medien & Informatik | Grundlagen
 
 ## Lektion 1
+
+### 🍕Der Computer - Schicht um Schicht
+* Pizza: Ausgabe (Bildschirm, Lautsprecher, etc.)
+* Rezept: Software, z.B. Programme/Apps/Spiele/Browser/... (alles andere ist Hardware)
+* Küchengeräte: Betriebssystem
+* Kühlschrank: Datenspeicher (Festplatte/SSD)
+* Küchentisch: Arbeitsspeicher (RAM)
+* Köch_in: Prozessor (CPU)
+
 ### 🖥 Am eigenen Computer die Hardware Komponenten anzeigen
 * Windows: Systemsteuerung > System
 * Mac: Apfel (links oben) > Über diesen Mac
