@@ -38,13 +38,13 @@
 <br><br>
 * Du kennst den Unterschied zwischen Hardware und Software ➡️ siehe Handout 1
 <br><br>
-* Du hast eine Vorstellung von der Leistung von Computern\
+* Du hast eine Vorstellung von der Leistung von Computern
 	* ➡️ siehe Handout 1
 	* ➡️ du kannst bei deinem eigenen Computer die Hardware anzeigen:
 		* Windows: Systemsteuerung > System
 		* Mac: Apfel (links oben) > Über diesen Mac 
 		* iOS: Einstellungen > Allgemein > Über
-	* ➡️ du kannst davon einen Screenshot erstellen:\
+	* ➡️ du kannst davon einen Screenshot erstellen:
 		* [Windows](https://support.microsoft.com/de-ch/help/4488540): `PrtScn` oder `Windows` `⇧` `S`
 		* [Mac](https://support.apple.com/de-ch/HT201361): `⌘` `⇧` `5` 
 		* [iOS: (auch z.B. ganze Websites als PDF)](https://support.apple.com/de-de/HT200289): `Standby` `Home` oder `Standby` `Lauter`
