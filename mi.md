@@ -6,39 +6,28 @@
 * Mac: Apfel (links oben) > Über diesen Mac
 * Linux: Systemsteuerung > Details (mehr Details mit `sudo apt-get install hardinfo`)
 
-## 📸 Bildschirmfoto/-aufzeichnung erstellen
-* Windows:
-  * [Foto](https://support.microsoft.com/de-ch/help/4488540): `PrtScn` oder `Windows` `⇧` `S`
-  * Aufzeichnung: Mit der [Xbox Game Bar](https://support.xbox.com/de-ch/xbox-on-windows/social/record-game-clips-game-bar-windows-10) oder einem Programm wie z.B. [Screenpresso](https://screenpresso.com)
-* [Mac](https://support.apple.com/de-ch/HT201361):
-  * `⌘` `⇧` `5` (alle Optionen, inkl. Aufzeichnung)
-  * `⌃` `⌘` `⇧` `3` (ganzer Bildschirm direkt in die Zwischenablage)
-  * `⌃` `⌘` `⇧` `4` (Ausschnitt direkt in die Zwischenablage)
-* Linux ([Gnome](https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.de)):
-  * Foto: `PrtScn` oder mit «Screenshot»
-  * Aufzeichnung: `Ctrl` `⇧` `Alt` `R`
-* iOS:
-  * [Foto (auch z.B. ganze Websites als PDF)](https://support.apple.com/de-de/HT200289): `Standby` `Home` oder `Standby` `Lauter`
-  * Aufzeichnung: via [Kontrollzentrum](https://support.apple.com/de-ch/HT207935)
-* Android:
-  * [Foto](): `Ein/Aus` `Leiser` (einige Sekunden)
-  * Aufzeichnung: Mit einer App wie z.B. [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free)
+### 📸 Bildschirmfoto erstellen
+    * [Windows](https://support.microsoft.com/de-ch/help/4488540): `PrtScn` oder `Windows` `⇧` `S`
+    * [Mac](https://support.apple.com/de-ch/HT201361): `⌘` `⇧` `5` 
+    * [iOS: (auch z.B. ganze Websites als PDF)](https://support.apple.com/de-de/HT200289): `Standby` `Home` oder `Standby` `Lauter`
+    * Android: `Ein/Aus` `Leiser` (einige Sekunden)
+
 
 ## Lektion 2
 * [Bluetooth - Werbeplakate am Zürich HB](https://www.tagesanzeiger.ch/zuerich/stadt/swisscom-lueftet-geheimnis-um-schwarze-boxen-am-hb-zuerich/story/29988994)
 * [digitec.ch – Hier kann man auch einzelne Computer-Komponenten bestellen, z.B. RAM](https://www.digitec.ch/)
-
-## Lektion 3
-### Hardware
-* Finde mit Hilfe des Handouts heraus, welche Komponenten (Prozessor, Festplatte, SSD, RAM, etc.) bei den ausgestellten Geräten zu sehen sind.
 * [Apollo 11: A Space Odyssey (YouTube)](https://www.youtube.com/watch?v=yDm5RVzUlGk)
 * [Apollo 11: Mit 1 MHz zum Mond (Artikel)](https://www.pctipp.ch/news/gesellschaft/artikel/apollo-11-mit-1-mhz-zum-mond-80567/)
 * [Artikel über Moore's Law](https://www.spiegel.de/netzwelt/web/moore-s-law-die-goldene-regel-der-chiphersteller-broeckelt-a-1083468.html)
+
+## Lektion 3
+### ⚙️ Hardware
+* Finde mit Hilfe des Handouts heraus, welche Komponenten (Prozessor, Festplatte, SSD, RAM, etc.) bei den ausgestellten Geräten zu sehen sind.
 * [brainfaqk Erklärvideos (YouTube)](https://www.youtube.com/playlist?list=PL6DU7YsYvRpA31RgBg1MUTf2EuVtmAF-E&app=desktop)
 * [WikiBook über Computerhardware](https://de.m.wikibooks.org/wiki/Computerhardware_f%C3%BCr_Anf%C3%A4nger)
 * [ifixit.com](https://www.ifixit.com)
 
-### Software
+### 🕹 Software
 
 #### Zur Zusammenarbeit
 * Office (Word, Excel, PowerPoint, OneNote): [office.com](https://www.office.com) > anmelden > Office installieren: [Wie?](http://bit.ly/2Wg03uo)
@@ -59,7 +48,7 @@
 * Mail
 * Drucker und Scanner
 
-### Ordnerstruktur des eigenen Computers entdecken
+### 🗂 Ordnerstruktur des eigenen Computers entdecken
 * Erstelle von den wichtigsten Ordnern deines Computers ein Baumdiagramm 🌳 auf Papier. Beginne bei «Dieser PC» (Windows) oder «Macintosh HD» (Mac).
 * [Wo liegt eigentlich der «Schreibtisch»? (Screencast)](http://bit.ly/2Nfakmx)
 * [zur «Dateien» App (iOS)](https://apps.apple.com/ch/app/file/id1232058109)
