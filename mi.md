@@ -8,10 +8,10 @@
 	* ➡️ du kannst davon einen Screenshot erstellen
 * Du kannst Dokumente so ablegen, dass auch andere sie wieder finden
 	* ➡️ dank der Ordner-Baum-Struktur deines Computers		
-	* ✳️ auf einer Cloud, z.B. [OneDrive](https://onedrive.live.com/about/de-ch/download/)
-	* ✳️ auf dem Schul-Server (TEACHERSTUFF)
+	* ➡️ auf einer Cloud, z.B. [OneDrive](https://onedrive.live.com/about/de-ch/download/)
+	* ~~auf dem Schul-Server (TEACHERSTUFF)~~
     * ⚠️ was sind die Vor- und Nachteile der Cloud?
-* ✳️ Du kannst von deinen Geräten ein Backup erstellen
+* ➡️ Du kannst von deinen Geräten ein Backup erstellen
 
 ## 🍕Der Computer - Schicht um Schicht
 * Pizza ~ Ausgabe (Bildschirm, Lautsprecher, etc.)
