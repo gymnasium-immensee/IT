@@ -14,6 +14,9 @@
 * ➡️ Du kannst von deinen Geräten ein Backup erstellen
 
 ## Häufige Fragen (FAQ)
+Die die keinen Computer haben, dürfen wir unser Handy benutzen??
+: Falls du noch keinen Laptop oder kein Tablet besitzt: ja.
+
 Muss man für den Test am Dienstag iOS 13 besitzen?
 : Nein, iOS13 ist nicht nötig.
 
@@ -23,11 +26,9 @@ Müssen wir «☁️ Teams-Dateien mit dem eigenen Computer synchronisieren» k�
 Müssen wir «🌐 Sich mit dem Schulserver verbinden (TEACHERSTUFF)» können?
 : Nein.
 
-Die die keinen Computer haben, dürfen wir unser Handy benutzen??
-: Falls du noch keinen Laptop oder kein Tablet besitzt: ja.
-
 Als ich mich bei Teacherstuff anmeldete, ladete es die ganze Zeit ohne Ergebnis. Ist das normal?
 : Das geht nur im Schul-WLAN (gehört aber nicht zu den Lernzielen)
+
 
 
 ## 🍕Der Computer - Schicht um Schicht
