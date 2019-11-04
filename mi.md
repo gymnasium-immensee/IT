@@ -16,14 +16,19 @@
 ## Häufige Fragen (FAQ)
 Muss man für den Test am Dienstag iOS 13 besitzen?
 : Nein, iOS13 ist nicht nötig.
+
 Müssen wir «☁️ Teams-Dateien mit dem eigenen Computer synchronisieren» können?
 : Nein.
+
 Müssen wir «🌐 Sich mit dem Schulserver verbinden (TEACHERSTUFF)» können?
 : Nein.
+
 Die die keinen Computer haben, dürfen wir unser Handy benutzen??
 : Falls du noch keinen Laptop oder kein Tablet besitzt: ja.
+
 Als ich mich bei Teacherstuff anmeldete, ladete es die ganze Zeit ohne Ergebnis. Ist das normal?
 : Das geht nur im Schul-WLAN (gehört aber nicht zu den Lernzielen)
+
 
 ## 🍕Der Computer - Schicht um Schicht
 * Pizza ~ Ausgabe (Bildschirm, Lautsprecher, etc.)
