@@ -13,7 +13,7 @@
     * ⚠️ was sind die Vor- und Nachteile der Cloud?
 * ➡️ Du kannst von deinen Geräten ein Backup erstellen
 
-## Häufige Fragen & Antworten (FAQ)
+## Häufige Fragen (FAQ)
 Muss man für den Test am Dienstag iOS 13 besitzen?
 : Nein, iOS13 ist nicht nötig.
 Müssen wir «☁️ Teams-Dateien mit dem eigenen Computer synchronisieren» können?
