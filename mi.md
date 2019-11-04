@@ -27,7 +27,10 @@ Müssen wir «🌐 Sich mit dem Schulserver verbinden (TEACHERSTUFF)» können?
 : Nein.
 
 Als ich mich bei Teacherstuff anmeldete, ladete es die ganze Zeit ohne Ergebnis. Ist das normal?
-: Das geht nur im Schul-WLAN (gehört aber nicht zu den Lernzielen)
+: Das geht nur im Schul-WLAN (gehört aber nicht zu den Lernzielen).
+
+Müssen wir computer Teilen Etikettieren können für den Test?
+: Wenn, dann nur mit eindeutig erkennbaren Bauteilen, welche dann so ähnlich aussehen würden, wie auf der Seite 5 von Handout 1.
 
 
 
