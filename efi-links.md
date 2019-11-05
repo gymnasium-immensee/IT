@@ -43,3 +43,6 @@
 * [SQL Island](https://sql-island.informatik.uni-kl.de)
 * [Einführungsvideo(Youtube)](https://www.youtube.com/embed/3dWLv8Pxiy4)
 * [SQL E.Tutorial](https://frontend-1.et.ethz.ch/sc/4srf2fpLfT37pxBaS)
+* [Kahnacademy](https://de.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql)
+* [w3schools](https://www.w3schools.com/sql/)
+* [SQL Zoo](https://sqlzoo.net)
