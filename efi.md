@@ -1,7 +1,6 @@
 # EFI
 
-<details>
-<summary> Computer/Daten </summary>
+## Computer/Daten
 
 * [Werbeplakate am Zürich HB](https://www.tagesanzeiger.ch/zuerich/stadt/swisscom-lueftet-geheimnis-um-schwarze-boxen-am-hb-zuerich/story/29988994)
 * [geschwindigkeit.ch](https://www.geschwindigkeit.ch/)
@@ -19,9 +18,9 @@
 * [Artikel über Moore's Law](https://www.spiegel.de/netzwelt/web/moore-s-law-die-goldene-regel-der-chiphersteller-broeckelt-a-1083468.html)
 
 * [ifixit.com](https://www.ifixit.com)
-</details>
 
-<details><summary>Binärsystem</summary>
+
+## Binärsystem
 
 * [Uhr oder keine Uhr?](http://abenteuer-informatik.de/bu.html)
 * [Binary Hand Dance](https://www.youtube.com/watch?v=OCYZTg3jahU)
@@ -41,8 +40,6 @@
     * 255 in binary
     * 16 in hex
 
-
-</details>
 
 
 ## SQL
