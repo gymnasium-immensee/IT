@@ -127,6 +127,10 @@ INSERT INTO Lebensmittel (Id, Name, Kategorie_Id) VALUES (1001025, 'Branntwein a
 ```
 👉 [Mehr Lebensmittel (lebensmittel.sql)](https://frontend-1.et.ethz.ch/gridfs/fs/hash/769d8bd29f8968268497e34cb0d7890d?download=true)
 
+#### In eine Tabelle Zwischentabelle einfügen
+👉 [lebensmittel_inhaltsstoff.sql](https://frontend-1.et.ethz.ch/gridfs/fs/hash/769d8bd29f8968268497e34cb0d7890d?download=true)
+
+
 ### SQL-Abfragen
 
 
