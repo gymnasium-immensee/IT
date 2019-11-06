@@ -129,28 +129,30 @@ INSERT INTO Lebensmittel (Id, Name, Kategorie_Id) VALUES (1001025, 'Branntwein a
 
 ## SQL-Abfragen
 
-### Eine Spalte
+
+### Eine Spalte
+
 
 ```sql
 SELECT Name
 FROM Lebensmittel
 ```
 
-### Mehrere Spalten
+### Mehrere Spalten
 
 ```sql
 SELECT Id, Name
 FROM Lebensmittel
 ```
 
-Alle Spalten
+### Alle Spalten
 
 ```sql
 SELECT *
 FROM Lebensmittel
 ```
 
-Mit Filter
+### Mit Filter
 
 ```sql
 SELECT *
@@ -158,7 +160,7 @@ FROM Lebensmittel
 WHERE Id = 1000826 OR Id = 1000840;
 ```
 
-Kleiner als & Ordnen
+### Kleiner als & Ordnen
 ```sql
 SELECT *
 FROM Lebensmittel
@@ -166,7 +168,14 @@ WHERE Id < 1001000
 ORDER BY Name DESC;
 ```
 
-## sqlite3-Befehle
+## [sqlite3](https://sqlite.org)-Befehle
+
+Programm starten (Windows)
+: [sqlite-tools-win32-x86-xxxxxxx.zip herunterladen](https://sqlite.org/download.html) > entzippen > sqlite3.exe öffnen
+
+Programm starten (Mac, Linux, BSD)
+: `sqlite3` im Terminal eingeben
+
 Datenbank (namens «nwdatenbank.db») öffnen/erstellen
 : `.open nwdatenbank.db`
 
