@@ -55,7 +55,7 @@
 
 ## Tabellen erstellen
 
-### Mit einer Inhalts-Spalte plus Primärschlüssel
+### Zwei Tabellen («Kategorie» & «Inhaltsstoff») mit je einer Inhalts-Spalte («Name») plus je einem Primärschlüssel («Id»)
 ```sql
 CREATE TABLE Kategorie (
 	Id INTEGER NOT NULL CHECK(typeof(Id) = 'integer'),
@@ -83,7 +83,7 @@ CREATE TABLE Lebensmittel (
 ```
 
 
-### Mit kombiniertem Primärschlüssel und zwei Fremdschlüsseln 
+### Zwischentabelle mit kombiniertem Primärschlüssel und zwei Fremdschlüsseln 
 ```sql
 CREATE TABLE Lebensmittel_Inhaltsstoff (
 Lebensmittel_Id INTEGER NOT NULL,
@@ -95,7 +95,6 @@ FOREIGN KEY(Inhaltsstoff_Id) REFERENCES Inhaltsstoff(Id)
 );
 ```
 
-
 ### Tabelle & alle dazugehörigen Daten entfernen:
 ```sql
 DROP TABLE database_name.table_name;
@@ -103,7 +102,7 @@ DROP TABLE database_name.table_name;
 
 ## Daten hinzufügen
 
-### Bei einer Inhaltsspalte plus Primärschlüssel
+### In zwei Tabellen («Kategorie», «Inhaltsstoff»), je einer Inhaltsspalte («Name») plus je einem Primärschlüssel («Id»)
 ```sql
 INSERT INTO Kategorie (Id, Name) VALUES (1, 'Getränke');
 INSERT INTO Kategorie (Id, Name) VALUES (2, 'Früchte und Gemüse');
@@ -112,35 +111,63 @@ INSERT INTO Kategorie (Id, Name) VALUES (4, 'Getreideprodukte');
 INSERT INTO Kategorie (Id, Name) VALUES (5, 'Fleisch und Fisch');
 INSERT INTO Kategorie (Id, Name) VALUES (6, 'Süssspeisen');
 INSERT INTO Kategorie (Id, Name) VALUES (7, 'anderes');
-```
 
+
+INSERT INTO Inhaltsstoff (Id, Name) VALUES (1, 'Alkohol (in g)');
+INSERT INTO Inhaltsstoff (Id, Name) VALUES (2, 'Beta-Carotin (in mikrog)');
+INSERT INTO Inhaltsstoff (Id, Name) VALUES (3, 'Calcium (in mg)');
+INSERT INTO Inhaltsstoff (Id, Name) VALUES (4, 'Cholesterin (in mg)');
+INSERT INTO Inhaltsstoff (Id, Name) VALUES (5, 'Eisen (in mg)');
+```
+👉 [Mehr Inhaltsstoffe (inhaltsstoffe.sql)](https://frontend-1.et.ethz.ch/gridfs/fs/hash/7b88561eccaf4706c155cf6328470f13?download=true)
+
+### In eine Tabelle («Lebensmittel») mit drei Spalten («Id», «Name», «Kategorie_Id»)
+```sql
+INSERT INTO Lebensmittel (Id, Name, Kategorie_Id) VALUES (1001025, 'Branntwein aus Getreide (z.B. Whisky)', 1);
+```
+👉 [Mehr Lebensmittel (lebensmittel.sql)](https://frontend-1.et.ethz.ch/gridfs/fs/hash/769d8bd29f8968268497e34cb0d7890d?download=true)
 
 ## SQL-Abfragen
-Eine Spalte
-: `SELECT Name
-FROM Lebensmittel`
 
-Mehrere Spalten
-: `SELECT Id, Name
-FROM Lebensmittel`
+### Eine Spalte
+
+```sql
+SELECT Name
+FROM Lebensmittel
+```
+
+### Mehrere Spalten
+
+```sql
+SELECT Id, Name
+FROM Lebensmittel
+```
 
 Alle Spalten
-: `SELECT *
-FROM Lebensmittel`
+
+```sql
+SELECT *
+FROM Lebensmittel
+```
 
 Mit Filter
-: `SELECT *
+
+```sql
+SELECT *
 FROM Lebensmittel
-WHERE Id = 1000826 OR Id = 1000840;`
+WHERE Id = 1000826 OR Id = 1000840;
+```
 
 Kleiner als & Ordnen
-: `SELECT *
+```sql
+SELECT *
 FROM Lebensmittel
 WHERE Id < 1001000
-ORDER BY Name DESC;`
+ORDER BY Name DESC;
+```
 
 ## sqlite3-Befehle
-Datenbank öffnen/erstellen
+Datenbank (namens «nwdatenbank.db») öffnen/erstellen
 : `.open nwdatenbank.db`
 
 Datenbank sichern
