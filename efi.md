@@ -152,7 +152,7 @@ SELECT *
 FROM Lebensmittel
 ```
 
-#### Mit Filter
+#### Mit Filter
 
 ```sql
 SELECT *
@@ -160,7 +160,7 @@ FROM Lebensmittel
 WHERE Id = 1000826 OR Id = 1000840;
 ```
 
-#### Kleiner als & Ordnen
+#### Kleiner als & Ordnen
 ```sql
 SELECT *
 FROM Lebensmittel
