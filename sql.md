@@ -10,22 +10,22 @@ CREATE TABLE "Kategorie" (
 	PRIMARY KEY("Id")
 );
 
-CREATE TABLE Inhaltsstoff (
-	Id INTEGER NOT NULL CHECK(typeof(Id) = 'integer'),
-	Name TEXT NOT NULL,
-	PRIMARY KEY(Id)
+CREATE TABLE "Inhaltsstoff" (
+	"Id" INTEGER NOT NULL CHECK(typeof("Id") = 'integer'),
+	"Name" TEXT NOT NULL,
+	PRIMARY KEY("Id")
 );
 
 ```
 
 ### Mit einer Inhalts-Spalte sowie Primär- und Fremdschlüssel
 ```sql
-CREATE TABLE Lebensmittel (
-	Id INTEGER NOT NULL CHECK(typeof(Id) = 'integer'),
-	Name TEXT NOT NULL,
-    Kategorie_Id INTEGER NOT NULL,
-	PRIMARY KEY(Id)
-    FOREIGN KEY(Kategorie_Id) REFERENCES Kategorie(Id)
+CREATE TABLE "Lebensmittel" (
+	"Id" INTEGER NOT NULL CHECK(typeof("Id") = 'integer'),
+	"Name" TEXT NOT NULL,
+    "Kategorie_Id" INTEGER NOT NULL,
+	PRIMARY KEY("Id")
+    FOREIGN KEY("Kategorie_Id") REFERENCES Kategorie("Id")
 );
 ```
 

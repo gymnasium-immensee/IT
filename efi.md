@@ -1,6 +1,8 @@
-# EFI-Links
+# EFI
 
-## Computer/Daten
+<details>
+<summary> Computer/Daten </summary>
+
 * [Werbeplakate am Zürich HB](https://www.tagesanzeiger.ch/zuerich/stadt/swisscom-lueftet-geheimnis-um-schwarze-boxen-am-hb-zuerich/story/29988994)
 * [geschwindigkeit.ch](https://www.geschwindigkeit.ch/)
 * [speedtest.net](https://www.speedtest.net/)
@@ -17,8 +19,10 @@
 * [Artikel über Moore's Law](https://www.spiegel.de/netzwelt/web/moore-s-law-die-goldene-regel-der-chiphersteller-broeckelt-a-1083468.html)
 
 * [ifixit.com](https://www.ifixit.com)
+</details>
 
-## Binärsystem
+<details><summary>Binärsystem</summary>
+
 * [Uhr oder keine Uhr?](http://abenteuer-informatik.de/bu.html)
 * [Binary Hand Dance](https://www.youtube.com/watch?v=OCYZTg3jahU)
 * [ASCII (Wikipedia)](https://de.wikipedia.org/wiki/American_Standard_Code_for_Information_Interchange)
@@ -36,6 +40,10 @@
     * password strength 123456
     * 255 in binary
     * 16 in hex
+
+
+</details>
+
 
 ## SQL
 * [Handysektor erklärt: Was ist eigentlich die Cloud?](https://www.youtube.com/watch?v=VhqSH8HPioU)
