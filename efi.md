@@ -52,7 +52,6 @@
 * [w3schools](https://www.w3schools.com/sql/)
 * [SQL Zoo](https://sqlzoo.net)
 * [Terra Datenbank](https://www.sachsen.schule/terra)
-* 📺 [Tutorial 1 nur mit SQL](http://bit.ly/2ChK6uj)
 
 ### Tabellen erstellen
 
