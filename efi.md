@@ -172,6 +172,31 @@ WHERE Id < 1001000
 ORDER BY Name DESC;
 ```
 
+#### Abfrage über zwei verknüpfte Tabellen
+```sql
+SELECT Lebensmittel.Name, Kategorie.Name
+FROM Lebensmittel INNER JOIN Kategorie ON Lebensmittel.Kategorie_Id = Kategorie.Id;
+Schliessen
+```
+
+#### Komplexere Abfrage
+```sql
+SELECT Lebensmittel.Name, Kategorie.Name, Lebensmittel.Id
+FROM Lebensmittel INNER JOIN Kategorie ON Lebensmittel.Kategorie_Id = Kategorie.Id
+WHERE Lebensmittel.Id > 1001000 AND (Kategorie.Name = 'Getränke' OR Kategorie.Name = 'Früchte und Gemüse')
+ORDER BY Kategorie.Name ASC, Lebensmittel.Name DESC
+```
+
+#### Abfrage über drei Tabellen
+```sql
+SELECT Lebensmittel.Name, Inhaltsstoff.Name, Lebensmittel_Inhaltsstoff.Menge
+FROM Lebensmittel
+ INNER JOIN Lebensmittel_Inhaltsstoff ON Lebensmittel.Id = Lebensmittel_Inhaltsstoff.Lebensmittel_Id
+ INNER JOIN Inhaltsstoff ON Lebensmittel_Inhaltsstoff.Inhaltsstoff_Id = Inhaltsstoff.Id
+WHERE Lebensmittel_Inhaltsstoff.Menge > 10 AND Inhaltsstoff.Name = 'Zucker (in g)'
+ORDER BY Lebensmittel_Inhaltsstoff.Menge DESC;
+```
+
 ### [sqlite3](https://sqlite.org)-Befehle
 
 Programm starten (Windows)
