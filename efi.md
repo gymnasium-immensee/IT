@@ -77,9 +77,9 @@ CREATE TABLE Inhaltsstoff (
 CREATE TABLE Lebensmittel (
 	Id INTEGER NOT NULL CHECK(typeof(Id) = 'integer'),
 	Name TEXT NOT NULL,
-    Kategorie_Id INTEGER NOT NULL,
-	PRIMARY KEY(Id)
-    FOREIGN KEY(Kategorie_Id) REFERENCES Kategorie(Id)
+	Kategorie_Id INTEGER NOT NULL,
+	PRIMARY KEY(Id),
+	FOREIGN KEY(Kategorie_Id) REFERENCES Kategorie(Id)
 );
 ```
 
@@ -87,12 +87,12 @@ CREATE TABLE Lebensmittel (
 #### Zwischentabelle mit kombiniertem Primärschlüssel und zwei Fremdschlüsseln 
 ```sql
 CREATE TABLE Lebensmittel_Inhaltsstoff (
-Lebensmittel_Id INTEGER NOT NULL,
-Inhaltsstoff_Id INTEGER NOT NULL,
-Menge REAL NOT NULL,
-PRIMARY KEY(Lebensmittel_Id, Inhaltsstoff_Id),
-FOREIGN KEY(Lebensmittel_Id) REFERENCES Lebensmittel(Id),
-FOREIGN KEY(Inhaltsstoff_Id) REFERENCES Inhaltsstoff(Id)
+	Lebensmittel_Id INTEGER NOT NULL,
+	Inhaltsstoff_Id INTEGER NOT NULL,
+	Menge REAL NOT NULL,
+	PRIMARY KEY(Lebensmittel_Id, Inhaltsstoff_Id),
+	FOREIGN KEY(Lebensmittel_Id) REFERENCES Lebensmittel(Id),
+	FOREIGN KEY(Inhaltsstoff_Id) REFERENCES Inhaltsstoff(Id)
 );
 ```
 
