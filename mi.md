@@ -9,7 +9,6 @@
 * Du kannst Dokumente so ablegen, dass auch andere sie wieder finden
 	* ➡️ dank der Ordner-Baum-Struktur deines Computers		
 	* ➡️ auf einer Cloud, z.B. [OneDrive](https://onedrive.live.com/about/de-ch/download/)
-	* ➡️ auf dem Schul-Server (TEACHERSTUFF)
     * ⚠️ was sind die Vor- und Nachteile der Cloud?
 * ➡️ Du kannst von deinen Geräten ein Backup erstellen
 
@@ -91,12 +90,6 @@
 * Netflix, Spotify, ...
 * E-Mail
 
-## 💾 Backup erstellen
-* Windows: [Dateiversionsverlauf](https://support.microsoft.com/de-de/help/4027408/windows-10-backup-and-restore)
-* Mac: [Time Machine](https://support.apple.com/de-de/HT201250)
-* Linux: [rdiff-backup](https://rdiff-backup.net)
-* [iOS](https://support.apple.com/de-de/HT203977)
-
 ## ☁️ Teams-Dateien mit dem eigenen Computer synchronisieren
 1. [«OneDrive» installieren](https://onedrive.live.com/about/de-ch/download/): [Wie?](http://bit.ly/2NdEIxw)
 1. Im gewünschten Teams zum Reiter «Dateien» / «Files» gehen
@@ -105,6 +98,12 @@
 1. Gewünschte Ordner wählen: [Windows](https://support.office.com/de-de/article/synchronisieren-von-sharepoint-dateien-mit-dem-neuen-onedrive-synchronisierungsclient-6de9ede8-5b6e-4503-80b2-6190f3354a88) / [Mac](https://support.office.com/de-de/article/synchronisieren-von-dateien-mit-dem-onedrive-synchronisierungsclient-unter-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f)
 
 📱 (iOS & Android) Bei der OneDrive-App anmelden und «Bibliotheken» (unten rechts) wählen
+
+## 💾 Backup erstellen
+* Windows: [Dateiversionsverlauf](https://support.microsoft.com/de-de/help/4027408/windows-10-backup-and-restore)
+* Mac: [Time Machine](https://support.apple.com/de-de/HT201250)
+* Linux: [rdiff-backup](https://rdiff-backup.net)
+* [iOS](https://support.apple.com/de-de/HT203977)
 
 ## Häufige Fragen (FAQ)
 Kann ich für den praktischen Test mein Telefon benutzen?
