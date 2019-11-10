@@ -9,30 +9,9 @@
 * Du kannst Dokumente so ablegen, dass auch andere sie wieder finden
 	* ➡️ dank der Ordner-Baum-Struktur deines Computers		
 	* ➡️ auf einer Cloud, z.B. [OneDrive](https://onedrive.live.com/about/de-ch/download/)
-	* ~~auf dem Schul-Server (TEACHERSTUFF)~~
+	* ➡️ auf dem Schul-Server (TEACHERSTUFF)
     * ⚠️ was sind die Vor- und Nachteile der Cloud?
 * ➡️ Du kannst von deinen Geräten ein Backup erstellen
-
-## Häufige Fragen (FAQ)
-Die die keinen Computer haben, dürfen wir unser Handy benutzen??
-: Falls du noch keinen Laptop oder kein Tablet besitzt: ja.
-
-Muss man für den Test am Dienstag iOS 13 besitzen?
-: Nein, iOS13 ist nicht nötig.
-
-Müssen wir «☁️ Teams-Dateien mit dem eigenen Computer synchronisieren» können?
-: Nein.
-
-Müssen wir «🌐 Sich mit dem Schulserver verbinden (TEACHERSTUFF)» können?
-: Nein.
-
-Als ich mich bei Teacherstuff anmeldete, ladete es die ganze Zeit ohne Ergebnis. Ist das normal?
-: Das geht nur im Schul-WLAN (gehört aber nicht zu den Lernzielen).
-
-Müssen wir Computer Teile beschriften können?
-: Wenn, dann nur mit eindeutig erkennbaren Bauteilen, welche dann so ähnlich aussehen würden, wie auf der Seite 5 von Handout 1.
-
-
 
 ## 🍕Der Computer - Schicht um Schicht
 * Pizza ~ Ausgabe (Bildschirm, Lautsprecher, etc.)
@@ -41,6 +20,15 @@ Müssen wir Computer Teile beschriften können?
 * Kühlschrank ~ Datenspeicher (Festplatte/SSD)
 * Küchentisch ~ Arbeitsspeicher (RAM)
 * Köch_in ~ Prozessor (CPU)
+
+## ⚙️ Hardware
+* [Apollo 11: A Space Odyssey (YouTube)](https://www.youtube.com/watch?v=yDm5RVzUlGk)
+* [Apollo 11: Mit 1 MHz zum Mond (Artikel)](https://www.pctipp.ch/news/gesellschaft/artikel/apollo-11-mit-1-mhz-zum-mond-80567/)
+* [Artikel über Moore's Law](https://www.spiegel.de/netzwelt/web/moore-s-law-die-goldene-regel-der-chiphersteller-broeckelt-a-1083468.html)
+<br><br>
+* 🛠 Hilfe zur Reparatur: [ifixit.com](https://www.ifixit.com)
+* 📺 [brainfaqk Erklärvideos (YouTube)](https://www.youtube.com/playlist?list=PL6DU7YsYvRpA31RgBg1MUTf2EuVtmAF-E&app=desktop)
+* 👓 [WikiBook über Computerhardware](https://de.m.wikibooks.org/wiki/Computerhardware_f%C3%BCr_Anf%C3%A4nger)
 
 ## 🖥 Am eigenen Computer die Hardware Komponenten anzeigen
 * Windows: Systemsteuerung > System
@@ -56,14 +44,12 @@ Müssen wir Computer Teile beschriften können?
 * [iOS: (auch z.B. ganze Websites als PDF)](https://support.apple.com/de-de/HT200289): `Standby` `Home` oder `Standby` `Lauter`
 * Android: `Ein/Aus` `Leiser` (einige Sekunden)
 
-## ⚙️ Hardware
-* [Apollo 11: A Space Odyssey (YouTube)](https://www.youtube.com/watch?v=yDm5RVzUlGk)
-* [Apollo 11: Mit 1 MHz zum Mond (Artikel)](https://www.pctipp.ch/news/gesellschaft/artikel/apollo-11-mit-1-mhz-zum-mond-80567/)
-* [Artikel über Moore's Law](https://www.spiegel.de/netzwelt/web/moore-s-law-die-goldene-regel-der-chiphersteller-broeckelt-a-1083468.html)
-<br><br>
-* 🛠 Hilfe zur Reparatur: [ifixit.com](https://www.ifixit.com)
-* 📺 [brainfaqk Erklärvideos (YouTube)](https://www.youtube.com/playlist?list=PL6DU7YsYvRpA31RgBg1MUTf2EuVtmAF-E&app=desktop)
-* 👓 [WikiBook über Computerhardware](https://de.m.wikibooks.org/wiki/Computerhardware_f%C3%BCr_Anf%C3%A4nger)
+## 📹 Bildschirmaufzeichnung erstellen
+* Windows: Mit der [Xbox Game Bar](https://support.xbox.com/de-ch/xbox-on-windows/social/record-game-clips-game-bar-windows-10) oder einem Programm wie z.B. [Screenpresso](https://screenpresso.com)
+* [Mac](https://support.apple.com/de-ch/HT201361): `⌘` `⇧` `5`
+* Linux ([Gnome](https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.de)): `Ctrl` `⇧` `Alt` `R`
+* [iOS](https://support.apple.com/de-ch/HT207935)
+* Android: Mit einer App wie z.B. [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free)
 
 ## 🕹 Praktische Software
 
@@ -78,6 +64,14 @@ Müssen wir Computer Teile beschriften können?
 * [Firefox](https://www.mozilla.org/de/firefox/new/)
 * [Google Chrome](https://www.google.com/chrome/)
 * [Opera](https://www.opera.com)
+
+### 🖨 Am Gymi drucken
+(Benutzername: `vorname.nachname`; Kennwort: das Office365 Passwort vom blauen Blatt; Funktioniert nur im Schul-WLAN)
+* Via Browser: [papercut.gyim.local:9191](http://papercut.gyim.local:9191)
+* Windows: [Installationsprogramm laden](http://papercut.com/products/ng/mobility-print/download/client/windows/): [Wie?](http://bit.ly/2WmwdV4)
+* Mac: `⌘` `P`
+* iOS: Teilen > drucken
+* Android: [Mobility Print App installieren](https://play.google.com/store/apps/details?id=com.papercut.projectbanksia): [Wie?](https://www.youtube.com/watch?v=vTgRHmURvos)
 
 ### Praktische Windows-Progamme (am einfachsten unten links 🔎 danach suchen)
 * Rechner
@@ -103,6 +97,21 @@ Müssen wir Computer Teile beschriften können?
 * Linux: [rdiff-backup](https://rdiff-backup.net)
 * [iOS](https://support.apple.com/de-de/HT203977)
 
+## ☁️ Teams-Dateien mit dem eigenen Computer synchronisieren
+1. [«OneDrive» installieren](https://onedrive.live.com/about/de-ch/download/): [Wie?](http://bit.ly/2NdEIxw)
+1. Im gewünschten Teams zum Reiter «Dateien» / «Files» gehen
+1. «In Sharepoint öffnen» klicken
+1. «Sync» klicken
+1. Gewünschte Ordner wählen: [Windows](https://support.office.com/de-de/article/synchronisieren-von-sharepoint-dateien-mit-dem-neuen-onedrive-synchronisierungsclient-6de9ede8-5b6e-4503-80b2-6190f3354a88) / [Mac](https://support.office.com/de-de/article/synchronisieren-von-dateien-mit-dem-onedrive-synchronisierungsclient-unter-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f)
+
+📱 (iOS & Android) Bei der OneDrive-App anmelden und «Bibliotheken» (unten rechts) wählen
+
+## Häufige Fragen (FAQ)
+Kann ich für den praktischen Test mein Telefon benutzen?
+: Falls du noch keinen Laptop oder kein Tablet besitzt: ja.
+
+Als ich mich bei Teacherstuff anmeldete, ladete es die ganze Zeit ohne Ergebnis. Ist das normal?
+: Das geht nur im Schul-WLAN.
 
 # Weitere Tipps
 
@@ -118,22 +127,6 @@ Müssen wir Computer Teile beschriften können?
 ## `\` Backslash tippen
 * Windows & Linux: `AltGr` `<` (rechts von `⇧`)
 * Mac: `⌥` `⇧` `7`
-
-## 📹 Bildschirmaufzeichnung erstellen
-* Windows: Mit der [Xbox Game Bar](https://support.xbox.com/de-ch/xbox-on-windows/social/record-game-clips-game-bar-windows-10) oder einem Programm wie z.B. [Screenpresso](https://screenpresso.com)
-* [Mac](https://support.apple.com/de-ch/HT201361): `⌘` `⇧` `5`
-* Linux ([Gnome](https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.de)): `Ctrl` `⇧` `Alt` `R`
-* [iOS](https://support.apple.com/de-ch/HT207935)
-* Android: Mit einer App wie z.B. [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free)
-
-## ☁️ Teams-Dateien mit dem eigenen Computer synchronisieren
-1. [«OneDrive» installieren](https://onedrive.live.com/about/de-ch/download/): [Wie?](http://bit.ly/2NdEIxw)
-1. Im gewünschten Teams zum Reiter «Dateien» / «Files» gehen
-1. «In Sharepoint öffnen» klicken
-1. «Sync» klicken
-1. Gewünschte Ordner wählen: [Windows](https://support.office.com/de-de/article/synchronisieren-von-sharepoint-dateien-mit-dem-neuen-onedrive-synchronisierungsclient-6de9ede8-5b6e-4503-80b2-6190f3354a88) / [Mac](https://support.office.com/de-de/article/synchronisieren-von-dateien-mit-dem-onedrive-synchronisierungsclient-unter-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f)
-
-📱 (iOS & Android) Bei der OneDrive-App anmelden und «Bibliotheken» (unten rechts) wählen
 
 ## 🌐 Sich mit dem Schulserver verbinden (TEACHERSTUFF)
 (Benutzername: `vorname.nachname`; Kennwort: das Office365 Passwort vom blauen Blatt; Funktioniert nur im Schul-WLAN)
@@ -160,14 +153,6 @@ Müssen wir Computer Teile beschriften können?
 ## 📽 Einstellungen für Beamer & externe Bildschirme
 * Windows: `Windows` `P`
 * Mac: `⌘` `«Helligkeit verringern»` oder [Systemeinstellungen > Monitore](https://support.apple.com/de-ch/HT202351) 
-
-## 🖨 Am Gymi drucken
-(Benutzername: `vorname.nachname`; Kennwort: das Office365 Passwort vom blauen Blatt; Funktioniert nur im Schul-WLAN)
-* Via Browser: [papercut.gyim.local:9191](http://papercut.gyim.local:9191)
-* Windows: [Installationsprogramm laden](http://papercut.com/products/ng/mobility-print/download/client/windows/): [Wie?](http://bit.ly/2WmwdV4)
-* Mac: `⌘` `P`
-* iOS: Teilen > drucken
-* Android: [Mobility Print App installieren](https://play.google.com/store/apps/details?id=com.papercut.projectbanksia): [Wie?](https://www.youtube.com/watch?v=vTgRHmURvos)
 
 ## ⌨️ Weitere Tastaturkurzbefehle
 * [Windows](https://support.microsoft.com/de-ch/help/12445/windows-keyboard-shortcuts)
