@@ -203,7 +203,7 @@ Programm starten (Windows)
 : [sqlite-tools-win32-x86-xxxxxxx.zip herunterladen](https://sqlite.org/download.html) > entzippen > sqlite3.exe öffnen
 
 Programm starten (Mac, Linux, BSD)
-: `sqlite3` im Terminal eingeben
+: `sqlite3` im [Terminal](https://support.apple.com/guide/terminal/welcome/mac) eingeben
 
 Datenbank (namens «nwdatenbank.db») öffnen/erstellen
 : `.open nwdatenbank.db`
