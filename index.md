@@ -101,7 +101,6 @@
 * Office (Word, Excel, PowerPoint, OneNote): [office.com](https://www.office.com) > anmelden > Office installieren: [Wie?](https://is.gd/officeinstallieren)
 * [Teams](https://teams.microsoft.com/downloads)
 * [OneDrive](https://onedrive.live.com/about/de-ch/download/): [Wie?](https://is.gd/onedrivewin)
-* [RemoteDesktop](https://gymnasium-immensee.github.io/IT/#-terminal-server-zugang-viaremote-desktop)
 * [Dateien App (iOS)](https://apps.apple.com/ch/app/file/id1232058109)
 
 #### Browser

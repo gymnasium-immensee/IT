@@ -43,26 +43,25 @@
 * [iOS: (auch z.B. ganze Websites als PDF)](https://support.apple.com/de-de/HT200289): `Standby` `Home` oder `Standby` `Lauter`
 * Android: `Ein/Aus` `Leiser` (einige Sekunden)
 
-## 📹 Bildschirmaufzeichnung erstellen
-* Windows: Mit der [Xbox Game Bar](https://support.xbox.com/de-ch/xbox-on-windows/social/record-game-clips-game-bar-windows-10) oder einem Programm wie z.B. [Screenpresso](https://screenpresso.com)
-* [Mac](https://support.apple.com/de-ch/HT201361): `⌘` `⇧` `5`
-* Linux ([Gnome](https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.de)): `Ctrl` `⇧` `Alt` `R`
-* [iOS](https://support.apple.com/de-ch/HT207935)
-* Android: Mit einer App wie z.B. [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free)
-
 ## 🕹 Praktische Software
 
 ### Zur Zusammenarbeit
 * Office (Word, Excel, PowerPoint, OneNote): [office.com](https://www.office.com) > anmelden > Office installieren: [Wie?](https://is.gd/officeinstallieren)
 * [Teams](https://teams.microsoft.com/downloads)
 * [OneDrive](https://onedrive.live.com/about/de-ch/download/): [Wie?](https://is.gd/onedrivewin)
-* [RemoteDesktop](https://gymnasium-immensee.github.io/IT/mi#-terminal-server-zugang-viaremote-desktop)
 * [Dateien App (iOS)](https://apps.apple.com/ch/app/file/id1232058109)
 
 ### Browser
 * [Firefox](https://www.mozilla.org/de/firefox/new/)
 * [Google Chrome](https://www.google.com/chrome/)
 * [Opera](https://www.opera.com)
+
+### Praktische Windows-Progamme (am einfachsten unten links 🔎 danach suchen)
+* Rechner
+* Ausschneiden und Skizzieren
+* Sprachnachricht
+* Mail
+* Drucker und Scanner
 
 ### 🖨 Am Gymi drucken
 (Benutzername: `vorname.nachname`; Kennwort: das Office365 Passwort vom blauen Blatt; Funktioniert nur im Schul-WLAN)
@@ -72,16 +71,17 @@
 * iOS: Teilen > drucken
 * Android: [Mobility Print App installieren](https://play.google.com/store/apps/details?id=com.papercut.projectbanksia): [Wie?](https://www.youtube.com/watch?v=vTgRHmURvos)
 
-### Praktische Windows-Progamme (am einfachsten unten links 🔎 danach suchen)
-* Rechner
-* Ausschneiden und Skizzieren
-* Sprachnachricht
-* Mail
-* Drucker und Scanner
-
 ## 🗂 Ordnerstruktur des eigenen Computers entdecken
-* Erstelle von den wichtigsten Ordnern deines Computers ein Baumdiagramm 🌳. Beginne bei «Dieser PC» (Windows) oder «Macintosh HD» (Mac) oder der [App «Dateien» (iOS)](https://apps.apple.com/ch/app/file/id1232058109).
 * [Wo liegt eigentlich der «Schreibtisch»? (Screencast)](https://is.gd/woliegtderschreibtisch)
+* Erstelle von den wichtigsten Ordnern deines Computers ein Baumdiagramm 🌳. Beginne bei «Dieser PC» (Windows) oder «Macintosh HD» (Mac) oder der [App «Dateien» (iOS)](https://apps.apple.com/ch/app/file/id1232058109).
+* [ ] Erstelle gleichzeitig von deinem Bildschirm ein Video:
+
+## 📹 Bildschirmaufzeichnung erstellen
+* Windows: Mit der [Xbox Game Bar](https://support.xbox.com/de-ch/xbox-on-windows/social/record-game-clips-game-bar-windows-10) oder einem Programm wie z.B. [Screenpresso](https://screenpresso.com)
+* [Mac](https://support.apple.com/de-ch/HT201361): `⌘` `⇧` `5`
+* Linux ([Gnome](https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.de)): `Ctrl` `⇧` `Alt` `R`
+* [iOS](https://support.apple.com/de-ch/HT207935)
+* Android: Mit einer App wie z.B. [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free)
 
 ## ☁️ Die Cloud
 * [Handysektor erklärt: Was ist eigentlich die Cloud?](https://www.youtube.com/watch?v=VhqSH8HPioU)
