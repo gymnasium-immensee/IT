@@ -290,6 +290,8 @@ Tabellen anzeigen
 
 # Weitere Tipps
 
+## 🕹 Praktische Software
+
 ### Zur Zusammenarbeit
 * Office (Word, Excel, PowerPoint, OneNote): [office.com](https://www.office.com) > anmelden > Office installieren: [Wie?](https://is.gd/officeinstallieren)
 * [Teams](https://teams.microsoft.com/downloads)
