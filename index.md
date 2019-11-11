@@ -38,6 +38,9 @@
   * [Foto](): `Ein/Aus` `Leiser` (einige Sekunden)
   * Aufzeichnung: Mit einer App wie z.B. [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free)
 
+  ## ✉️ Mail-Weiterleitung einrichten
+[office.com](https://www.office.com) > Outlook > ⚙️ > Weiterleitung ([Wie?](https://is.gd/falumo))
+
 ## 🌐 Sich mit dem Schulserver verbinden (TEACHERSTUFF)
 (Benutzername: `vorname.nachname`; Kennwort: das Office365 Passwort vom blauen Blatt; Funktioniert nur im Schul-WLAN)
 * Windows: `\\srvdc01.gyim.local\TEACHERSTUFF` im Explorer (≠ ~~Internet Explorer~~) eingeben: [Wie?](http://bit.ly/2WjB5u2)
@@ -45,8 +48,6 @@
 * Linux: [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF) bei Serveradresse eingeben.
 * iOS (ab 13): App «Dateien» > «...» > «Mit Server verbinden» > [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF): [Wie?](http://bit.ly/31WK3yG)
 * Android: Eines [dieser Apps verwenden](https://play.google.com/store/search?q=smb&c=apps), um sich mit [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF) zu verbinden.
-
-
 
 ## 🌐 Terminal Server Zugang via Remote Desktop
 1. «Microsoft Remote Desktop» installieren: [Windows](https://www.microsoft.com/de-ch/p/microsoft-remotedesktop/9wzdncrfj3ps?activetab=pivot:overviewtab) / [Android](https://play.google.com/store/apps/details?id=com.microsoft.rdc.android&hl=de_CH) / [iOS](https://apps.apple.com/ch/app/microsoft-remotedesktop/id714464092) / [MacOS](https://apps.apple.com/ch/app/microsoft-remote-desktop-10/id1295203466)
