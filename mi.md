@@ -143,7 +143,7 @@ Als ich mich bei Teacherstuff anmeldete, ladete es die ganze Zeit ohne Ergebnis.
 1. Passwort: das Office365 Passwort vom blauen Blatt
 
 ## ✉️ Mail-Weiterleitung einrichten
-[office.com](https://www.office.com) > Outlook > ⚙️ > Weiterleitung ([Wie?](https://is.gd/falumo))
+[office.com](https://www.office.com) > Outlook > ⚙️ > Weiterleitung ([Wie?](https://is.gd/mailweiterleitung))
 
 ## 🔐 Starke Passwörter
 * Kann man mit `password strength` auf [WolframAlpha](https://www.wolframalpha.com/input/?i=password+strength) testen

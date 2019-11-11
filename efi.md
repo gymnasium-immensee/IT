@@ -52,7 +52,7 @@
 * [w3schools](https://www.w3schools.com/sql/)
 * [SQL Zoo](https://sqlzoo.net)
 * [Terra Datenbank](https://www.sachsen.schule/terra)
-* 📺 [SQLite Datenbank mit Tabellen und Einträgen erstellen (Tutorial 1)](http://bit.ly/2NRFHng)
+* 📺 [SQLite Datenbank mit Tabellen und Einträgen erstellen (Tutorial 1)](https://is.gd/sqlite)
 
 ### Tabellen erstellen
 
