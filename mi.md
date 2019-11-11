@@ -53,9 +53,9 @@
 ## 🕹 Praktische Software
 
 ### Zur Zusammenarbeit
-* Office (Word, Excel, PowerPoint, OneNote): [office.com](https://www.office.com) > anmelden > Office installieren: [Wie?](http://bit.ly/2Wg03uo)
+* Office (Word, Excel, PowerPoint, OneNote): [office.com](https://www.office.com) > anmelden > Office installieren: [Wie?](https://is.gd/officeinstallieren)
 * [Teams](https://teams.microsoft.com/downloads)
-* [OneDrive](https://onedrive.live.com/about/de-ch/download/): [Wie?](http://bit.ly/2NdEIxw)
+* [OneDrive](https://onedrive.live.com/about/de-ch/download/): [Wie?](https://is.gd/onedrivewin)
 * [RemoteDesktop](https://gymnasium-immensee.github.io/IT/mi#-terminal-server-zugang-viaremote-desktop)
 * [Dateien App (iOS)](https://apps.apple.com/ch/app/file/id1232058109)
 
@@ -67,7 +67,7 @@
 ### 🖨 Am Gymi drucken
 (Benutzername: `vorname.nachname`; Kennwort: das Office365 Passwort vom blauen Blatt; Funktioniert nur im Schul-WLAN)
 * Via Browser: [papercut.gyim.local:9191](http://papercut.gyim.local:9191)
-* Windows: [Installationsprogramm laden](http://papercut.com/products/ng/mobility-print/download/client/windows/): [Wie?](http://bit.ly/2WmwdV4)
+* Windows: [Installationsprogramm laden](http://papercut.com/products/ng/mobility-print/download/client/windows/): [Wie?](https://is.gd/amgymidrucken)
 * Mac: `⌘` `P`
 * iOS: Teilen > drucken
 * Android: [Mobility Print App installieren](https://play.google.com/store/apps/details?id=com.papercut.projectbanksia): [Wie?](https://www.youtube.com/watch?v=vTgRHmURvos)
@@ -81,17 +81,17 @@
 
 ## 🗂 Ordnerstruktur des eigenen Computers entdecken
 * Erstelle von den wichtigsten Ordnern deines Computers ein Baumdiagramm 🌳. Beginne bei «Dieser PC» (Windows) oder «Macintosh HD» (Mac) oder der [App «Dateien» (iOS)](https://apps.apple.com/ch/app/file/id1232058109).
-* [Wo liegt eigentlich der «Schreibtisch»? (Screencast)](http://bit.ly/2Nfakmx)
+* [Wo liegt eigentlich der «Schreibtisch»? (Screencast)](https://is.gd/woliegtderschreibtisch)
 
 ## ☁️ Die Cloud
 * [Handysektor erklärt: Was ist eigentlich die Cloud?](https://www.youtube.com/watch?v=VhqSH8HPioU)
-* [OneDrive](https://onedrive.live.com/about/de-ch/download/) [(Wie für Windows installieren?)](http://bit.ly/2NdEIxw), Dropbox, iCloud, GoogleDrive
+* [OneDrive](https://onedrive.live.com/about/de-ch/download/) [(Wie für Windows installieren?)](https://is.gd/onedrivewin), Dropbox, iCloud, GoogleDrive
 * WhatsApp, Instagram, Facebook, Snapchat, Slack, Teams, ...
 * Netflix, Spotify, ...
 * E-Mail
 
 ## ☁️ Teams-Dateien mit dem eigenen Computer synchronisieren
-1. [«OneDrive» installieren](https://onedrive.live.com/about/de-ch/download/): [Wie?](http://bit.ly/2NdEIxw)
+1. [«OneDrive» installieren](https://onedrive.live.com/about/de-ch/download/): [Wie?](https://is.gd/onedrivewin)
 1. Im gewünschten Teams zum Reiter «Dateien» / «Files» gehen
 1. «In Sharepoint öffnen» klicken
 1. «Sync» klicken
@@ -129,10 +129,10 @@ Als ich mich bei Teacherstuff anmeldete, ladete es die ganze Zeit ohne Ergebnis.
 
 ## 🌐 Sich mit dem Schulserver verbinden (TEACHERSTUFF)
 (Benutzername: `vorname.nachname`; Kennwort: das Office365 Passwort vom blauen Blatt; Funktioniert nur im Schul-WLAN)
-* Windows: `\\srvdc01.gyim.local\TEACHERSTUFF` im Explorer (≠ ~~Internet Explorer~~) eingeben: [Wie?](http://bit.ly/2WjB5u2)
-* Mac: `⌘` `K` + [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF): [Wie?](http://bit.ly/36cTGMV)
+* Windows: `\\srvdc01.gyim.local\TEACHERSTUFF` im Explorer (≠ ~~Internet Explorer~~) eingeben: [Wie?](https://is.gd/netzlaufwerkwin)
+* Mac: `⌘` `K` + [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF): [Wie?](https://is.gd/netzlaufwerkmac)
 * Linux: [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF) bei Serveradresse eingeben.
-* iOS (ab 13): App «Dateien» > «...» > «Mit Server verbinden» > [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF): [Wie?](http://bit.ly/31WK3yG)
+* iOS (ab 13): App «Dateien» > «...» > «Mit Server verbinden» > [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF): [Wie?](https://is.gd/netzlaufwerkios)
 * Android: Eines [dieser Apps verwenden](https://play.google.com/store/search?q=smb&c=apps), um sich mit [smb://srvdc01.gyim.local/TEACHERSTUFF](smb://srvdc01.gyim.local/TEACHERSTUFF) zu verbinden.
 
 ## 🌐 Terminal Server Zugang via Remote Desktop
