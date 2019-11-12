@@ -292,7 +292,7 @@ Tabellen anzeigen
 
 ### Statistik
 * [https://gs.statcounter.com/os-market-share](https://gs.statcounter.com/os-market-share)
-* [https://w3techs.com/technologies/overview/operating_system](https://w3techs.com/technologies/overview/operating_system)
+* [https://w3techs.com/technologies](https://w3techs.com/technologies/overview/operating_system)
 * [https://www.top500.org/statistics/overtime/](https://www.top500.org/statistics/overtime/)
 * [https://en.wikipedia.org/wiki/Usage_share_of_operating_systems](https://en.wikipedia.org/wiki/Usage_share_of_operating_systems)
 
