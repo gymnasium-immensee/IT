@@ -288,6 +288,17 @@ Tabellen anzeigen
 : `.tables`
 
 
+## Systeme
+
+### Statistik
+https://gs.statcounter.com/os-market-share
+https://w3techs.com/technologies/overview/operating_system
+https://www.top500.org/statistics/overtime/
+https://en.wikipedia.org/wiki/Usage_share_of_operating_systems
+
+### Linux-Kommandozeile
+https://www.pcwelt.de/ratgeber/Die_10_wichtigsten_Linux-Befehle_fuer_Einsteiger-Kommandozeile_alias_Terminal-8858519.html
+
 # Weitere Tipps
 
 ## 🕹 Praktische Software
