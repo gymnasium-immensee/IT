@@ -297,6 +297,9 @@ Tabellen anzeigen
 * [https://en.wikipedia.org/wiki/Usage_share_of_operating_systems](https://en.wikipedia.org/wiki/Usage_share_of_operating_systems)
 
 ### Linux-Kommandozeile
+
+➡️ Via «Eingabeaufforderung» (Windows) oder «Terminal» (Mac/Linux) auf das Ausprobier-Linux zugreifen («user» durch effektiven Benutzernamen ersetzen): `ssh user@167.172.178.255` Wie? 📺 [Windows](https://is.gd/sshwindows); [Mac](https://is.gd/sshmac). Für Benutzernamen und Passwort bitte melden.
+
 #### [10 Befehle vom PCWelt-Ratgeber](https://www.pcwelt.de/ratgeber/*Die_10_wichtigsten_Linux-Befehle_fuer_Einsteiger-Kommandozeile_alias_Terminal-8858519.html)
 1. Eingabefenster aufräumen: `clear`
 1. Wer bin ich: `whoami`
@@ -316,7 +319,7 @@ Tabellen anzeigen
 * Ordner erstellen: `mkdir`
 * Ordner löschen: `rmdir`
 * Intuitiver Texteditor: `nano`
-* Mächtiger Texteditor: `vi` (Tutorial: `vimtutor`)
+* Mächtiger Texteditor: `vim` (Tutorial: `vimtutor`)
 * Überraschung: `cmatrix`
 * SQLite: `sqlite3`
 * Youtube-Downloader: `youtube-dl`
