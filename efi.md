@@ -299,15 +299,15 @@ Tabellen anzeigen
 ### Linux-Kommandozeile
 #### [10 Befehle vom PCWelt-Ratgeber](https://www.pcwelt.de/ratgeber/*Die_10_wichtigsten_Linux-Befehle_fuer_Einsteiger-Kommandozeile_alias_Terminal-8858519.html)
 1. Eingabefenster aufräumen: `clear`
-* Wer bin ich: `whoami`
-* Wo bin ich (print working directory): `pwd`
-* Passwort ändern: `passwd`
-* Verzeichnisinhalt anzeigen (list): `ls`
-* Verzeichnis wechseln (change directory): `cd`
-* Kopieren oder umbenennen: `cp`
-* Löschen (remove): `rm`
-* Befehl auf ganze Verzeichnisse anwenden (recursive): `befehl -r`
-* Dateiinhalt anzeigen oder leere Datei erstellen: `cat datei`
+1. Wer bin ich: `whoami`
+1. Wo bin ich (print working directory): `pwd`
+1. Passwort ändern: `passwd`
+1. Verzeichnisinhalt anzeigen (list): `ls`
+1. Verzeichnis wechseln (change directory): `cd`
+1. Kopieren oder umbenennen: `cp`
+1. Löschen (remove): `rm`
+1. Befehl auf ganze Verzeichnisse anwenden (recursive): `befehl -r`
+1. Dateiinhalt anzeigen oder leere Datei erstellen: `cat datei`
 	* Datei mit Text füllen: `cat > neuedatei` + Text eingeben
 	* Mehrere Textdateien zusammenfassen: `cat datei1 datei2 > neueredatei`
 
