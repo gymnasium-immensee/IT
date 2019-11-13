@@ -291,10 +291,9 @@ Tabellen anzeigen
 ## Systeme
 
 ### Statistik
-* [https://gs.statcounter.com/os-market-share](https://gs.statcounter.com/os-market-share)
-* [https://w3techs.com/technologies](https://w3techs.com/technologies/overview/operating_system)
-* [https://www.top500.org/statistics/overtime/](https://www.top500.org/statistics/overtime/)
-* [https://en.wikipedia.org/wiki/Usage_share_of_operating_systems](https://en.wikipedia.org/wiki/Usage_share_of_operating_systems)
+* [Clients](https://gs.statcounter.com/os-market-share)
+* [Server](https://w3techs.com/technologies/overview/operating_system)
+* [Supercomputer](https://www.top500.org/statistics/overtime/)
 
 ### Linux-Kommandozeile
 
