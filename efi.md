@@ -298,7 +298,7 @@ Tabellen anzeigen
 
 ### Linux-Kommandozeile
 
-➡️ Via «Eingabeaufforderung» (Windows) oder «Terminal» (Mac/Linux) auf das Ausprobier-Linux zugreifen («user» durch effektiven Benutzernamen ersetzen): `ssh user@167.172.178.255` Wie? 📺 [Windows](https://is.gd/sshwindows); [Mac](https://is.gd/sshmac). Für Benutzernamen und Passwort bitte melden.
+➡️ Via «Eingabeaufforderung» (Windows) oder «Terminal» (Mac/Linux) auf das Ausprobier-Linux zugreifen («user» durch effektiven Benutzernamen ersetzen): `ssh user@167.172.178.255` 📺 Wie? [Windows](https://is.gd/sshwindows); [Mac](https://is.gd/sshmac).
 
 #### [10 Befehle vom PCWelt-Ratgeber](https://www.pcwelt.de/ratgeber/*Die_10_wichtigsten_Linux-Befehle_fuer_Einsteiger-Kommandozeile_alias_Terminal-8858519.html)
 1. Eingabefenster aufräumen: `clear`
