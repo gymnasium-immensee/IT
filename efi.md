@@ -297,9 +297,45 @@ Tabellen anzeigen
 * [https://en.wikipedia.org/wiki/Usage_share_of_operating_systems](https://en.wikipedia.org/wiki/Usage_share_of_operating_systems)
 
 ### Linux-Kommandozeile
-* [https://www.pcwelt.de/ratgeber/Die_10_wichtigsten_Linux-Befehle_fuer_Einsteiger-Kommandozeile_alias_Terminal-8858519.html](https://www.pcwelt.de/ratgeber/*Die_10_wichtigsten_Linux-Befehle_fuer_Einsteiger-Kommandozeile_alias_Terminal-8858519.html)
+#### [10 Befehle vom PCWelt-Ratgeber](https://www.pcwelt.de/ratgeber/*Die_10_wichtigsten_Linux-Befehle_fuer_Einsteiger-Kommandozeile_alias_Terminal-8858519.html)
+1. Eingabefenster aufräumen: `clear`
+* Wer bin ich: `whoami`
+* Wo bin ich (print working directory): `pwd`
+* Passwort ändern: `passwd`
+* Verzeichnisinhalt anzeigen (list): `ls`
+* Verzeichnis wechseln (change directory): `cd`
+* Kopieren oder umbenennen: `cp`
+* Löschen (remove): `rm`
+* Befehl auf ganze Verzeichnisse anwenden (recursive): `befehl -r`
+* Dateiinhalt anzeigen oder leere Datei erstellen: `cat datei`
+	* Datei mit Text füllen: `cat > neuedatei` + Text eingeben
+	* Mehrere Textdateien zusammenfassen: `cat datei1 datei2 > neueredatei`
 
+#### Weitere Befehle
 
+* Ordner erstellen: `mkdir`
+* Ordner löschen: `rmdir`
+* Intuitiver Texteditor: `nano`
+* Mächtiger Texteditor: `vi` (Tutorial: `vimtutor`)
+* Überraschung: `cmatrix`
+* SQLite: `sqlite3`
+* Youtube-Downloader: `youtube-dl`
+* Anleitung eines Befehls anzeigen (manual): `man befehl`
+* Etwas ausgeben: `echo daswasmanausgebenmöchte`
+* Inhalte mit Sonderzeichen und Leerschlägen: *mit Anführungs- und Schlusszeichen einrahmen*
+* Befehl beenden: Tastenkombination `ctrl``C`
+* Vergangene Befehle anzeigen: `history`
+* Autovervollständigen: `⇥`
+* Prozesse anzeigen: `ps``
+* Prozess beenden: `kill Prozessnummer``
+* Prozess beenden: `killall 
+
+#### [GNU Emacs](https://www.gnu.org/software/emacs/)
+* Mächtiger Texteditor: `emacs`
+* Text adventure game: `emacs` + Tastenkombination `esc``x` + "dunnet"
+* AI doctor: `emacs` + Tastenkombination `esc``x` + "doctor"
+* Tetris: `emacs` + Tastenkombination `esc``x` + "tetris"
+* Emacs beenden: Tastenkombination  `ctrl``x` + `ctrl``c`
 
 # Weitere Tipps
 
