@@ -333,7 +333,7 @@ Tabellen anzeigen
 * Prozess beenden: `killall 
 
 #### [GNU Emacs](https://www.gnu.org/software/emacs/)
-* Mächtiger Texteditor: `emacs`
+* Noch ein mächtiger Texteditor: `emacs`
 * Text adventure game: `emacs` + Tastenkombination `esc``x` + "dunnet"
 * AI doctor: `emacs` + Tastenkombination `esc``x` + "doctor"
 * Tetris: `emacs` + Tastenkombination `esc``x` + "tetris"
