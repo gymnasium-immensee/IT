@@ -346,6 +346,23 @@ Tabellen anzeigen
 * Tetris: `emacs` + Tastenkombination `esc``x` + "tetris"
 * Emacs beenden: Tastenkombination  `ctrl``x` + `ctrl``c`
 
+#### Noch mehr Befehle
+* Andere Shell starten: z.B. `sh` / `csh` / `ksh` / `dash` / `zsh`
+* Welche Shell läuft aktuell? `echo $0`
+* Welche Shells sind installiert? `cat /etc/shells`
+* `more`: seitenweise Ausgabe und Suche
+* `less`: wie more nur mehr
+* `head`: Ausgabe der ersten Zeilen
+* `tail`: Ausgabe der letzten Zeilen
+* `sort`: sortieren
+* `wc`: Zählen von Wörtern, Zeilen, usw.
+* `grep`: filtern nach regulären Ausdrücken
+* `date`: Anzeige von Datum und Uhrzeit
+* Pipelining `|`: Ausgabe des ersten Befehls wird als Eingabe des zwenten verwwendet, z.B. `ls /etc/ | more` / `ls /etc/ | sort -r | more` / `last | grep root`
+* `*`: Platzhalter für  beliebige Zeichenfolge
+* `?`: Platzhalter für genau ein beliebiges Zeichen
+* `\`: «escaped» das nachfolgende Spezialzeichen (z.B. Leerzeichen, Fragezeichen, etc.)
+
 # Weitere Tipps
 
 ## 🕹 Praktische Software
