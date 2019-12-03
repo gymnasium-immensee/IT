@@ -367,7 +367,10 @@ Tabellen anzeigen
 
 #### Netzwerken
 
-➡️ [DNStools.ch](http://www.dnstools.ch) [HowDNS.works](https://howdns.works) [Filius](https://lernsoftware-filius.de/Herunterladen)
+
+➡️ [DNStools.ch](http://www.dnstools.ch) <br>
+➡️ [HowDNS.works](https://howdns.works) <br>
+➡️ [Filius](https://lernsoftware-filius.de/Herunterladen) <br>
 
 
 * `ip link` / `ip l`: Netzwerkschnittstellen anzeigen (lo = loopback)
