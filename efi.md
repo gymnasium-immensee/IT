@@ -363,6 +363,37 @@ Tabellen anzeigen
 * `?`: Platzhalter für genau ein beliebiges Zeichen
 * `\`: «escaped» das nachfolgende Spezialzeichen (z.B. Leerzeichen, Fragezeichen, etc.)
 
+#### Netzwerk-Befehle
+➡️ [DNStools.ch](http://www.dnstools.ch)
+➡️ [HowDNS.works](https://howdns.works)
+* `ip link` / `ip l`: Netzwerkschnittstellen anzeigen (lo = loopback)
+* `ip neighbour` / `ip n`: ARP-Tabelle verwalten
+* `ip address` / `ip a`: seitenweise Ausgabe und Suche
+* `ping <Adresse>`: ICMP ECHO_REQUEST
+* `ip route` / `ip r`: Routing-Tabelle
+* `traceroute <Adresse>`: Traceroute
+* `ss`: Socket statistics
+* `cat /etc/hosts`: Lokale Namensauflösung
+* `cat /etc/resolv.conf`: DNS
+* `host <Adresse>` / `dig <Adresse>` / `nslookup <Adresse>`: Anfrage von DNS-Informationen
+* `cat /etc/nsswitch.conf`: Reihenfolge der Namensauflösung
+* `whois <Domain>`: Eigentümer von Domains
+* Webbrowser I:
+	* `telnet <Adresse> 80`
+	* `GET / HTTP/1.1`
+	* `Host: <Adresse>`
+* Bonus: `telnet towel.blinkenlights.nl`
+* Webbrowser II: `elinks`, `w3m`, `lynx`, `links``
+* Downloadmanager: `wget`
+* Dienste & Ports: `cat /etc/services`
+
+
+
+
+
+
+
+
 # Weitere Tipps
 
 ## 🕹 Praktische Software
