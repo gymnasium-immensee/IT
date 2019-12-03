@@ -340,6 +340,7 @@ Tabellen anzeigen
 * Prozess beenden: `killall 
 
 #### [GNU Emacs](https://www.gnu.org/software/emacs/)
+
 * Noch ein mächtiger Texteditor: `emacs`
 * Text adventure game: `emacs` + Tastenkombination `esc``x` + "dunnet"
 * AI doctor: `emacs` + Tastenkombination `esc``x` + "doctor"
@@ -347,6 +348,7 @@ Tabellen anzeigen
 * Emacs beenden: Tastenkombination  `ctrl``x` + `ctrl``c`
 
 #### Noch mehr Befehle
+
 * Andere Shell starten: z.B. `sh` / `csh` / `ksh` / `dash` / `zsh`
 * Welche Shell läuft aktuell? `echo $0`
 * Welche Shells sind installiert? `cat /etc/shells`
@@ -363,9 +365,13 @@ Tabellen anzeigen
 * `?`: Platzhalter für genau ein beliebiges Zeichen
 * `\`: «escaped» das nachfolgende Spezialzeichen (z.B. Leerzeichen, Fragezeichen, etc.)
 
-#### Netzwerk-Befehle
+#### Netzwerken
+
 ➡️ [DNStools.ch](http://www.dnstools.ch)
 ➡️ [HowDNS.works](https://howdns.works)
+➡️ [Filius](https://lernsoftware-filius.de/Herunterladen)
+
+
 * `ip link` / `ip l`: Netzwerkschnittstellen anzeigen (lo = loopback)
 * `ip neighbour` / `ip n`: ARP-Tabelle verwalten
 * `ip address` / `ip a`: seitenweise Ausgabe und Suche
@@ -386,13 +392,6 @@ Tabellen anzeigen
 * Webbrowser II: `elinks`, `w3m`, `lynx`, `links``
 * Downloadmanager: `wget`
 * Dienste & Ports: `cat /etc/services`
-
-
-
-
-
-
-
 
 # Weitere Tipps
 
