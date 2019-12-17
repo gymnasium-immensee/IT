@@ -424,8 +424,9 @@ Tabellen anzeigen
 * iOS: Teilen > drucken
 * Android: [Mobility Print App installieren](https://play.google.com/store/apps/details?id=com.papercut.projectbanksia): [Wie?](https://www.youtube.com/watch?v=vTgRHmURvos)
 
-## ✉️ Mail-Weiterleitung einrichten
-[office.com](https://www.office.com) > Outlook > ⚙️ > Weiterleitung ([Wie?](https://is.gd/mailweiterleitung))
+## ✉️ Mail einrichten
+* Weiterleitung einrichten: [office.com](https://www.office.com) > Outlook > ⚙️ > Weiterleitung ([Wie?](https://is.gd/mailweiterleitung))
+* oder [Mobile Outlook-App](https://products.office.com/de-ch/outlook-mobile-for-android-and-ios) verwenden
 
 ## 🔐 Starke Passwörter
 * Kann man mit `password strength` auf [WolframAlpha](https://www.wolframalpha.com/input/?i=password+strength) testen

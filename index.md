@@ -38,8 +38,9 @@
   * [Foto](): `Ein/Aus` `Leiser` (einige Sekunden)
   * Aufzeichnung: Mit einer App wie z.B. [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free)
 
-## ✉️ Mail-Weiterleitung einrichten
-[office.com](https://www.office.com) > Outlook > ⚙️ > Weiterleitung ([Wie?](https://is.gd/mailweiterleitung))
+## ✉️ Mail einrichten
+* Weiterleitung einrichten: [office.com](https://www.office.com) > Outlook > ⚙️ > Weiterleitung ([Wie?](https://is.gd/mailweiterleitung))
+* oder [Mobile Outlook-App](https://products.office.com/de-ch/outlook-mobile-for-android-and-ios) verwenden
 
 ## 🌐 Sich mit dem Schulserver verbinden (TEACHERSTUFF)
 (Benutzername: `vorname.nachname`; Kennwort: das Office365 Passwort vom blauen Blatt; Funktioniert nur im Schul-WLAN)
