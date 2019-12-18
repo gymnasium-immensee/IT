@@ -129,15 +129,13 @@ Als ich mich bei Teacherstuff anmeldete, ladete es die ganze Zeit ohne Ergebnis.
 
 ## 🚚 (Sehr) grosse Dateien übertragen
 (Z.B. ein Kurzfilm, eine grosse Präsentation, etc.)
-
-### Versenden
-* [Gymi Immensee OneDrive](https://gymnasiumimmensee-my.sharepoint.com): 15 GB (Sender_in benötigt Konto)
-* [Firefox Send](https://send.firefox.com/): 1 GB ohne Konto; 2.5 GB, falls Sender_in ein Konto hat
-* [Dropbox Transfer](https://www.dropbox.com/transfer/about)​​​​​​​: 2 GB; nur Sender_in benötigt ein Dropbox Konto
-
-### Empfangen
-* [Google Forms](https://www.google.com/forms/about/): 10 GB pro File; 1 TB pro Form; Sender_in und Empfänger_in benötigen ein Google Konto
-* [Dropbox File Requests](https://help.dropbox.com/files-folders/share/create-file-request): 2 GB; nur Empfänger_in benötigt ein Dropbox Konto
+* Versenden
+	* [Gymi Immensee OneDrive](https://gymnasiumimmensee-my.sharepoint.com): 15 GB (Sender_in benötigt Konto)
+	* [Firefox Send](https://send.firefox.com/): 1 GB ohne Konto; 2.5 GB, falls Sender_in ein Konto hat
+	* [Dropbox Transfer](https://www.dropbox.com/transfer/about)​​​​​​​: 2 GB; nur Sender_in benötigt ein Dropbox Konto
+* Empfangen
+	* [Google Forms](https://www.google.com/forms/about/): 10 GB pro File; 1 TB pro Form; Sender_in und Empfänger_in benötigen ein Google Konto
+	* [Dropbox File Requests](https://help.dropbox.com/files-folders/share/create-file-request): 2 GB; nur Empfänger_in benötigt ein Dropbox Konto
 
 ## 🌐 Sich mit dem Schulserver verbinden (TEACHERSTUFF)
 (Benutzername: `vorname.nachname`; Kennwort: das Office365 Passwort vom blauen Blatt; Funktioniert nur im Schul-WLAN)
