@@ -367,11 +367,9 @@ Tabellen anzeigen
 
 #### Netzwerken
 
-
 ➡️ [DNStools.ch](http://www.dnstools.ch) <br>
 ➡️ [HowDNS.works](https://howdns.works) <br>
 ➡️ [Filius](https://lernsoftware-filius.de/Herunterladen) <br>
-
 
 * `ip link` / `ip l`: Netzwerkschnittstellen anzeigen (lo = loopback)
 * `ip neighbour` / `ip n`: ARP-Tabelle verwalten
@@ -393,6 +391,51 @@ Tabellen anzeigen
 * Webbrowser II: `elinks`, `w3m`, `lynx`, `links``
 * Downloadmanager: `wget`
 * Dienste & Ports: `cat /etc/services`
+
+### Netzwerken mit RaspberryPi
+
+#### Vorbereitendes
+
+````
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install hostapd
+sudo apt-get install dnsmasq
+sudo systemctl stop hostapd
+sudo systemctl stop dnsmasq
+````
+
+#### Hostapd Konfiguration
+
+`sudo nano /etc/hostapd/hostapd.conf`
+
+````
+interface=wlan0
+driver=nl80211
+ssid=PiX
+hw_mode=g
+channel=6
+wmm_enabled=0
+macaddr_acl=0
+auth_algs=1
+ignore_broadcast_ssid=0
+wpa=2
+wpa_passphrase=QWERTZUIOP
+wpa_key_mgmt=WPA-PSK
+wpa_pairwise=TKIP
+rsn_pairwise=CCMP
+````
+
+`sudo nano /etc/default/hostapd`
+
+Change `#DAEMON_CONF=""` to `DAEMON_CONF="/etc/hostapd/hostapd.conf"`
+
+Activate hostapd:
+````
+sudo systemctl unmask hostapd
+sudo systemctl enable hostapd
+````
+
 
 # Weitere Tipps
 
