@@ -406,7 +406,7 @@ Tabellen anzeigen
 #### Hostapd Konfiguration
 
 `sudo nano /etc/hostapd/hostapd.conf`
-
+<br>
 ````
 interface=wlan0
 driver=nl80211
@@ -425,10 +425,10 @@ rsn_pairwise=CCMP
 ````
 
 `sudo nano /etc/default/hostapd`
-
+<br>
 Change `#DAEMON_CONF=""` to `DAEMON_CONF="/etc/hostapd/hostapd.conf"`
 
-Activate hostapd:
+Activate hostapd:<br>
 `sudo systemctl unmask hostapd`<br>
 `sudo systemctl enable hostapd`<br>
 
