@@ -396,14 +396,12 @@ Tabellen anzeigen
 
 #### Vorbereitendes
 
-````
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install hostapd
-sudo apt-get install dnsmasq
-sudo systemctl stop hostapd
-sudo systemctl stop dnsmasq
-````
+`sudo apt-get update`<br>
+`sudo apt-get upgrade`<br>
+`sudo apt-get install hostapd`<br>
+`sudo apt-get install dnsmasq`<br>
+`sudo systemctl stop hostapd`<br>
+`sudo systemctl stop dnsmasq`<br>
 
 #### Hostapd Konfiguration
 
@@ -431,10 +429,8 @@ rsn_pairwise=CCMP
 Change `#DAEMON_CONF=""` to `DAEMON_CONF="/etc/hostapd/hostapd.conf"`
 
 Activate hostapd:
-````
-sudo systemctl unmask hostapd
-sudo systemctl enable hostapd
-````
+`sudo systemctl unmask hostapd`<br>
+`sudo systemctl enable hostapd`<br>
 
 
 # Weitere Tipps
