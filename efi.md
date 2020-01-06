@@ -372,8 +372,8 @@ Tabellen anzeigen
 ➡️ [Filius](https://lernsoftware-filius.de/Herunterladen) <br>
 
 * `ip link` / `ip l`: Netzwerkschnittstellen anzeigen (lo = loopback)
-* `ip neighbour` / `ip n`: ARP-Tabelle verwalten
-* `ip address` / `ip a`: seitenweise Ausgabe und Suche
+* `ip neighbour` / `ip n`: ARP-Tabelle anzeigen (IP- und MAC-Adressen im Netzwerk)
+* `ip address` / `ip a`: Zeigt eigene IP Adresse an
 * `ping <Adresse>`: ICMP ECHO_REQUEST
 * `ip route` / `ip r`: Routing-Tabelle
 * `traceroute <Adresse>`: Traceroute
@@ -391,6 +391,7 @@ Tabellen anzeigen
 * Webbrowser II: `elinks`, `w3m`, `lynx`, `links``
 * Downloadmanager: `wget`
 * Dienste & Ports: `cat /etc/services`
+
 
 ### Netzwerken mit RaspberryPi
 
