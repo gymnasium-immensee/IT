@@ -443,7 +443,7 @@ Activate hostapd:<br>
 
 #### Statische IP-Adressen definieren
 
-`sudo nano /etc/hostapd/hostapd.conf`
+`sudo nano /etc/dhcpcd.conf`
 <br>
 Zuunterst folgende Zeilen hinzufügen (x mit Gruppennummer ersetzen):
 
