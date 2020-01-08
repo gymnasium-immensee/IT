@@ -336,8 +336,8 @@ Tabellen anzeigen
 * Vergangene Befehle anzeigen: `history`
 * Autovervollständigen: `⇥`
 * Prozesse anzeigen: `ps``
-* Prozess beenden: `kill Prozessnummer``
-* Prozess beenden: `killall 
+* Prozess beenden: `kill Prozessnummer`
+* Prozess beenden: `killall`
 
 #### [GNU Emacs](https://www.gnu.org/software/emacs/)
 
@@ -479,7 +479,7 @@ interface=wlan0
 #### Routing-Tabelle
 
 `ip route show`
-`ip route add 192.168.2.0/24 via 192.168.10.2`
+`sudo ip route add 192.168.2.0/24 via 192.168.10.2`
 
 # Weitere Tipps
 
