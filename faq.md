@@ -2,8 +2,10 @@
 
 Das Prinzip der Basentrippletts erklären
 : Erklärung
+
 Was sind Aminosäuren?
 : Erklärung 2
+
 Was ist die TATA-Box? Nutzen?
 Wann ist es präRNA wann nur mRNA?
 Ribozym und Domänen mit 3D-Strukur p.232 Wirkung davon und Strukur nicht klar?
