@@ -9,34 +9,34 @@ Durch die form der tRNA werden bei der Translation immer drei Basen (das Tripple
 Die kleinsten Bauteile von Proteinen.
 
 ### Was ist die TATA-Box? Nutzen?
-
+Sequenz vor einem Gen, die als Startpunkt der Tanskription dienen.
 
 ### Wann ist es präRNA wann nur mRNA?
-
+prä-mRNA ist die noch nicht bearbeitete messengerRNA bei Eukaryoten.
 
 ### Ribozym und Domänen mit 3D-Strukur p.232 Wirkung davon und Strukur nicht klar?
-
+mRNA's mit Enzymwirkung, z.B. snRNA's im Spliceosom.
 
 ### AA-tRNA erläutern
-
+tRNA mit gebundener Aminosäure
 
 ### Was rRNA ist und wozu sie dient?
-
+ribosomale RNA; Bauteile des Ribosoms.
 
 ### Unterscheidung Genexpression von Bakterien und Eukaryonten p240/241 ist dies Prüfungsrelevant?
-
+Ja.
 
 ### Was ist ein offenes Leseraster?
-
+Was auf einmal transkribiert wird (zwischen Start- und Stop-Codon)
 
 ### Was eine Methylierungsmuster ist, und was es mit Embryonalentwicklung zu tun hat und Zusammenhang genomischer Prägung?
-
+Methylierung kann Regionen deaktivieren, diese Deaktivierung kann epigenetisch vererbt werden.
 
 ### Was ist ein Allel?
-
+Die Variante eines Gens, z.B. ob es für eine rote oder weisse Blütenfarbe codiert
 
 ### Was sind Enchancer?
-
+Ermöglichen/beeinflussen die Möglichket, dass Transkriptionsfaktoren den Start der Transkription einläuten.
 
 ### Komplette p.250 erläutern!
 
