@@ -29,7 +29,7 @@ Ja.
 ### Was ist ein offenes Leseraster?
 Was auf einmal transkribiert wird (zwischen Start- und Stop-Codon)
 
-### Was eine Methylierungsmuster ist, und was es mit Embryonalentwicklung zu tun hat und Zusammenhang genomischer Prägung?
+### Was eine Methylierungsmuster ist, und was es mit Embryonalentwicklung zu tun hat und Zusammenhang genomischer Prägung? Kapitel zu Modifikation von Histonen und DNA-Methelierung erläutern!
 Methylierung kann Regionen deaktivieren, diese Deaktivierung kann epigenetisch vererbt werden.
 
 ### Was ist ein Allel?
@@ -42,28 +42,22 @@ Ermöglichen/beeinflussen die Möglichket, dass Transkriptionsfaktoren den Start
 
 
 ### Was ist ein in vitro Amplifikation?
-
+"Künstliche" (im Reagenzglas) DNA Vermehrung
 
 ### Souther-Blotting alles unklar von Anwendung Sondenmolekulare Hybridisierung, radioaktiver Nachweis?
-
+Nach dem Auftrennen & Übertragen der DNA-Fragmente wird mit einer markierten komplementären Sequenz nach dem gewünschten Genabschnitt gesucht.
 
 ### Was iest eine Kettenabbruchreaction?
-
-
-### Kapitel zu Modifikation von Histonen und DANN-Methelierung erläutern!
-
+Durch modifizierte Nukleotide wird die PCR (PolymeraseChainReaction) abgebrochen.
 
 ### Funktion von X-Gal und lacZ ?
+Test, ob der gewünschte DNA-Abschnitt in den Plasmidring aufgenommen wurde (Blau-Weiss-Test)
 
-
-## DNA-Sequenzierung erklären, welche der Methoden sind Relevant von den vielen, was ist eine Sequenzierung überhaupt, kann man das aufspalten, einen Ablauf erstellen? Wieso so viele Methoden die das Selbe ermitteln?
-
-
-### Alle Sequenzierungsmölichkeiten erläutern
-
+## DNA-Sequenzierung erklären, welche der Methoden sind Relevant von den vielen, was ist eine Sequenzierung überhaupt, kann man das aufspalten, einen Ablauf erstellen? Wieso so viele Methoden die das Selbe ermitteln? Alle Sequenzierungsmölichkeiten erläutern
+Herausfinden der DNA-Sequenz (ATATAGGACCA); sie haben alle verschiedene Vor- und Nachteile; relevant sind diese, sowie den prinzipiellen Ablauf und die Unterschiede. 
 
 ### Was ist Plasmid- Phagenvektor
-
+Plasmide, welche Teile von Phagen-Genomen enthalten.
 
 ### P.278 erläutern
 
