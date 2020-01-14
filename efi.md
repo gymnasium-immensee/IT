@@ -370,7 +370,7 @@ Tabellen anzeigen
 ➡️ [DNStools.ch](http://www.dnstools.ch) <br>
 ➡️ [HowDNS.works](https://howdns.works) <br>
 ➡️ [Filius](https://lernsoftware-filius.de/Herunterladen) <br>
-➡️ [Filius](https://www.wireshark.org) <br>
+➡️ [Wireshark](https://www.wireshark.org) <br>
 
 * `ip link` / `ip l`: Netzwerkschnittstellen anzeigen (lo = loopback)
 * `ip neighbour` / `ip n`: ARP-Tabelle anzeigen (IP- und MAC-Adressen im Netzwerk)
