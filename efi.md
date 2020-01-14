@@ -489,7 +489,7 @@ interface=wlan0
 
 ## Erste Schritte
 
-* [ ] Visual studio code laden & installieren: [code.visualstudio.com](https://code.visualstudio.com)
+* [ ] Visual Studio Code laden & installieren: [code.visualstudio.com](https://code.visualstudio.com)
 * [ ] GitHub Konto eröffnen: [github.com/join](https://github.com/join)
 * [ ] GitHub Page erstellen: [pages.github.com](https://pages.github.com)
 * [ ] Link (`https://username.github.io`) auf Teams posten
