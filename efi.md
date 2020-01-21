@@ -18,6 +18,8 @@
 * [HTML](https://developer.mozilla.org/de/docs/Learn/HTML)
 * [CSS](https://developer.mozilla.org/de/docs/Learn/CSS)
 * [JavaScript](https://developer.mozilla.org/de/docs/Learn/JavaScript)
+* [Referenz](https://developer.mozilla.org/de/docs/Web/Reference)
+* [w3schools](https://www.w3schools.com)
 
 # 💻☁️🌐 EFI – Computer – Daten – Netzwerke
 
