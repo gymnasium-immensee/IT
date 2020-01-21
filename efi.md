@@ -1,6 +1,27 @@
-# EFI
+# 🌍🌎🌏 EFI-Web-Projekt
 
-## Computer/Daten
+## Inspektor/Dev Tools bei Browsern öffnen
+* Windows & Linux: `ctrl` `⇧` `i`
+* Mac: `⌘` `⌥` `i`
+
+## Erste Schritte
+
+* Visual Studio Code laden & installieren: [code.visualstudio.com](https://code.visualstudio.com)
+* GitHub Konto eröffnen: [github.com/join](https://github.com/join)
+* GitHub Page erstellen: [pages.github.com](https://pages.github.com)
+* Link (`https://username.github.io`) auf Teams posten
+* Ideen Sammeln / [Website planen](https://developer.mozilla.org/de/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
+
+## Themen
+
+* [Dateien nutzen](https://developer.mozilla.org/de/docs/Learn/Getting_started_with_the_web/dateien_nutzen)
+* [HTML](https://developer.mozilla.org/de/docs/Learn/HTML)
+* [CSS](https://developer.mozilla.org/de/docs/Learn/CSS)
+* [JavaScript](https://developer.mozilla.org/de/docs/Learn/JavaScript)
+
+# 💻☁️🌐 EFI – Computer – Daten – Netzwerke
+
+## Computer & Daten
 
 ### Links
 * [Werbeplakate am Zürich HB](https://www.tagesanzeiger.ch/zuerich/stadt/swisscom-lueftet-geheimnis-um-schwarze-boxen-am-hb-zuerich/story/29988994)
@@ -480,20 +501,6 @@ interface=wlan0
 
 `ip route show`
 `sudo ip route add 192.168.2.0/24 via 192.168.10.2`
-
-# 🌍🌎🌏 Web-Projekt
-
-## Inspektor/Dev Tools bei Browsern öffnen
-* Windows & Linux: `ctrl` `⇧` `i`
-* Mac: `⌘` `⌥` `i`
-
-## Erste Schritte
-
-* [ ] Visual Studio Code laden & installieren: [code.visualstudio.com](https://code.visualstudio.com)
-* [ ] GitHub Konto eröffnen: [github.com/join](https://github.com/join)
-* [ ] GitHub Page erstellen: [pages.github.com](https://pages.github.com)
-* [ ] Link (`https://username.github.io`) auf Teams posten
-* [ ] Ideen Sammeln / [Website planen](https://developer.mozilla.org/de/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
 
 
 # Weitere Tipps
