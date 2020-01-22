@@ -542,7 +542,7 @@ interface=wlan0
 ## 📡 WLAN-Einstellungen für Adroid & Linux
 * EAP: PEAP
 * Phase 2: MSCHAPV2
-* CA: –
+* Zertifikate (CA/Benutzer): –
 * Identität: Benutzername
 * Anonyme Identität: –
 * Passwort: Passwort
