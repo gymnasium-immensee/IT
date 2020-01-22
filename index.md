@@ -42,6 +42,14 @@
 * Weiterleitung einrichten: [office.com](https://www.office.com) > Outlook > ⚙️ > Weiterleitung ([Wie?](https://is.gd/mailweiterleitung))
 * oder [Mobile Outlook-App](https://products.office.com/de-ch/outlook-mobile-for-android-and-ios) verwenden
 
+## 📡 WLAN-Einstellungen für Adroid & Linux
+* EAP: PEAP
+* Phase 2: MSCHAPV2
+* CA: –
+* Identität: Benutzername
+* Anonyme Identität: –
+* Passwort: Passwort
+
 ## 🚚 (Sehr) grosse Dateien übertragen
 (Z.B. ein Kurzfilm, eine grosse Präsentation, etc.)
 * Senden:

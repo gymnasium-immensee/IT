@@ -127,6 +127,18 @@ Als ich mich bei Teacherstuff anmeldete, ladete es die ganze Zeit ohne Ergebnis.
 * Windows & Linux: `AltGr` `<` (rechts von `⇧`)
 * Mac: `⌥` `⇧` `7`
 
+## ✉️ Mail einrichten
+* Weiterleitung einrichten: [office.com](https://www.office.com) > Outlook > ⚙️ > Weiterleitung ([Wie?](https://is.gd/mailweiterleitung))
+* oder [Mobile Outlook-App](https://products.office.com/de-ch/outlook-mobile-for-android-and-ios) verwenden
+
+## 📡 WLAN-Einstellungen für Adroid & Linux
+* EAP: PEAP
+* Phase 2: MSCHAPV2
+* CA: –
+* Identität: Benutzername
+* Anonyme Identität: –
+* Passwort: Passwort
+
 ## 🚚 (Sehr) grosse Dateien übertragen
 (Z.B. ein Kurzfilm, eine grosse Präsentation, etc.)
 * Senden:
@@ -151,10 +163,6 @@ Als ich mich bei Teacherstuff anmeldete, ladete es die ganze Zeit ohne Ergebnis.
 1. Adresse: `schule.gymnasium-immensee.ch`
 1. Benutzername: `gyim\vorname.nachname`
 1. Passwort: das Office365 Passwort vom blauen Blatt
-
-## ✉️ Mail einrichten
-* Weiterleitung einrichten: [office.com](https://www.office.com) > Outlook > ⚙️ > Weiterleitung ([Wie?](https://is.gd/mailweiterleitung))
-* oder [Mobile Outlook-App](https://products.office.com/de-ch/outlook-mobile-for-android-and-ios) verwenden
 
 ## 🔐 Starke Passwörter
 * Kann man mit `password strength` auf [WolframAlpha](https://www.wolframalpha.com/input/?i=password+strength) testen
