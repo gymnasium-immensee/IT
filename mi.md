@@ -97,7 +97,7 @@
 1. «Sync» klicken
 1. Gewünschte Ordner wählen: [Windows](https://support.office.com/de-de/article/synchronisieren-von-sharepoint-dateien-mit-dem-neuen-onedrive-synchronisierungsclient-6de9ede8-5b6e-4503-80b2-6190f3354a88) / [Mac](https://support.office.com/de-de/article/synchronisieren-von-dateien-mit-dem-onedrive-synchronisierungsclient-unter-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f)
 
-📱 (iOS & Android) Bei der OneDrive-App anmelden und «Bibliotheken» (unten rechts) wählen
+📱 (iOS & Android) Auf [Sharepoint](https://gymnasiumimmensee.sharepoint.com) dem Team ⭐️folgen, bei der OneDrive-App anmelden und «Bibliotheken» (unten rechts) wählen
 
 ## 💾 Backup erstellen
 * Windows: [Dateiversionsverlauf](https://support.microsoft.com/de-de/help/4027408/windows-10-backup-and-restore)
