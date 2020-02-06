@@ -1,4 +1,4 @@
-# 🗓 Termine
+# 🗓 Terminplan
 
 ## ⛷ Skitag 2020
 
@@ -12,8 +12,8 @@
 ## 🏝Schuljahresende 2020
 
 1. Reinigung der SOL-Zimmer: Fr., 26. Juli, 13:00 (Wl)
-* Schlüsselrückgabe: Fr., 26. Juli, 1330 - 13:50*
-* Schlussfeier inkl. Mittagessen und KT am Do., 2. Juli 2020
+1. Schlüsselrückgabe: Fr., 26. Juli, 1330 - 13:50*
+1. Schlussfeier inkl. Mittagessen und KT am Do., 2. Juli 2020
     * 1145 Mittagessen @ oberer Hof ☀️/ Mensa 🌧
     * 1240 Treffpunkt im KT-Zimmer
     * 1245 Schlussfeier @ oberer Hof ☀️/ Kapelle 🌧
