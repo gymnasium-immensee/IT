@@ -4,10 +4,10 @@
 
 * 745: Einsteigen in die Busse bei der Mensarampe (klassenweise)
 * 805: Abfahrt ab Gymi Immensee mit Bussen + Standseilbahn auf Stoos
-* 1130: Mittagessen im «Hotel Klingenstock» (direkt bei der Bergstation der Standseilbahn)
+* 1130: Mittagessen im «Hotel Alpstubli» (direkt bei der Talstation des Fronalpstocksessellifts)
 * 1545: Besammlung bei der Bergstation
-* 1600: Gemeinsame Talfahrt und Rückreise mit den Bussen
-* ~1700: Ankunft am Gymi
+* ab 1600: Individuelle Talfahrt und Rückreise mit den Bussen
+* ~1730: Ankunft am Gymi
 
 ## 📝 Abgabetermin Wahl SPF/EF
 * 14.2.20
