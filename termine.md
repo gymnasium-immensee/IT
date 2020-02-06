@@ -1,6 +1,6 @@
 # 🗓 Terminplan 3c
 
-## ⛷ Skitag 2020
+<!--## ⛷ Skitag 2020
 
 * 745: Einsteigen in die Busse bei der Mensarampe (klassenweise)
 * 805: Abfahrt ab Gymi Immensee mit Bussen + Standseilbahn auf Stoos
@@ -8,6 +8,7 @@
 * 1545: Besammlung bei der Bergstation
 * 1600: Gemeinsame Talfahrt und Rückreise mit den Bussen
 * ~1700: Ankunft am Gymi
+-->
 
 ## 📝 Abgabetermin Wahl SPF/EF
 * 14.2.20
