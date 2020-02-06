@@ -9,7 +9,19 @@
 * 1600: Gemeinsame Talfahrt und Rückreise mit den Bussen
 * ~1700: Ankunft am Gymi
 
-## 🏝Schuljahresende 2020
+## 📝 Abgabetermin Wahl SPF/EF
+* 14.2.20
+
+## 🎤 EF Konzert «Music through the ages»
+* 19.2.20
+* 19:30 - 21:00
+* Saal Monséjour, Küssnacht
+
+## ⛷ Sportferien
+* 22.2.20
+
+
+## 🏝 Schuljahresende 2020
 
 1. Reinigung der SOL-Zimmer: Fr., 26. Juli, 13:00 (Wl)
 1. Schlüsselrückgabe: Fr., 26. Juli, 1330 - 13:50*
