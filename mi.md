@@ -112,6 +112,9 @@ Kann ich für den praktischen Test mein Telefon benutzen?
 Als ich mich bei Teacherstuff anmeldete, ladete es die ganze Zeit ohne Ergebnis. Ist das normal?
 : Das geht nur im Schul-WLAN.
 
+Könnten sie mir bitte dieses Lernziel erklären: Du kannst Dokumente so ablegen, dass auch andere sie wieder finden. Ich weiss nähmlich nicht, wie sie dieses Lernziel meinen.
+: Das Dokument sollte einerseits an einem sinnvollen Ort in der Baumstruktur abgelegt werden, z.B. unter «Dokument» und nicht unter «Programme (x86)». Noch eleganter ist es zudem «in der Cloud», z.B. OneDrive oder Teams abgelegt, damit man gemeinam mit anderen daran arbeiten kann.
+
 # Weitere Tipps
 
 ## 🎹 Emoji oder andere Spezial-Zeichen einfügen:
