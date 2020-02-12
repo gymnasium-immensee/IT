@@ -144,7 +144,7 @@
 ## 🏝 Schuljahresende 2020
 
 1. Reinigung der SOL-Zimmer: Fr., 26. Juni, 13:00 (Wl)
-1. Schlüsselrückgabe: Fr., 26. Juni, 1330 - 13:50*
+1. Schlüsselrückgabe: Fr., 26. Juni, 1320 - 13:50*
 1. Schlussfeier inkl. Mittagessen und KT am Do., 2. Juni 2020
     * 1145 Mittagessen @ oberer Hof ☀️/ Mensa 🌧
     * 1240 Treffpunkt im KT-Zimmer
