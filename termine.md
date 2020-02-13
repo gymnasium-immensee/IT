@@ -150,11 +150,11 @@
 
 ## 📢 Jahresexamen (⚠️ provisorisch)
 
-* 7.5 Minuten Vorbereitungszeit + 7.5 Minuten Prüfungszeit
-* Zählt zu einem Drittel für die Note des 2. Semesters
 * Di., 30.6.20: Wirtschaft & Recht, O E02
 * Mi., 1.7.20: Mathematik, Z 306
 * Do., 2.7.20: Geschichte, Z D15
+* 7.5 Minuten Vorbereitungszeit + 7.5 Minuten Prüfungszeit
+* Zählt zu einem Drittel für die Note des 2. Semesters
 
 ## 🏝 Schuljahresende 2020
 
