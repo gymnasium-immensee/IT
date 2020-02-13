@@ -119,9 +119,16 @@
 
 -->
 
-## 📝 Abgabetermin Wahl SPF/EF
+## 📝 Abgabetermin Wahl SPF
 
 * 14.2.20
+* Biologie & Chemie
+* Philosophie, Pädagogik, Psychologie (PPP)
+* Wirtschaft & Recht
+* Spanisch
+* Italienisch
+* Physik und Anwendungen der Mathematik (PAM)
+* Bildnerisches Gestalten
 
 ## 🎤 EF Konzert «Music through the ages»
 
@@ -144,7 +151,7 @@
 ## 🏝 Schuljahresende 2020
 
 1. Reinigung der SOL-Zimmer: Fr., 26. Juni, 13:00 (Wl)
-1. Schlüsselrückgabe: Fr., 26. Juni, 1330 - 13:50*
+1. Schlüsselrückgabe: Fr., 26. Juni, 1320 - 13:50*
 1. Schlussfeier inkl. Mittagessen und KT am Do., 2. Juni 2020
     * 1145 Mittagessen @ oberer Hof ☀️/ Mensa 🌧
     * 1240 Treffpunkt im KT-Zimmer
@@ -152,3 +159,35 @@
     * 1330 Abschluss im KT-Zimmer
 
 \* Wertgegenstände bitte vor der Schlüsselabgabe nach Hause nehmen; Für nicht retournierte/verlorene Schlüssel wird ein Unkostenbeitrag von 50 Franken erhoben. Der Betrag wird der Semester-Abrechnung für Lehrmittel/Exkursionenen belastet
+
+## 📝 Abgabetermin Wahl EF
+
+* Biologie
+* Chemie
+* Physik
+* Informatik
+* Anwendungen der Mathematik
+* Wirtschaft und Recht
+* Pädagogik & Psychologie
+* Philosophie
+* Geschichte
+* Geographie
+* Musik
+* Bildnerisches Gestalten
+* Sport
+
+## 🧳 Fremdsprachenaufenthalt
+
+* Mindestens 3 Wochen am Stück
+* Französischer Sprachraum
+* Sommerferien 2021
+* Tipps
+  * Leben in Gastfamilie + Mithilfe im Haushalt / Betrieb
+  * Familientausch
+  * Sprachschule
+* Auch mit Sozialpraktikum kombinierbar (mind. 4 / 5 (falls unterbrochen) Wochen
+
+## 🤝 Sozialpraktikum
+
+* 15 Arbeitstage (am Stück oder gesplittet)
+* Bis Ende Herbstferien 2021
