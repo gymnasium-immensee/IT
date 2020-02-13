@@ -121,18 +121,18 @@
 
 ## 📝 Abgabetermin Wahl SPF
 
-* 14.2.20
-* Biologie & Chemie
-* Philosophie, Pädagogik, Psychologie (PPP)
-* Wirtschaft & Recht
-* Spanisch
-* Italienisch
-* Physik und Anwendungen der Mathematik (PAM)
+* Fr., 14.2.20
 * Bildnerisches Gestalten
+* Biologie & Chemie
+* Italienisch
+* Philosophie, Pädagogik, Psychologie (PPP)
+* Physik und Anwendungen der Mathematik (PAM)
+* Spanisch
+* Wirtschaft & Recht
 
 ## 🎤 EF Konzert «Music through the ages»
 
-* 19.2.20
+* Mi., 19.2.20
 * 19:30 - 21:00
 * Saal Monséjour, Küssnacht
 
@@ -142,14 +142,15 @@
 
 ## 👨‍👩‍👧‍👦 Elternforum
 
-* 20.3.2020 [«Trotz Matura zu dumm für die Uni...?»](https://www.gymnasium-immensee.ch/app/download/12447922899/Elternforum_20.03.2020.pdf?t=1581084534) 
+* Fr., 20.3.2020 [«Trotz Matura zu dumm für die Uni...?»](https://www.gymnasium-immensee.ch/app/download/12447922899/Elternforum_20.03.2020.pdf?t=1581084534) 
 
 ## 🌺 Frühlingsferien
 
 * 25.4.20 - 10.5.20
 
-## 📢 Jahresexamen (⚠️ provisorisch)
+## 📢 Jahresexamen
 
+(⚠️ provisorisch)
 * Di., 30.6.20: Wirtschaft & Recht, O E02
 * Mi., 1.7.20: Mathematik, Z 306
 * Do., 2.7.20: Geschichte, Z D15
@@ -170,19 +171,19 @@
 
 ## 📝 Abgabetermin Wahl EF
 
+* Anwendungen der Mathematik
+* Bildnerisches Gestalten
 * Biologie
 * Chemie
-* Physik
+* Geographie
+* Geschichte
 * Informatik
-* Anwendungen der Mathematik
-* Wirtschaft und Recht
+* Musik
 * Pädagogik & Psychologie
 * Philosophie
-* Geschichte
-* Geographie
-* Musik
-* Bildnerisches Gestalten
+* Physik
 * Sport
+* Wirtschaft und Recht
 
 ## 🧳 Fremdsprachenaufenthalt
 
