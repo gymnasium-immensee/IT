@@ -148,6 +148,14 @@
 
 * 25.4.20 - 10.5.20
 
+## 📢 Jahresexamen (⚠️ provisorisch)
+
+* 7.5 Minuten Vorbereitungszeit + 7.5 Minuten Prüfungszeit
+* Zählt zu einem Drittel für die Note des 2. Semesters
+* Di., 30.6.20: Wirtschaft & Recht, O E02
+* Mi., 1.7.20: Mathematik, Z 306
+* Do., 2.7.20: Geschichte, Z D15
+
 ## 🏝 Schuljahresende 2020
 
 1. Reinigung der SOL-Zimmer: Fr., 26. Juni, 13:00 (Wl)
