@@ -117,8 +117,6 @@
 * ab 1600: Individuelle Talfahrt und Rückreise mit den Bussen
 * ~1730: Ankunft am Gymi
 
--->
-
 ## 📝 Abgabetermin Wahl SPF
 
 * Fr., 14.2.20
@@ -129,6 +127,8 @@
 * Physik und Anwendungen der Mathematik (PAM)
 * Spanisch
 * Wirtschaft & Recht
+
+-->
 
 ## 🎤 EF Konzert «Music through the ages»
 
