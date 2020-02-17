@@ -115,6 +115,18 @@ Als ich mich bei Teacherstuff anmeldete, ladete es die ganze Zeit ohne Ergebnis.
 Könnten sie mir bitte dieses Lernziel erklären: Du kannst Dokumente so ablegen, dass auch andere sie wieder finden. Ich weiss nähmlich nicht, wie sie dieses Lernziel meinen.
 : Das Dokument sollte einerseits an einem sinnvollen Ort in der Baumstruktur abgelegt werden, z.B. unter «Dokument» und nicht unter «Programme (x86)». Noch eleganter ist es zudem «in der Cloud», z.B. OneDrive oder Teams abgelegt, damit man gemeinam mit anderen daran arbeiten kann.
 
+Welche Seite im Heft betrifft das Lernziel : „ Du hast eine Vorstellung von der Leistung von Computern“
+: Die Seiten über den Prozessor (inkl. Rüebli) sowie ie Umfrage-Ergebnisse über eure Computer (GHz)
+
+Kommuniziert das Betriebssystem sozusagen mit der Hardware?
+: Stimmt genau.
+
+Der Datenspeicher ist ja alles was auf dem computer gespeichert wird zbs Fotos und der RAM rechnet alle rechnungen, dass der Computer lauft wennn ich mich nicht irre, aber was ist den der Prozzesor?
+: Das was rechnet, ist der Prozessor, und damit er rechnen kann, benötigt er den Arbeitsspeicher (RAM).
+
+Ich will fragen, ob wir am test ein backup machen müssen oder nur wissen wie es funktioniert?
+: Nur wissen, für ein echtes Backup reicht leider die Zeit nicht.
+
 # Weitere Tipps
 
 ## 🎹 Emoji oder andere Spezial-Zeichen einfügen:
