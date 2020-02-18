@@ -36,6 +36,7 @@
 * `<head>` enthält Autor, Titel & Beschreibung sowie die Definition des `charset` `"utf-8"`
 * CSS steht in einem korrekt verlinkten, externen File und nicht inline.
 * Die HTML-Elemente sind mit einigen CSS rules gestyled
+* 🎙 Inhalt + Code werden um 14:00 kurz live präsentiert
 
 ## Benchmark 2
 
