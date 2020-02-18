@@ -14,15 +14,41 @@
 * Link (`https://username.github.io`) auf Teams posten
 * Ideen Sammeln / [Website planen](https://developer.mozilla.org/de/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
 
-## Themen
+## Links
 
-* [Dateien nutzen](https://developer.mozilla.org/de/docs/Learn/Getting_started_with_the_web/dateien_nutzen)
-* [HTML](https://developer.mozilla.org/de/docs/Learn/HTML)
-* [CSS](https://developer.mozilla.org/de/docs/Learn/CSS)
-* [JavaScript](https://developer.mozilla.org/de/docs/Learn/JavaScript)
-* [Referenz](https://developer.mozilla.org/de/docs/Web/Reference)
+* MozillaDeveloperNetwork web docs:
+	* [Dateien nutzen](https://developer.mozilla.org/de/docs/Learn/Getting_started_with_the_web/dateien_nutzen)
+	* [HTML-Tutorial](https://developer.mozilla.org/de/docs/Learn/HTML)
+	* [CSS-Tutorial](https://developer.mozilla.org/de/docs/Learn/CSS)
+	* [JavaScript-Tutorial](https://developer.mozilla.org/de/docs/Learn/JavaScript)
+	* [Referenz](https://developer.mozilla.org/de/docs/Web/Reference)
 * [w3schools](https://www.w3schools.com)
 * [JS Fiddle](https://jsfiddle.net)
+
+## Benchmark 1
+
+* Seite ist erreichbar unter `username.github.io`
+* Es gibt ersten «echten» Inhalt, der grösstenteils selbst produziert wurde (sonst: Link zur Quelle)
+* Die Seite mit [semantischen HTML-Tags](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines#Problems_solved_by_HTML5) strukturiert
+* Ein Navigationsmenü erlaubt die Navigation zu Unterseiten oder Elementen innerhalb der OnePage-Seite
+* Es werden sinnvolle Kommentare im Code verwendet (HTML & CSS) 
+* Es gibt Links, Abbildungen, Listen und Tabellen, die einwandfrei funktionieren
+* `<head>` enthält Autor, Titel & Beschreibung sowie die Definition des `charset` `"utf-8"`
+* CSS steht in einem korrekt verlinkten, externen File und nicht inline.
+* Die HTML-Elemente sind mit einigen CSS rules gestyled
+
+## Benchmark 2
+
+* Fancier CSS (responsive, etc.)
+* Multiple favicons
+* Finalized content
+* (Details folgen)
+
+## Benchmark 3
+
+* Added Javascript
+* (Details folgen)
+
 
 # 💻☁️🌐 EFI – Computer – Daten – Netzwerke
 
