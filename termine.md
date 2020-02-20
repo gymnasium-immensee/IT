@@ -128,13 +128,13 @@
 * Spanisch
 * Wirtschaft & Recht
 
--->
-
 ## 🎤 EF Konzert «Music through the ages»
 
 * Mi., 19.2.20
 * 19:30 - 21:00
 * Saal Monséjour, Küssnacht
+
+-->
 
 ## ⛷ Sportferien
 
