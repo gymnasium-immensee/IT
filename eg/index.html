@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="bk">
+    <meta name="description" content="EFI Playground">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EFI Playground</title>
+    <link href="styles/style.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <div class="wrapper">
+        <!-- Kopfzeile -->
+        <header>
+        Kopfzeile
+        </header>
+
+        <!-- Navigation -->
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Projekt</a></li>
+                <li><a href="#">Team</a></li>
+                <li><a href="#">Kontakt</a></li>
+            </ul>
+        </nav>
+
+        <!-- -->
+        <main>
+            <article>
+                <div class="content">
+                    <h1>H1 Titel</h1> <!-- das ist ein H1 Titel-->
+                    <p><a href="https://is.gd/efinformatik">👉 is.gd/efinformatik</a></p>
+                    <h2>H2 Titel</h2>
+                    <p>
+                        <!-- das ist ein Paragraph-->
+                        ein Paragraph
+                    </p>
+
+                    <p>
+                        <!-- ein externer Link -->
+                        <a href="https://en.wikipedia.org/wiki/Capuchin_monkey">Kapuzineräffchen</a>
+                    </p>
+
+                    <p>
+                        <!-- ein interner Link -->
+                        <a href="#linktarget">weiter zum nächsten "H2 Titel"</a>
+                    </p>
+
+                    <p>
+                        <img src="images/monkey.jpg" alt="This is a monkey" width=100%/>
+                    </p>
+
+                    <h3>H3 Titel</h3>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Donec a diam lectus. Set sit amet ipsum mauris. Maecenas congue ligula as quam viverra nec consectetur ant hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur.
+                    </p>
+                    <p>
+                        Donec ut librero sed accu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aenean ut gravida lorem. Ut turpis felis, pulvinar a semper sed, adipiscing id dolor.
+                    </p>
+                </div>
+                <aside class="related">
+                    <h2 id="linktarget">H2 Titel</h2>
+                    
+                    <p>noch ein Paragraph, mit einigen Beispielen:</p>
+                    <h3>Ein leckers Rezept</h3>
+
+                    <ol>
+                    <li>Schälen Sie den Knoblauch und hacken ihn in grobe Stücke.</li>
+                    <li>
+                        Entfernen Sie den Stiel und die Samen der Paprika, hacken Sie diese dann
+                        in grobe Stücke.
+                    </li>
+                    <li>Tun Sie alle Zutaten zusammen in eine Küchenmaschine.</li>
+                    <li>Pürieren Sie die Zutaten zu einer Paste.</li>
+                    <ul>
+                        <li>
+                        Wenn Sie einen groben Hummus bevorzugen, pürieren Sie die Zutaten
+                        nicht zu lange.
+                        </li>
+                        <li>
+                        Wenn Sie einen feinen Hummus haben möchten, pürieren Sie die Zutaten
+                        etwas länger.
+                        </li>
+                    </ul>
+                    </ol>
+                    <h3>Beschreibungsliste / description list</h3>
+
+                    <dl>
+                    <dt>Innerer Monolog</dt>
+                    <dd>
+                        Der innere Monolog ist eine Form des Erzählens und wird oft zur
+                        Vermittlung von Gedankenvorgängen gebraucht.
+                    </dd>
+                    <dt>Monolog</dt>
+                    <dd>
+                        Der Monolog (gr. μόνος mónos „allein“ und -log; lat. Soliloquium) ist im
+                        Gegensatz zum Dialog ein Selbstgespräch und findet vor allem im Drama
+                        Verwendung.
+                    </dd>
+                    <dt>Beiseitesprechen</dt>
+                    <dd>
+                        Das Beiseitesprechen oder A-part-Sprechen ist ein Stilmittel des
+                        Theaters. Eine Bühnenfigur sagt etwas, das ihre Dialogpartner nicht
+                        mitbekommen, wohl aber das Publikum.
+                    </dd>
+                    </dl>
+
+                    <h3>Beispiele für Inline Elemente</h3>
+
+                    <ul>
+                    <li><em>em</em></li>
+                    <li><strong>strong</strong></li>
+                    <li>
+                        <a href="https://developer.mozilla.org/de/docs/Web/HTML/Inline_elemente"
+                        >MDN Referenz: Inline Elemente</a
+                        >
+                    </li>
+                    <li>
+                        <b>b</b>, <i>i</i> &amp; <u>u</u> sind rein präsentationsbezogen und
+                        semantiklos, weshalb sie sparsam eingesetzt werden sollten. Ausnahmen:
+                    </li>
+                    </ul>
+
+                    <!-- Wissenschaftliche Namen -->
+                    <p>
+                    Der winzige Rubinkehlkolibri (<i>Archilochus colubris</i>) ist ein
+                    auffallend farbenprächtiger Vogel, der in den östlichen Teilen der USA und
+                    Kanadas anzutreffen ist.
+                    </p>
+
+                    <!-- Fremdwörter -->
+                    <p>
+                    Das Menü bestand aus einer Fülle an extosichen Wörtern, zum Beispiel
+                    <i lang="uk-latn">vatrushka</i>, <i lang="id">nasi goreng</i> und
+                    <i lang="fr">soupe à l'oignon</i>.
+                    </p>
+
+                    <h3>Beispiele für Attribute</h3>
+
+                    <ul>
+                    <li>class=“”</li>
+                    <li>title=“”</li>
+                    <li>target=“_blank”</li>
+                    <li>
+                        type=“” &amp; disabled: <input type="“text”" disabled />
+                        <input type="“text”" />
+                    </li>
+                    </ul>
+
+                    <p>
+                    Einfache &amp; doppelte Anführungszeichen können verwendet, aber nicht
+                    vermischt werden.
+                    </p>
+
+                    <h3>Sonderzeichen (siehe HTML):</h3>
+
+                    <ul>
+                    <li>&lt;</li>
+                    <li>&gt;</li>
+                    <li>&le;</li>
+                    <li>&ge;</li>
+                    <li>“</li>
+                    <li>‘</li>
+                    <li>&amp;</li>
+                    </ul>
+
+                    <h3>Kommentare (siehe HTML):</h3>
+                    <!-- <p>Ich bin in einem Kommentar und werde auf der Webseite nicht angezeigt!</p> -->
+
+                    <h3>Zitate</h3>
+
+                    <!-- cite  Element ist sinnvoller als das cite Attribut-->
+
+                    <p>
+                    Auf der
+                    <a
+                        href="https://developer.mozilla.org/de/docs/Web/HTML/Element/blockquote"
+                    >
+                        <cite>MDN blockquote-Seite</cite></a
+                    >
+                    steht:
+                    </p>
+
+                    <blockquote
+                    cite="https://developer.mozilla.org/de/docs/Web/HTML/Element/blockquote"
+                    >
+                    <p>
+                        Das <strong>HTML <code>&lt;blockquote&gt;</code>-Element</strong> (oder
+                        <em>HTML Block Quotation Element</em>) indiziert, dass es sich bei dem
+                        eingeschlossenen Text um ein erweitertes Blockzitat handelt.
+                    </p>
+                    </blockquote>
+
+                    <p>
+                    Das <code>&lt;q&gt;</code>-Element —
+                    <q cite="https://developer.mozilla.org/de/docs/Web/HTML/Element/q"
+                        >indiziert, dass es sich bei dem eingeschlossenen Text um ein kurzes
+                        Zitat handelt.</q
+                    >
+                    --
+                    <a href="https://developer.mozilla.org/de/docs/Web/HTML/Element/q">
+                        <cite>MDN q Seite</cite></a
+                    >.
+                    </p>
+
+                    <h3>
+                    Abkürzungen, hoch-/tiefstellen & Code
+                    </h3>
+
+                    <p>
+                    Wir benutzen <abbr title="Hypertext Markup Language">HTML</abbr>, um ein
+                    Webdokument zu strukturieren.
+                    </p>
+
+                    <p>
+                    Die chemische Formel von Koffein ist
+                    C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub>.
+                    </p>
+                    <p>Wenn x<sup>2</sup> gleich 9 ist, dann muss x gleich 3 oder -3 sein.</p>
+                    
+                    <p> Code:
+                        <code>
+                            window.alert("Hello World, its " + Date())
+                        </code>
+                    </p>
+                    
+
+                </aside>
+            </article>
+
+            <!-- Zusatzinfos neben dem Hauptinhalt -->
+            <aside class="sidebar">
+                <h3>Übrigens</h3>
+                <ul>
+                    <li><a href="#">A</a></li>
+                    <li><a href="#">B</a></li>
+                    <li><a href="#">C</a></li>
+                    <li><a href="#">D</a></li>
+                    <li><a href="#">E</a></li>
+                </ul>
+            </aside>
+        </main>
+        <footer>
+            <p>This is it.</p>
+        </footer>
+    </div>
+
+</body>
+
+</html>
