@@ -1,7 +1,5 @@
 # 🌍🌎🌏 EFI-Web-Projekt
 
-👉 [gymnasium-immensee.github.io](https://gymnasium-immensee.github.io)
-
 ## Inspektor/Dev Tools bei Browsern öffnen
 * Windows & Linux: `ctrl` `⇧` `i`
 * Mac: `⌘` `⌥` `i`
@@ -16,6 +14,7 @@
 
 ## Links
 
+* [HTML/CSS Beispielseite](https://gymnasium-immensee.github.io/IT/eg/)
 * MozillaDeveloperNetwork web docs:
 	* [Dateien nutzen](https://developer.mozilla.org/de/docs/Learn/Getting_started_with_the_web/dateien_nutzen)
 	* [HTML-Tutorial](https://developer.mozilla.org/de/docs/Learn/HTML)
