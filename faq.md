@@ -1,5 +1,8 @@
 # FAQ
 
+Aktuell keine. 🎉
+
+<!--
 ## SPF B/C Molekularbio II DNA
 
 👉 [siehe auch das Wiki auf Teams](https://teams.microsoft.com/l/entity/com.microsoft.teamspace.tab.wiki/tab::e0ef5917-1107-46b2-835a-85bd6fa67647?context=%7B%22subEntityId%22%3A%22%7B%5C%22pageId%5C%22%3A3%2C%5C%22origin%5C%22%3A2%7D%22%2C%22channelId%22%3A%2219%3Ad9721727e69443209b44cde33d67ab14%40thread.skype%22%7D&tenantId=792152af-37e3-4b00-a51c-f828f63a1754)
@@ -68,3 +71,5 @@
 
 * Würde das Kapitel 21 besprochen (ist es immer noch prüfungsrelevant?)
 	* Ja.
+
+-->
