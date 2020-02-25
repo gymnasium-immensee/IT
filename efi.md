@@ -7,6 +7,8 @@
 ## Erste Schritte
 
 * Visual Studio Code laden & installieren: [code.visualstudio.com](https://code.visualstudio.com)
+	* [Live Server Extension installieren](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+	* [Live Share Extension installieren](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 * GitHub Konto eröffnen: [github.com/join](https://github.com/join)
 * GitHub Page erstellen: [pages.github.com](https://pages.github.com)
 * Link (`https://username.github.io`) auf Teams posten
