@@ -24,27 +24,35 @@
 * [w3schools](https://www.w3schools.com)
 * [JS Fiddle](https://jsfiddle.net)
 
-## Benchmark 1
+## Benchmark 1️⃣
 
 * Seite ist erreichbar unter `username.github.io`
 * Es gibt ersten «echten» Inhalt, der grösstenteils selbst produziert wurde (sonst: Link zur Quelle)
 * Die Seite mit [semantischen HTML-Tags](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines#Problems_solved_by_HTML5) strukturiert
 * Ein Navigationsmenü erlaubt die Navigation zu Unterseiten oder Elementen innerhalb der OnePage-Seite
 * Es werden sinnvolle Kommentare im Code verwendet (HTML & CSS) 
-* Es gibt Links, Abbildungen, Listen und Tabellen, die einwandfrei funktionieren
+* Es gibt [Überschriften](https://wiki.selfhtml.org/wiki/HTML/Textstrukturierung/Überschrift), [Paragraphen](https://www.w3schools.com/html/html_paragraphs.asp), [Links](https://www.w3schools.com/tags/tag_a.asp), [Abbildungen](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML), Listen ([ul](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul), [ol](https://html.com/lists/), [li](https://www.w3schools.com/tags/tag_li.asp)) und Tabellen ([Tabellen](https://www.w3schools.com/html/html_tables.asp), [Zeilen](https://wiki.selfhtml.org/wiki/HTML/Tabellen/Aufbau_einer_Tabelle), [Kopfelement](https://www.w3schools.com/tags/tag_th.asp)), die einwandfrei funktionieren
 * `<head>` enthält Autor, Titel & Beschreibung sowie die Definition des `charset` `"utf-8"`
-* CSS steht in einem korrekt verlinkten, externen File und nicht inline.
-* Die HTML-Elemente sind mit einigen CSS rules gestyled
-* 🎙 Inhalt + Code werden um 14:00 kurz live präsentiert
+* CSS steht in einem [korrekt verlinkten, externen File](https://www.w3schools.com/css/css_howto.asp) und nicht inline.
+* Die HTML-Elemente sind mit einigen CSS rules gestyled. Tipps:
+	* [Padding und Margin](https://www.w3schools.com/css/css_boxmodel.asp)
+	* [Border](https://developer.mozilla.org/en-US/docs/Web/CSS/border)
+	* [Link-Formatierung](https://www.w3schools.com/css/css_link.asp)
+	* [Text-Formatierung](https://www.w3schools.com/css/css_text.asp)
+	* [Tabellen-Formatierung](https://www.w3schools.com/css/css_table.asp)
+	* [ID & Klassen](https://css-tricks.com/the-difference-between-id-and-class/)
+* 🎙 Inhalt + Code werden um 14:00 kurz live oder per 📺[Screencast](http://is.gd/efinformatik#-bildschirmaufzeichnung-erstellen) präsentiert.
 
-## Benchmark 2
+## Benchmark 2️⃣
 
-* Fancier CSS (responsive, etc.)
+* Fancier CSS (responsive, etc.). Tipps:
+	* [Strukturierung mit `<div></div>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
+	* [Positionierung](https://medium.freecodecamp.org/how-to-use-the-position-property-in-css-to-align-elements-d8f49c403a26)
 * Multiple favicons
 * Finalized content
 * (Details folgen)
 
-## Benchmark 3
+## Benchmark 3️⃣
 
 * Added Javascript
 * (Details folgen)
@@ -339,7 +347,6 @@ Datenbanken anzeigen
 Tabellen anzeigen
 : `.tables`
 
-
 ## Systeme
 
 ### Statistik
@@ -349,14 +356,12 @@ Tabellen anzeigen
 
 ### Linux-Kommandozeile
 
-➡️ Via «Eingabeaufforderung» (Windows) oder «Terminal» (Mac/Linux) auf das Ausprobier-Linux zugreifen («user» durch effektiven Benutzernamen ersetzen): `ssh user@167.172.178.255`
+➡️ Via «Eingabeaufforderung» (Windows) oder «Terminal» (Mac/Linux) auf das Ausprobier-Linux zugreifen («user» durch effektiven Benutzernamen ersetzen): `ssh user@XXX.XXX.XXX.XXX`
 
 * 📺 Wie? [Windows](https://is.gd/sshwindows)
 * 📺 Wie? [Mac](https://is.gd/sshmac) (oder man kann direkt das Terminal verwenden)
 * [SSH Apps für Android](https://play.google.com/store/search?q=ssh&c=apps&hl=de) (oder man kann direkt [Termux](https://termux.com/) verwenden)
 * [SSH Apps für iOS](https://www.apple.com/de/search/ssh?src=serp)
-
-
 
 #### [10 Befehle vom PCWelt-Ratgeber](https://www.pcwelt.de/ratgeber/*Die_10_wichtigsten_Linux-Befehle_fuer_Einsteiger-Kommandozeile_alias_Terminal-8858519.html)
 1. Eingabefenster aufräumen: `clear`
@@ -374,22 +379,39 @@ Tabellen anzeigen
 
 #### Weitere Befehle
 
+* Anleitung eines Befehls anzeigen (manual):
+	* `man befehl`
+	* `yelp man:Befehl`
+	* [`curl cheat.sh/Befehl`](https://cheat.sh)
+	* `apropos <Schlüsselwort>` 
 * Ordner erstellen: `mkdir`
 * Ordner löschen: `rmdir`
 * Intuitiver Texteditor: `nano`
 * Mächtiger Texteditor: `vim` (Tutorial: `vimtutor`)
-* Überraschung: `cmatrix`
+* Überraschungen: `cmatrix` / `sl` / `xeyes`
 * SQLite: `sqlite3`
 * Youtube-Downloader: `youtube-dl`
-* Anleitung eines Befehls anzeigen (manual): `man befehl`
 * Etwas ausgeben: `echo daswasmanausgebenmöchte`
 * Inhalte mit Sonderzeichen und Leerschlägen: *mit Anführungs- und Schlusszeichen einrahmen*
 * Befehl beenden: Tastenkombination `ctrl``C`
 * Vergangene Befehle anzeigen: `history`
-* Autovervollständigen: `⇥`
+* Autovervollständigen: `⇥` / `⇥⇥`
+* Vergangene Befehle suchen: `Ctrl``R`
 * Prozesse anzeigen: `ps``
 * Prozess beenden: `kill Prozessnummer`
 * Prozess beenden: `killall`
+* Dateisystembelegung: `ncdu`
+* Software-Verwaltung (Debian): `sudo apt`... `update` / `upgrade` / `install Paketname` / `remove Paketname` / `clean` / `search Suchbegriff` / `show Paketname`
+* Konfiguration der Software-Verwaltung (Debian):
+	* `/etc/apt/sources.list`
+	* `/etc/apt/sources.list.d/`
+* Weitere Paketmanager, etc.:
+	* [RPM](https://de.wikipedia.org/wiki/RPM_Package_Manager) (Redhat, Fedora)
+	* [Pacman](https://wiki.archlinux.de/title/Pacman) (Arch, Manjaro)
+	* [Flatpak](https://de.wikipedia.org/wiki/Flatpak) / [Flathub](https://flathub.org/home)
+	* [Snap](https://wiki.ubuntuusers.de/snap/)
+	* [AppImage](https://de.wikipedia.org/wiki/AppImage)
+
 
 #### [GNU Emacs](https://www.gnu.org/software/emacs/)
 
@@ -398,6 +420,7 @@ Tabellen anzeigen
 * AI doctor: `emacs` + Tastenkombination `esc``x` + "doctor"
 * Tetris: `emacs` + Tastenkombination `esc``x` + "tetris"
 * Emacs beenden: Tastenkombination  `ctrl``x` + `ctrl``c`
+* [Real Programmers use ...](https://www.xkcd.com/378/)
 
 #### Noch mehr Befehle
 
@@ -444,7 +467,6 @@ Tabellen anzeigen
 * Webbrowser II: `elinks`, `w3m`, `lynx`, `links``
 * Downloadmanager: `wget`
 * Dienste & Ports: `cat /etc/services`
-
 
 ### Netzwerken mit RaspberryPi
 
