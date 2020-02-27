@@ -1,6 +1,6 @@
 ## 🐧 Linux
 
-⏮ [Zurück zur EFI Übersicht](/efi)
+⏮ [Zurück zur EFI Übersicht](/efi/)
 
 Zugriff auf die entfernte Linux-Kommandozeile (zurzeit inaktiv 💤)
 ➡️ Via «Eingabeaufforderung» (Windows) oder «Terminal» (Mac/Linux) auf das Ausprobier-Linux zugreifen («user» durch effektiven Benutzernamen ersetzen): `ssh user@XXX.XXX.XXX.XXX`

@@ -1,6 +1,7 @@
 # Tipps
 
 ⏭ [Medien & Informatik (1. & 2. Klasse 2020)](mi)
+
 ⏭ [Ergänzungsfach Informatik (5. & 6. Klasse 2020)](efi)
 
 ## 🎹 Emoji oder andere Spezial-Zeichen einfügen:
