@@ -1,8 +1,9 @@
-# Tipps
 
 ⏭ [Medien & Informatik (1. & 2. Klasse 2020)](mi)
 <br>
 ⏭ [Ergänzungsfach Informatik (5. & 6. Klasse 2020)](efi)
+
+# Tipps
 
 ## 🎹 Emoji oder andere Spezial-Zeichen einfügen:
 * Windows: `Windows` `.` oder [mehr Möglichkeiten](https://support.office.com/de-de/article/Einf%C3%BCgen-von-ASCII-und-Unicode-Symbolen-oder-Zeichen-westliche-Sprachen-d13f58d3-7bcb-44a7-a4d5-972ee12e50e0)
@@ -140,3 +141,6 @@
 
 ## 🛠 Hilfe bei Reparauren
 * [ifixit](https://www.ifixit.com)
+
+<hr>
+⏫ [Nach oben](#top)
