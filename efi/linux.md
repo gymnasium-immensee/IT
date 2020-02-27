@@ -118,3 +118,8 @@
 * Webbrowser II: `elinks`, `w3m`, `lynx`, `links``
 * Downloadmanager: `wget`
 * Dienste & Ports: `cat /etc/services`
+
+<hr>
+⏫ [Nach oben](#top)
+<br>
+⏮ [Zurück zur EFI Übersicht](../efi)
