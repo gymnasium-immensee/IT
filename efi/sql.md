@@ -156,7 +156,7 @@ WHERE Lebensmittel_Inhaltsstoff.Menge > 10 AND Inhaltsstoff.Name = 'Zucker (in g
 ORDER BY Lebensmittel_Inhaltsstoff.Menge DESC;
 ```
 
-### [sqlite3](https://sqlite.org)-Befehle
+### [sqlite](https://sqlite.org)-Befehle
 
 Programm starten (Windows)
 : [sqlite-tools-win32-x86-xxxxxxx.zip herunterladen](https://sqlite.org/download.html) > entzippen > sqlite3.exe öffnen
@@ -178,3 +178,8 @@ Datenbanken anzeigen
 
 Tabellen anzeigen
 : `.tables`
+
+<hr>
+⏫ [Nach oben](#top)
+<br>
+⏮ [Zurück zur EFI Übersicht](../efi)

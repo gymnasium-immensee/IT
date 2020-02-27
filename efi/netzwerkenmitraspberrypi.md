@@ -86,3 +86,8 @@ interface=wlan0
 
 `ip route show`
 `sudo ip route add 192.168.2.0/24 via 192.168.10.2`
+
+<hr>
+⏫ [Nach oben](#top)
+<br>
+⏮ [Zurück zur EFI Übersicht](../efi)

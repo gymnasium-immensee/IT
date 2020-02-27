@@ -53,3 +53,8 @@
     * password strength 123456
     * 255 in binary
     * 16 in hex
+
+<hr>
+⏫ [Nach oben](#top)
+<br>
+⏮ [Zurück zur EFI Übersicht](../efi)
