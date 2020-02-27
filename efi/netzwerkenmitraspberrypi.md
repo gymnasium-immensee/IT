@@ -1,6 +1,6 @@
 ## 🕸 Netzwerken mit RaspberryPi
 
-⏮ [Zurück zur EFI Übersicht](../)
+⏮ [Zurück zur EFI Übersicht](/)
 
 ### Vorbereitendes
 
