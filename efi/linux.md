@@ -2,9 +2,12 @@
 
 ⏮ [Zurück zur EFI Übersicht](../efi)
 
-Zugriff auf die entfernte Linux-Kommandozeile (zurzeit inaktiv 💤)
-➡️ Via «Eingabeaufforderung» (Windows) oder «Terminal» (Mac/Linux) auf das Ausprobier-Linux zugreifen («user» durch effektiven Benutzernamen ersetzen): `ssh user@XXX.XXX.XXX.XXX`
+### Zugriff auf die entfernte Linux-Kommandozeile
 
+* zurzeit inaktiv 💤
+* Via «Eingabeaufforderung» (Windows) oder «Terminal» (Mac/Linux):
+	* `ssh user@XXX.XXX.XXX.XXX`
+	* «user» durch effektiven Benutzernamen ersetzen
 * 📺 Wie? [Windows](https://is.gd/sshwindows)
 * 📺 Wie? [Mac](https://is.gd/sshmac) (oder man kann direkt das Terminal verwenden)
 * [SSH Apps für Android](https://play.google.com/store/search?q=ssh&c=apps&hl=de) (oder man kann direkt [Termux](https://termux.com/) verwenden)
