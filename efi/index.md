@@ -62,12 +62,12 @@
 
 # 💻☁️🌐 EFI – Computer – Daten – Netzwerke
 
-## 💡 [is.gd/it_tipps](http://is.gd/it_tipps)
+### 💡 [is.gd/it_tipps](http://is.gd/it_tipps)
 
-## [Computer & Daten](computer.md)
+### [Computer & Daten](computer.md)
 
-## [SQL](sql)
+### [SQL](sql)
 
-## [Linux](linux)
+### [Linux](linux)
 
-## [Netzwerken mit RaspberryPi](netzwerkenmitraspberrypi)
+### [Netzwerken mit RaspberryPi](netzwerkenmitraspberrypi)
