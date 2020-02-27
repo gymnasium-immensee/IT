@@ -2,7 +2,7 @@
 
 ⏮ [Zurück zur EFI Übersicht](../efi)
 
-### Zugriff auf die entfernte Linux-Kommandozeile
+### Zugriff auf den Linux-Server
 
 * zurzeit inaktiv 💤
 * Via «Eingabeaufforderung» (Windows) oder «Terminal» (Mac/Linux):
@@ -14,6 +14,7 @@
 * [SSH Apps für iOS](https://www.apple.com/de/search/ssh?src=serp)
 
 ### [10 Befehle vom PCWelt-Ratgeber](https://www.pcwelt.de/ratgeber/*Die_10_wichtigsten_Linux-Befehle_fuer_Einsteiger-Kommandozeile_alias_Terminal-8858519.html)
+
 1. Eingabefenster aufräumen: `clear`
 1. Wer bin ich: `whoami`
 1. Wo bin ich (print working directory): `pwd`
