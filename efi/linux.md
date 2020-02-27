@@ -2,7 +2,7 @@
 
 ⏮ [Zurück zur EFI Übersicht](../efi)
 
-### Zugriff auf den Linux-Server
+Zugriff auf den Linux-Server
 
 * zurzeit inaktiv 💤
 * Via «Eingabeaufforderung» (Windows) oder «Terminal» (Mac/Linux):
