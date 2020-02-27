@@ -1,7 +1,5 @@
 ## 🕸 Netzwerken mit RaspberryPi
 
-⏮ [Zurück zur EFI Übersicht](../efi)
-
 ### Vorbereitendes
 
 `sudo apt-get update`<br>

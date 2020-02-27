@@ -1,7 +1,5 @@
 ## 🐧 Linux
 
-⏮ [Zurück zur EFI Übersicht](../efi)
-
 ### Zugriff auf den Linux-Server
 
 * zurzeit inaktiv 💤

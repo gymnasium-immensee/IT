@@ -1,7 +1,5 @@
 ## 🖥 Computer & Daten
 
-⏮ [Zurück zur EFI Übersicht](../efi)
-
 ### 🎛 Hardware
 * [Werbeplakate am Zürich HB](https://www.tagesanzeiger.ch/zuerich/stadt/swisscom-lueftet-geheimnis-um-schwarze-boxen-am-hb-zuerich/story/29988994)
 * [geschwindigkeit.ch](https://www.geschwindigkeit.ch/)

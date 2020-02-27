@@ -194,3 +194,6 @@ Ich will fragen, ob wir am test ein backup machen müssen oder nur wissen wie es
 * [Windows](https://support.microsoft.com/de-ch/help/12445/windows-keyboard-shortcuts)
 * [Mac](https://support.apple.com/de-ch/HT201236)
 * [Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
+
+<hr>
+⏫ [Nach oben](#top)

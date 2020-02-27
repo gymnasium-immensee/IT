@@ -1,7 +1,5 @@
 ## ☁️ SQL
 
-⏮ [Zurück zur EFI Übersicht](../efi)
-
 ### Links
 
 * [Download DB Browser for SQLite](https://sqlitebrowser.org/dl/)
