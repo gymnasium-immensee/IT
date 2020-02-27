@@ -2,7 +2,7 @@
 
 ⏮ [Zurück zur EFI Übersicht](../efi)
 
-Zugriff auf den Linux-Server
+### Zugriff auf den Linux-Server
 
 * zurzeit inaktiv 💤
 * Via «Eingabeaufforderung» (Windows) oder «Terminal» (Mac/Linux):
@@ -93,10 +93,10 @@ Zugriff auf den Linux-Server
 
 ### Netzwerken
 
-➡️ [DNStools.ch](http://www.dnstools.ch) <br>
-➡️ [HowDNS.works](https://howdns.works) <br>
-➡️ [Filius](https://lernsoftware-filius.de/Herunterladen) <br>
-➡️ [Wireshark](https://www.wireshark.org) <br>
+👉 [DNStools.ch](http://www.dnstools.ch) <br>
+👉 [HowDNS.works](https://howdns.works) <br>
+👉 [Filius](https://lernsoftware-filius.de/Herunterladen) <br>
+👉 [Wireshark](https://www.wireshark.org) <br>
 
 * `ip link` / `ip l`: Netzwerkschnittstellen anzeigen (lo = loopback)
 * `ip neighbour` / `ip n`: ARP-Tabelle anzeigen (IP- und MAC-Adressen im Netzwerk)
