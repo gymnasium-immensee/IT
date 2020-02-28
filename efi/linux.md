@@ -13,7 +13,7 @@
 
 ### [10 Befehle vom PCWelt-Ratgeber](https://www.pcwelt.de/ratgeber/*Die_10_wichtigsten_Linux-Befehle_fuer_Einsteiger-Kommandozeile_alias_Terminal-8858519.html)
 
-1. Eingabefenster aufräumen: `clear`
+1. Eingabefenster aufräumen (nicht löschen): `clear`
 1. Wer bin ich: `whoami`
 1. Wo bin ich (print working directory): `pwd`
 1. Passwort ändern: `passwd`
@@ -42,13 +42,17 @@
 * Youtube-Downloader: `youtube-dl`
 * Etwas ausgeben: `echo daswasmanausgebenmöchte`
 * Inhalte mit Sonderzeichen und Leerschlägen: *mit Anführungs- und Schlusszeichen einrahmen*
-* Befehl beenden: Tastenkombination `ctrl``C`
-* Vergangene Befehle anzeigen: `history`
-* Autovervollständigen: `⇥` / `⇥⇥`
+* Befehl beenden: `ctrl``C`
+* Befehl im Hintergrund starten: `&`
+* Vergangene Befehle anzeigen: `history` / Pfeiltasten
+* Autovervollständigen: `⇥`
+* Autovervollständigungs-Übersicht: `⇥⇥`
 * Vergangene Befehle suchen: `Ctrl``R`
-* Prozesse anzeigen: `ps``
+* Prozesse anzeigen: `ps`
 * Prozess beenden: `kill Prozessnummer`
 * Prozess beenden: `killall`
+* Zugriffszeit auf File ändern, oder neu erstellen: `touch`
+* Zugriffsrechte ändern: `chown`, `chmod`
 * Dateisystembelegung: `ncdu`
 * Software-Verwaltung (Debian): `sudo apt`... `update` / `upgrade` / `install Paketname` / `remove Paketname` / `clean` / `search Suchbegriff` / `show Paketname`
 * Konfiguration der Software-Verwaltung (Debian):
@@ -65,6 +69,8 @@
 ### [GNU Emacs](https://www.gnu.org/software/emacs/)
 
 * Noch ein mächtiger Texteditor: `emacs`
+* «M» = `esc`
+* «C» = `ctrl`
 * Text adventure game: `emacs` + Tastenkombination `esc``x` + "dunnet"
 * AI doctor: `emacs` + Tastenkombination `esc``x` + "doctor"
 * Tetris: `emacs` + Tastenkombination `esc``x` + "tetris"
@@ -74,20 +80,29 @@
 ### Noch mehr Befehle
 
 * Andere Shell starten: z.B. `sh` / `csh` / `ksh` / `dash` / `zsh`
+* Shell verlassen: `exit` oder `ctrl``D`
 * Welche Shell läuft aktuell? `echo $0`
 * Welche Shells sind installiert? `cat /etc/shells`
+* Standard-Shell definieren in `/etc/passwd` oder mit `chsh`
+* Neues Terminal starten, z.B. `xterm`
+* `find`: sucht überall
 * `more`: seitenweise Ausgabe und Suche
-* `less`: wie more nur mehr
+* `less`: wie more nur mehr (raus mit `q`; sucht mit `/`)
 * `head`: Ausgabe der ersten Zeilen
 * `tail`: Ausgabe der letzten Zeilen
 * `sort`: sortieren
 * `wc`: Zählen von Wörtern, Zeilen, usw.
 * `grep`: filtern nach regulären Ausdrücken
 * `date`: Anzeige von Datum und Uhrzeit
-* Pipelining `|`: Ausgabe des ersten Befehls wird als Eingabe des zwenten verwwendet, z.B. `ls /etc/ | more` / `ls /etc/ | sort -r | more` / `last | grep root`
+* Pipelining `|`: Ausgabe des ersten Befehls wird als Eingabe des zweiten verwendet, z.B. `ls /etc/ | more` / `ls /etc/ | sort -r | more` / `last | grep root`
 * `*`: Platzhalter für  beliebige Zeichenfolge
 * `?`: Platzhalter für genau ein beliebiges Zeichen
+* `[]`: Bereich
+* `!`: verneint
 * `\`: «escaped» das nachfolgende Spezialzeichen (z.B. Leerzeichen, Fragezeichen, etc.)
+* `;`: mehrere Befehle hintereinander
+* `"text"`: «text» wird als Text interpretiert, ausser Variablen wie z.B. $HOME (? `/home/user`) 
+* `'text'`: «text» wird voll als Text interpretiert
 
 ### Netzwerken
 
@@ -115,7 +130,12 @@
 * Bonus: `telnet towel.blinkenlights.nl`
 * Webbrowser II: `elinks`, `w3m`, `lynx`, `links``
 * Downloadmanager: `wget`
+* Entfernte shell: `ssh`
+* Dateien Kopieren: `scp`
 * Dienste & Ports: `cat /etc/services`
+
+#### Statistik zu den WLAN-Verbindungen anzeigen unter Windows
+`netsh wlan show all`
 
 <hr>
 ⏫ [Nach oben](#top)
