@@ -19,10 +19,11 @@
         <!-- Navigation -->
         <nav>
             <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Projekt</a></li>
-                <li><a href="#">Team</a></li>
-                <li><a href="#">Kontakt</a></li>
+                <li><a href="#h1titel">#h1titel</a></li>
+                <li><a href="#tabelle">#tabelle</a></li>
+                <li><a href="#rezept">#rezept</a></li>
+                <li><a href="#links">#links</a></li>
+
             </ul>
         </nav>
 
@@ -30,7 +31,7 @@
         <main>
             <article>
                 <div class="content">
-                    <h1>H1 Titel</h1> <!-- das ist ein H1 Titel-->
+                    <h1 id=h1titel>H1 Titel</h1> <!-- das ist ein H1 Titel-->
                     <p><a href="https://is.gd/efinformatik">👉 is.gd/efinformatik</a></p>
                     <h2>H2 Titel</h2>
                     <p>
@@ -44,12 +45,10 @@
                     </p>
 
                     <p>
-                        <!-- ein interner Link -->
-                        <a href="#linktarget">weiter zum nächsten "H2 Titel"</a>
-                    </p>
-
-                    <p>
-                        <img src="images/monkey.jpg" alt="This is a monkey" width=100%/>
+                        <a href="https://en.wikipedia.org/wiki/Capuchin_monkey#/media/File:Capuchin_Costa_Rica.jpg">
+                            <img src="images/monkey.jpg" alt="Bild von David M. Jensen (Storkk); klicke auf das Bild, um zum Original zu gelangen" width=100%/>
+                        </a>
+                        
                     </p>
 
                     <h3>H3 Titel</h3>
@@ -59,12 +58,52 @@
                     <p>
                         Donec ut librero sed accu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aenean ut gravida lorem. Ut turpis felis, pulvinar a semper sed, adipiscing id dolor.
                     </p>
+
+                    <h3 id="tabelle">Eine Tabelle</h3>
+
+                    <table border="1" width="100%" cellpadding="5" cellspacing="5">
+                        <tr>
+                            <th>Panama-Kapuzineraffe</th>
+                            <th>Gorilla</th>
+                            <th>Schimpanse</th>
+                            <th>Mensch</th>
+                        </tr>
+                        <tr>
+                            <td colspan="4">Anthropoidea</td>
+                        </tr>
+                        <tr>
+                            <td>Platyrrhini</td>
+                            <td colspan="3">Catarrhini</td>
+                        </tr>
+                        <tr>
+                            <td>Cebidae</td>
+                            <td colspan="3">Hominidae</td>
+                        </tr>
+                        <tr>
+                            <td>Cebus</td>
+                            <td>Gorilla</td>
+                            <td>Pan</td>
+                            <td>Homo</td>
+                        </tr>
+                        <tr>
+                            <td>imitator</td>
+                            <td>gorilla</td>
+                            <td>troglodytes</td>
+                            <td>sapiens</td>
+                        </tr>
+                    </table>
+
+                    <h3>iFrames</h3>
+                    <iframe width=100% height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=8.570998907089235%2C47.38392426105039%2C8.58136296272278%2C47.38852236673858&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=17/47.38622/8.57618">View Larger Map</a></small>
+
+                    <p>⏫ <a href="#top">nach oben</a></p>
+
                 </div>
                 <aside class="related">
-                    <h2 id="linktarget">H2 Titel</h2>
+                    <h2 id="rezept">H2 Titel</h2>
                     
                     <p>noch ein Paragraph, mit einigen Beispielen:</p>
-                    <h3>Ein leckers Rezept</h3>
+                    <h3>Ein leckeres Rezept</h3>
 
                     <ol>
                     <li>Schälen Sie den Knoblauch und hacken ihn in grobe Stücke.</li>
@@ -225,25 +264,32 @@
                             window.alert("Hello World, its " + Date())
                         </code>
                     </p>
-                    
+            
 
                 </aside>
             </article>
 
             <!-- Zusatzinfos neben dem Hauptinhalt -->
             <aside class="sidebar">
-                <h3>Übrigens</h3>
-                <ul>
-                    <li><a href="#">A</a></li>
-                    <li><a href="#">B</a></li>
-                    <li><a href="#">C</a></li>
-                    <li><a href="#">D</a></li>
-                    <li><a href="#">E</a></li>
-                </ul>
+                <h2 id="links">Links</h2>
+                <h3>MozillaDeveloperNetwork web docs</h3>
+                    <ul>
+                        <li><a href="https://developer.mozilla.org/de/docs/Learn/Getting_started_with_the_web/dateien_nutzen">Dateien nutzen</a></li>
+                        <li><a href="https://developer.mozilla.org/de/docs/Learn/HTML">HTML-Tutorial</a></li>
+                        <li><a href="https://developer.mozilla.org/de/docs/Learn/CSS">CSS-Tutorial</a></li>
+                        <li><a href="https://developer.mozilla.org/de/docs/Learn/JavaScript">JavaScript-Tutorial</a></li>
+                        <li><a href="https://developer.mozilla.org/de/docs/Web/Reference">Referenz</a></li>
+                    </ul>
+                <h3>Weitere Links</h3>
+                    <ul>
+                        <li><a href="https://www.w3schools.com">w3schools</a></li>
+                        <li><a href="https://jsfiddle.net">JS Fiddle</a></li>
+                    </ul>
             </aside>
         </main>
         <footer>
-            <p>This is it.</p>
+            <p>This is it. ⏫ <a href="#top">Nach oben.</a></p>
+
         </footer>
     </div>
 
