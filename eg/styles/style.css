@@ -194,7 +194,7 @@ p::first-letter {
   font-size:large;
 }
 
-article a::before {
+article, aside a::before {
   content: "👉 ";
 }
 
