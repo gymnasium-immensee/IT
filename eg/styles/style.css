@@ -188,16 +188,15 @@ span.leuchtstift {
   background-color: yellow;
 }
 
-/* einige Pseudo-Elemente */
+/* Pseudo-Elemete */
 
 p::first-letter {
   font-size:large;
 }
 
-article, aside a::before {
+a[href*="http"]::before {
   content: "👉 ";
 }
-
 
 *::selection {
   background-color: gold;
