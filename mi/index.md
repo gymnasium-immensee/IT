@@ -74,7 +74,7 @@
 ## 🗂 Ordnerstruktur des eigenen Computers entdecken
 * [Wo liegt eigentlich der «Schreibtisch»? (Screencast)](https://is.gd/woliegtderschreibtisch)
 * Erstelle von den wichtigsten Ordnern deines Computers ein Baumdiagramm 🌳. Beginne bei «Dieser PC» (Windows) oder «Macintosh HD» (Mac) oder der [App «Dateien» (iOS)](https://apps.apple.com/ch/app/file/id1232058109).
-* [ ] Erstelle gleichzeitig von deinem Bildschirm ein Video:
+* Erstelle gleichzeitig von deinem Bildschirm ein Video:
 
 ## 📹 Bildschirmaufzeichnung erstellen
 * Windows: Mit der [Xbox Game Bar](https://support.xbox.com/de-ch/xbox-on-windows/social/record-game-clips-game-bar-windows-10) oder einem Programm wie z.B. [Screenpresso](https://screenpresso.com)
@@ -93,7 +93,6 @@
 ## ☁️ Teams-Dateien mit dem eigenen Computer synchronisieren
 1. [«OneDrive» installieren](https://onedrive.live.com/about/de-ch/download/): [Wie?](https://is.gd/onedrivewin)
 1. Im gewünschten Teams zum Reiter «Dateien» / «Files» gehen
-1. «In Sharepoint öffnen» klicken
 1. «Sync» klicken
 1. Gewünschte Ordner wählen: [Windows](https://support.office.com/de-de/article/synchronisieren-von-sharepoint-dateien-mit-dem-neuen-onedrive-synchronisierungsclient-6de9ede8-5b6e-4503-80b2-6190f3354a88) / [Mac](https://support.office.com/de-de/article/synchronisieren-von-dateien-mit-dem-onedrive-synchronisierungsclient-unter-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f)
 
