@@ -52,7 +52,7 @@
 	* [Positionierung](https://medium.freecodecamp.org/how-to-use-the-position-property-in-css-to-align-elements-d8f49c403a26)
 	* [`calc()`](https://developer.mozilla.org/en-US/docs/Web/CSS/calc)
 	* [Erweiterte Schriftarten](https://developer.mozilla.org/de/docs/Learn/CSS/Styling_text/Web_fonts)
-	* Spannende Properties: `writing-mode`, `text-shadow`, `overflow`, `object-fit`, `display`
+	* Spannende Properties: `writing-mode`, `text-shadow`, `overflow`, `object-fit`, `display`, `transform`, `animation`
 	* [Viewport Sized Typography](https://css-tricks.com/viewport-sized-typography/)
 	* [Gradients](https://cssgradient.io)
 	* [CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout), insbesondere [CSS Grid](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
