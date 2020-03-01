@@ -70,15 +70,11 @@ nav a:hover {
   background-color: rgba(9, 248, 133, 0.7);
 }
 
-
-
 /* id="xy" nur einmal verwenden, sonst class="xy" verwenden;
   * Durch Komma getrennte Items können gemeinsam gestyled werden */
 
-
 #h1titel, #tabelle, #rezept, #links {
-
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(46, 78, 78);
 }
 
 /* Bild sowie Bildunterschrift zentrieren, etc. */
@@ -98,20 +94,17 @@ img, #bildunterschrift {
   right: 0px;
   text-decoration: none;
   font-size: smaller;
-
 }
 
 /* span kann einige Elemente "inline" ansprechen; */
 
 span {
-
   font-weight: bolder;
 }
 
-  /* Spricht class="leuchtstift" im Zusammenhang von spans an an */
+/* Spricht class="leuchtstift" im Zusammenhang von spans an an */
 
 span.leuchtstift {
-
   background-color: fuchsia;
   color: white;
 }
@@ -119,11 +112,10 @@ span.leuchtstift {
 /* Spricht class="leuchtstift" generell an */
 
 .leuchtstift {
-
   background-color: yellow;
 }
 
-/* Pseudo-Elemete */
+/* Einige Pseudo-Elemete */
 
 p::first-letter {
   font-size:large;
