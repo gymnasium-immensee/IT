@@ -118,7 +118,9 @@ span.leuchtstift {
 /* Einige Pseudo-Elemete */
 
 p::first-letter {
-  font-size:large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: large;
+  font-style: italic;
 }
 
 a[href*="http"]::before {
