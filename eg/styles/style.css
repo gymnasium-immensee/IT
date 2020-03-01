@@ -6,8 +6,10 @@ body {
   width: 90%;
   margin: 2em auto;
   font: 1em/1.3 Arial, Helvetica, sans-serif;
-  background-color: lightcyan;
+  background: linear-gradient(90deg, rgba(224,255,255,1) 0%, rgba(150,255,255,1) 100%);
 
+
+  
   /* Infos zu Farben:
       * in VisualStudioCode über den Farbnamen hoveren & auswählen
       * https://www.w3schools.com/colors/colors_picker.asp

@@ -3,6 +3,7 @@
 ## Inspektor/Dev Tools bei Browsern öffnen
 * Windows & Linux: `ctrl` `⇧` `i`
 * Mac: `⌘` `⌥` `i`
+* Für Inspiration, oder um [CSS zu debuggen](https://developer.mozilla.org/de/docs/Learn/CSS/Building_blocks/Debugging_CSS)
 
 ## Erste Schritte
 
@@ -48,11 +49,15 @@
 ## Benchmark 2️⃣
 
 * Fancier CSS (responsive, etc.). Tipps:
-	* [Strukturierung mit `<div></div>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
 	* [Positionierung](https://medium.freecodecamp.org/how-to-use-the-position-property-in-css-to-align-elements-d8f49c403a26)
-* Multiple favicons
+	* [`calc()`](https://developer.mozilla.org/en-US/docs/Web/CSS/calc)
+	* [Erweiterte Schriftarten](https://developer.mozilla.org/de/docs/Learn/CSS/Styling_text/Web_fonts)
+	* Spannende Properties: `writing-mode`, `text-shadow`, `overflow`, `object-fit`, `display`
+	* [Viewport Sized Typography](https://css-tricks.com/viewport-sized-typography/)
+	* [Gradients](https://cssgradient.io)
+	* [CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout), insbesondere [CSS Grid](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
+* [Multiple favicons](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
 * Finalized content
-* (Details folgen)
 
 ## Benchmark 3️⃣
 
