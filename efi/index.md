@@ -26,6 +26,7 @@
 	* [Referenz](https://developer.mozilla.org/de/docs/Web/Reference)
 * [w3schools](https://www.w3schools.com)
 * [JS Fiddle](https://jsfiddle.net)
+* [CSS-Tricks Almanac](https://css-tricks.com/almanac/)
 
 ## Benchmark 1️⃣
 
