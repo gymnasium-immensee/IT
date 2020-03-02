@@ -51,12 +51,13 @@
 
 * Finalized content
 * [Multiple favicons](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
-* Fancier CSS (responsive, etc.). Tipps:
+* Fancier CSS ([responsive](https://internetingishard.com/html-and-css/responsive-design/), etc.). Tipps:
 	* [Positionierung](https://medium.freecodecamp.org/how-to-use-the-position-property-in-css-to-align-elements-d8f49c403a26)
 	* [`calc()`](https://developer.mozilla.org/en-US/docs/Web/CSS/calc)
 	* [Erweiterte Schriftarten](https://developer.mozilla.org/de/docs/Learn/CSS/Styling_text/Web_fonts)
 	* [Viewport Sized Typography](https://css-tricks.com/viewport-sized-typography/)
 	* [Gradients](https://cssgradient.io)
+	* [Icons, z.B. FontAwesome](https://www.w3schools.com/icons/fontawesome5_intro.asp)
 	* Spannende Properties: `writing-mode`, `text-shadow`, `overflow`, `object-fit`, `display`, `transform`, `animation`
 	* [CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout), insbesondere [CSS Grid](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
 

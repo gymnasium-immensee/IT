@@ -110,6 +110,11 @@
 👉 [HowDNS.works](https://howdns.works) <br>
 👉 [Filius](https://lernsoftware-filius.de/Herunterladen) <br>
 👉 [Wireshark](https://www.wireshark.org) <br>
+👉 [Dev.Opera: HTTP Intro](https://dev.opera.com/articles/http-basic-introduction/) <br>
+👉 [Dev.Opera: HTTP GET](https://dev.opera.com/articles/http-lets-get-it-on/) <br>
+👉 [Dev.Opera: HTTP: Response Codes](https://dev.opera.com/articles/http-response-codes/) <br>
+👉 [Dev.Opera: HTTP: Response Codes](https://www.youtube.com/watch?v=7_LPdttKXPc&app=desktop) <br>
+
 
 * `ip link` / `ip l`: Netzwerkschnittstellen anzeigen (lo = loopback)
 * `ip neighbour` / `ip n`: ARP-Tabelle anzeigen (IP- und MAC-Adressen im Netzwerk)
@@ -136,6 +141,8 @@
 
 #### Statistik zu den WLAN-Verbindungen anzeigen unter Windows
 `netsh wlan show all`
+
+
 
 <hr>
 ⏫ [Nach oben](#top)
